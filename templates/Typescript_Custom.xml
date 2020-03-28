@@ -1,0 +1,25 @@
+<templateSet group="Typescript_Custom">
+  <template name="f" value="($ARGS$) =&gt; {$END$}&#10;" description="Arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="t" value="$Question$ ? $OnTrue$ : $OnFalse$" description="Ternary operator" toReformat="false" toShortenFQNames="true">
+    <variable name="Question" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OnTrue" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OnFalse" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="def" value="default: {&#10;    unreachable($variable$);&#10;&#10;    throw new Error('Unreachable code');&#10;}" description="Default value for a switch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
