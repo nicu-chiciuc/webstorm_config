@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="Tool_External Tools_emacs">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
