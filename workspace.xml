@@ -2,5 +2,14 @@
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
   </component>
 </application>
