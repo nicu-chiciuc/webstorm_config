@@ -41,6 +41,7 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
         </PlaceSettings>
       </entry>
