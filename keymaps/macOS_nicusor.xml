@@ -25,7 +25,9 @@
   </action>
   <action id="ReformatCode" />
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SaveAll" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
