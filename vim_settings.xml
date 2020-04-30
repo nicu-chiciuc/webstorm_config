@@ -104,10 +104,10 @@
         <mark key="." line="150" column="59" />
         <mark key="^" line="150" column="59" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1588235419831">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1588235923211">
+        <mark key="[" line="454" column="0" />
+        <mark key="]" line="454" column="0" />
+        <mark key="." line="454" column="0" />
         <mark key="^" line="77" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" timestamp="1588235202743" />
@@ -299,7 +299,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdpZjogR2lmQ29udGFpbmVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -406,7 +406,7 @@
         <text encoding="base64">ICAgICAgY29uc3Qga2V5ID0gYHZpZGVvXyR7dXJsfWA7Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdpZjogR2lmQ29udGFpbmVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGdpZjogR2lmQ29udGFpbmVyLAo=</text>
@@ -415,10 +415,10 @@
         <text encoding="base64">ICAgIGdpZjogR2lmQ29udGFpbmVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnaWY/OiB0eXBlb2YgR2lmQ29udGFpbmVyOwo=</text>
+        <text encoding="base64">ICAgIGdpZjogR2lmQ29udGFpbmVyLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICBnaWY/OiB0eXBlb2YgR2lmQ29udGFpbmVyOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -427,16 +427,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICgK</text>
+        <text encoding="base64">ICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIEVsZW1lbnRzCiAgICBjb25zdCBDb250YWluZXJWaWRlb1BsYXllciA9ICgpID0+IHsKICAgICAgcmV0dXJuICgKICAgICAgICA8VmlkZW9QbGF5ZXIKICAgICAgICAgIGtleT17YHZpZGVvXyR7dXJsfWB9CiAgICAgICAgICByZWY9eyhjOiBWaWRlb1BsYXllcikgPT4gewogICAgICAgICAgICB0aGlzLnZpZGVvUGxheWVyID0gYzsKICAgICAgICAgIH19CiAgICAgICAgICBsb29wPXt0aGlzLnByb3BzLnR5cGUgIT09ICdsaW5rZWRpbid9CiAgICAgICAgICBtYXliZU1ldGE9e2FjdHVhbE1ldGF9CiAgICAgICAgICBza2luPXt0aGlzLnByb3BzLnR5cGV9CiAgICAgICAgICBzb3VyY2U9e3VybH0KICAgICAgICAgIGdldFBhcmVudFdpZHRoPXtwYXJlbnRXaWR0aH0KICAgICAgICAgIG1heEhlaWdodD17NTAwfQogICAgICAgICAgdHlwZT17dmlkZW8udHlwZX0KICAgICAgICAgIG9mZnNldD17J29mZnNldCcgaW4gdmlkZW8gPyB2aWRlby5vZmZzZXQgOiB1bmRlZmluZWR9CiAgICAgICAgICBwb3N0ZXI9e3Bvc3RlclVybH0KICAgICAgICAvPgogICAgICApOwogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENvbnRhaW5lclZpZGVvUGxheWVyID0gKHZpZGVvUG9zdGVyVXJsOiBzdHJpbmcpID0+IHsK</text>
+        <text encoding="base64">ICAgIC8vIEVsZW1lbnRzCiAgICBjb25zdCBDb250YWluZXJWaWRlb1BsYXllciA9ICgpID0+IHsKICAgICAgcmV0dXJuICgKICAgICAgICA8VmlkZW9QbGF5ZXIKICAgICAgICAgIGtleT17YHZpZGVvXyR7dXJsfWB9CiAgICAgICAgICByZWY9eyhjOiBWaWRlb1BsYXllcikgPT4gewogICAgICAgICAgICB0aGlzLnZpZGVvUGxheWVyID0gYzsKICAgICAgICAgIH19CiAgICAgICAgICBsb29wPXt0aGlzLnByb3BzLnR5cGUgIT09ICdsaW5rZWRpbid9CiAgICAgICAgICBtYXliZU1ldGE9e2FjdHVhbE1ldGF9CiAgICAgICAgICBza2luPXt0aGlzLnByb3BzLnR5cGV9CiAgICAgICAgICBzb3VyY2U9e3VybH0KICAgICAgICAgIGdldFBhcmVudFdpZHRoPXtwYXJlbnRXaWR0aH0KICAgICAgICAgIG1heEhlaWdodD17NTAwfQogICAgICAgICAgdHlwZT17dmlkZW8udHlwZX0KICAgICAgICAgIG9mZnNldD17J29mZnNldCcgaW4gdmlkZW8gPyB2aWRlby5vZmZzZXQgOiB1bmRlZmluZWR9CiAgICAgICAgICBwb3N0ZXI9e3Bvc3RlclVybH0KICAgICAgICAvPgogICAgICApOwogICAgfTsK</text>
       </register>
     </registers>
   </component>
