@@ -141,11 +141,12 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" timestamp="1588586762468">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" timestamp="1588590302301">
         <mark key="'" line="349" column="39" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/shared/LazyLoadModals/index.tsx" timestamp="1588153987689">
         <mark key="'" line="5" column="2" />
@@ -271,8 +272,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHZpZGVvIH0gPSB0aGlzLnByb3BzOwogICAgICAgIGlmICghKHZpZGVvICYmIChpc09sZFZpZGVvVHlwZSh2aWRlbykgfHwgdmlkZW8ubWVkaWFTdGF0dXMgPT09ICdzdWNjZXNzJykpKSByZXR1cm47CgogICAgICAgIGNvbnN0IHVybFMzID0gZnJvbUNsb3VkRnJvbnRUb0F3c1VybCh2aWRlby51cmwpOwoKICAgICAgICBjb25zdCBnZW5lcmF0ZUZyb21VcmwgPSAoY3VycmVudFVybDogc3RyaW5nKSA9PiBnZW5lcmF0ZUltZ0FycmF5V2l0aENvdW50KGN1cnJlbnRVcmwsIHZpZGVvLm5hbWUgfHwgJycsIDEwKTsKCiAgICAgICAgZ2VuZXJhdGVGcm9tVXJsKHZpZGVvLnVybCkKICAgICAgICAgIC5jYXRjaCgoKSA9PiBnZW5lcmF0ZUZyb21VcmwodXJsUzMpKQogICAgICAgICAgLmNhdGNoKCgpID0+IGdlbmVyYXRlRnJvbVVybChgJHt1cmxTM30/JHtSYW5kb20uaWQoKX1gKSkKCiAgICAgICAgICAudGhlbih0aGlzLmhhbmRsZVNldFZpZGVvVGh1bWJuYWlscykKICAgICAgICAgIC5jYXRjaCh0aGlzLmhhbmRsZVRodW1ibmFpbExvYWRFcnJvcik7CiAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>mediaStatus</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -350,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mediaStatus</text>
       </register>
       <register name="m" type="4">
         <keys>
