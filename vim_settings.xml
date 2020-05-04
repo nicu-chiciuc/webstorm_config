@@ -99,7 +99,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1588588155892" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/PostFeed/PostItem/index.js" timestamp="1588579627861">
         <mark key="'" line="14" column="24" />
         <mark key="[" line="73" column="6" />
@@ -124,7 +123,7 @@
         <mark key="^" line="59" column="49" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588593951207">
+      <file name="/GraphQL.result.json" timestamp="1588595165653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/utils/useUpdateRef.tsx" timestamp="1588579458862">
@@ -133,7 +132,6 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/types.ts" timestamp="1588594053135" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/video.ts" timestamp="1588585314330">
         <mark key="[" line="162" column="3" />
       </file>
@@ -143,7 +141,6 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/.build/interfaces/processing.js" timestamp="1588593847837" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" timestamp="1588590302301">
         <mark key="'" line="349" column="39" />
         <mark key="[" line="40" column="18" />
@@ -154,11 +151,11 @@
       <file name="/JavaScript Console" timestamp="1588594549968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588594988798">
-        <mark key="[" line="29" column="60" />
-        <mark key="]" line="29" column="60" />
-        <mark key="^" line="29" column="77" />
-        <mark key="." line="29" column="60" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588595340073">
+        <mark key="[" line="53" column="78" />
+        <mark key="]" line="54" column="6" />
+        <mark key="^" line="54" column="6" />
+        <mark key="." line="54" column="5" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588594024428">
         <mark key="'" line="0" column="0" />
@@ -173,6 +170,11 @@
         <mark key="]" line="50" column="67" />
         <mark key="^" line="50" column="67" />
         <mark key="." line="50" column="66" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1588595415479">
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="67" column="13" />
+        <mark key="." line="67" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -281,7 +283,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>Url</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -359,7 +361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>Url</text>
       </register>
       <register name="m" type="4">
         <keys>
