@@ -19,6 +19,7 @@
         <entry>@planable</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>useRef</entry>
+        <entry>transcoder</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -111,13 +112,19 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" timestamp="1588594709211">
+        <mark key="[" line="202" column="8" />
+        <mark key="]" line="202" column="27" />
+        <mark key="^" line="202" column="27" />
+        <mark key="." line="202" column="26" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" timestamp="1588587347204">
         <mark key="[" line="59" column="24" />
         <mark key="]" line="59" column="49" />
         <mark key="^" line="59" column="49" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588585298061">
+      <file name="/GraphQL.result.json" timestamp="1588593951207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/utils/useUpdateRef.tsx" timestamp="1588579458862">
@@ -126,6 +133,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/types.ts" timestamp="1588594053135" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/video.ts" timestamp="1588585314330">
         <mark key="[" line="162" column="3" />
       </file>
@@ -135,12 +143,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/LazyMediaLightbox.tsx" timestamp="1588154011547">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/.build/interfaces/processing.js" timestamp="1588593847837" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" timestamp="1588590302301">
         <mark key="'" line="349" column="39" />
         <mark key="[" line="40" column="18" />
@@ -148,21 +151,17 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588591809028">
+      <file name="/JavaScript Console" timestamp="1588594549968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588592030191">
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="30" />
-        <mark key="^" line="49" column="30" />
-        <mark key="." line="49" column="29" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588594988798">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="77" />
+        <mark key="." line="29" column="60" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/shared/LazyLoadModals/index.tsx" timestamp="1588153987689">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588594024428">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayer.tsx" timestamp="1588156517734">
         <mark key="[" line="46" column="8" />
@@ -177,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" />
       <jump line="25" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" />
       <jump line="379" column="91" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" />
       <jump line="413" column="46" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" />
@@ -277,12 +275,13 @@
       <jump line="305" column="60" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="307" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="310" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -360,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -383,7 +382,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>useRef</text>
+        <text>transcoder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB7IHZpZGVvIH0gPSB0aGlzLnByb3BzOwogICAgICAgIGlmICghKHZpZGVvICYmIChpc09sZFZpZGVvVHlwZSh2aWRlbykgfHwgdmlkZW8ubWVkaWFTdGF0dXMgPT09ICdzdWNjZXNzJykpKSByZXR1cm47CgogICAgICAgIGNvbnN0IHVybFMzID0gZnJvbUNsb3VkRnJvbnRUb0F3c1VybCh2aWRlby51cmwpOwoKICAgICAgICBjb25zdCBnZW5lcmF0ZUZyb21VcmwgPSAoY3VycmVudFVybDogc3RyaW5nKSA9PiBnZW5lcmF0ZUltZ0FycmF5V2l0aENvdW50KGN1cnJlbnRVcmwsIHZpZGVvLm5hbWUgfHwgJycsIDEwKTsKCiAgICAgICAgZ2VuZXJhdGVGcm9tVXJsKHZpZGVvLnVybCkKICAgICAgICAgIC5jYXRjaCgoKSA9PiBnZW5lcmF0ZUZyb21VcmwodXJsUzMpKQogICAgICAgICAgLmNhdGNoKCgpID0+IGdlbmVyYXRlRnJvbVVybChgJHt1cmxTM30/JHtSYW5kb20uaWQoKX1gKSkKCiAgICAgICAgICAudGhlbih0aGlzLmhhbmRsZVNldFZpZGVvVGh1bWJuYWlscykKICAgICAgICAgIC5jYXRjaCh0aGlzLmhhbmRsZVRodW1ibmFpbExvYWRFcnJvcik7CiAgICAgIH0pOwo=</text>
@@ -425,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>useRef</last-search>
+      <last-search>transcoder</last-search>
       <last-offset />
-      <last-pattern>useRef</last-pattern>
+      <last-pattern>transcoder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
