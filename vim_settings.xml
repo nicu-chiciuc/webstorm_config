@@ -105,10 +105,18 @@
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1588669836035">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalConsumer.tsx" timestamp="1588673297621">
+        <mark key="'" line="353" column="14" />
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="30" />
+        <mark key="^" line="61" column="30" />
+        <mark key="." line="61" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/PostFeed/CommentBox/TextArea.js" timestamp="1588672940849" />
       <file name="/JavaScript Console" timestamp="1588669895162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588669786704">
+      <file name="/GraphQL.result.json" timestamp="1588671987052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588669863088">
@@ -120,11 +128,14 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588668819183">
         <mark key="'" line="430" column="12" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalProvider.tsx" timestamp="1588672767763">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/node_modules/react-navigation/typescript/react-navigation.d.ts" timestamp="1588672826564" />
     </filemarks>
     <jumps>
-      <jump line="208" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Story/StoryConsumer.js" />
-      <jump line="178" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Posts/withInstagramShare/index.js" />
-      <jump line="183" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Posts/withInstagramShare/index.js" />
       <jump line="132" column="36" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/.eslintrc" />
       <jump line="117" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/.eslintrc" />
       <jump line="10" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/App.js" />
@@ -222,12 +233,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/containers/PostContainer.tsx" />
       <jump line="74" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/containers/PostContainer.tsx" />
       <jump line="430" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/containers/PostContainer.tsx" />
+      <jump line="141" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalConsumer.tsx" />
+      <jump line="719" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalConsumer.tsx" />
+      <jump line="351" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalConsumer.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2lkZSBQb3N0cy5wcm9jZXNzLnZpZGVvJywgeyB1cmwsIG9mZnNldCB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>recordUrlText</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -305,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>mediaStatus</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -330,23 +344,27 @@
       <register name="/" type="4">
         <text encoding="base64">PFBvc3Q=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gY3JlYXRlSm9iUHJvbWlzZShlbGFzdGljVHJhbnNjb2RlciwgcGFyYW1zKQo=</text>
+      <register name="0" type="4">
+        <text>recordUrlText</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2lkZSBQb3N0cy5wcm9jZXNzLnZpZGVvJywgeyB1cmwsIG9mZnNldCB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dElucHV0IH0gZnJvbSAncmVhY3QtbmF0aXZlLWdlc3R1cmUtaGFuZGxlcic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRhLmZyb20gPT09ICdzcXMnKSB7CiAgICAgIHJldHVybiBkYXRhLnJlc3BvbnNlLnVzZXJNZXRhZGF0YTsKICAgIH0KICAgIHJldHVybiBkYXRhLnJlc3BvbnNlLlVzZXJNZXRhZGF0YTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVpdGhlclRocm93PFJpZ2h0LCBMZWZ0PihlaXRoZXI6IEVpdGhlcjw+KTsK</text>
+        <text encoding="base64">Y2xhc3MgTmF2aWdhdGlvblNjcmVlblByb3Agewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5wbSBydW4gdHM6cnVuCg==</text>
+      <register name="4" type="8">
+        <text>this
+this
+this
+this
+this</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYnMgPSBSZWFjdC5jcmVhdGVSZWYoKTsKICAgIHRoaXMucG9zdElucHV0UmVmID0gUmVhY3QuY3JlYXRlUmVmKCk7CiAgICB0aGlzLnVybEJveFJlZiA9IFJlYWN0LmNyZWF0ZVJlZigpOwogICAgdGhpcy5zaG93TWVkaWFUb2FzdCA9IHRydWU7CiAgICB0aGlzLmRlbW9Xb3Jrc3BhY2UgPSAnRGVtbyBXb3Jrc3BhY2UnOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -355,16 +373,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZXdQb3N0Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsK</text>
+        <text encoding="base64">ICAgICAgKHsgdGltZXpvbmUgfSA9IHdvcmtzcGFjZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRXb3Jrc3BhY2VJZDogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">ICAgIGlmICh3b3Jrc3BhY2UgJiYgd29ya3NwYWNlLnRpbWV6b25lKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRQYWdlSWQ6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRpbWV6b25lID0gcHJvcHMud29rc3BhY2U/LnRpbWV6b25lID8/IG51bGw7Cg==</text>
       </register>
     </registers>
   </component>
