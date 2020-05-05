@@ -108,16 +108,8 @@
         <mark key="^" line="239" column="12" />
         <mark key="." line="233" column="71" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/MediaLibrary/MediaList.tsx" timestamp="1588602914182" />
-      <file name="/GraphQL.result.json" timestamp="1588602831363">
+      <file name="/GraphQL.result.json" timestamp="1588663388906">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/state/configureStore.js" timestamp="1588603583929" />
-      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/typesIO.ts" timestamp="1588597010854">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/package.json" timestamp="1588603223970">
         <mark key="'" line="155" column="22" />
@@ -126,11 +118,9 @@
         <mark key="." line="125" column="34" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/node_modules/react-native-modalize/lib/options.d.ts" timestamp="1588602931804" />
       <file name="/" timestamp="1588600300103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/node_modules/@types/react-native/index.d.ts" timestamp="1588602991648" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Button/SavePostButton.tsx" timestamp="1588603425144">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -149,7 +139,6 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/node_modules/fp-ts/lib/Either.d.ts" timestamp="1588601448908" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/utils/posts/mediaValidations.ts" timestamp="1588602867658">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="55" />
@@ -158,12 +147,6 @@
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588599538556">
         <mark key="'" line="63" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588597066034">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="44" column="44" />
-        <mark key="." line="44" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -272,7 +255,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5wbSBydW4gdHM6cnVuCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -350,7 +333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text>lint-fix</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -379,19 +362,19 @@
         <text encoding="base64">aW1wb3J0IHsgRWl0aGVyIH0gZnJvbSAnZnAtdHMvbGliL0VpdGhlcic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5wbSBydW4gdHM6cnVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuZXdQb3N0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsK</text>
+        <text encoding="base64">ICBuZXdQb3N0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRXb3Jrc3BhY2VJZDogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">dHlwZSBQcm9wcyA9IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRQYWdlSWQ6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRXb3Jrc3BhY2VJZDogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -400,18 +383,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRQYWdlSWQ6IHVuZGVmaW5lZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRnVsbEdpZiwgTWVkaWFMaWJyYXJ5U2NoZW1lIH0gZnJvbSAnLi4vLi4vdHlwZXMvbWVkaWFVcGxvYWRzJzsK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRWl0aGVyIH0gZnJvbSAnZnAtdHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRnVsbEdpZiwgTWVkaWFMaWJyYXJ5U2NoZW1lIH0gZnJvbSAnLi4vLi4vdHlwZXMvbWVkaWFVcGxvYWRzJzsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRWl0aGVyIH0gZnJvbSAnZnAtdHMnOwo=</text>
       </register>
     </registers>
   </component>
