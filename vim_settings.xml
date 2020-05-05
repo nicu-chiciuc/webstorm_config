@@ -105,9 +105,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1588669836035">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalProvider.tsx" timestamp="1588672767763">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/node_modules/react-navigation/typescript/react-navigation.d.ts" timestamp="1588672826564" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" timestamp="1588675777475">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588677994410">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="71" />
+        <mark key="^" line="21" column="71" />
+        <mark key="." line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588677774861" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1588675773780">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="594" column="25" />
@@ -116,38 +131,15 @@
         <mark key="^" line="567" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/PostFeed/CommentBox/TextArea.js" timestamp="1588672940849" />
-      <file name="/GraphQL.result.json" timestamp="1588676111728">
+      <file name="/GraphQL.result.json" timestamp="1588677694674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalProvider.tsx" timestamp="1588672767763">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/node_modules/react-navigation/typescript/react-navigation.d.ts" timestamp="1588672826564" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalConsumer.tsx" timestamp="1588673297621">
         <mark key="'" line="353" column="14" />
         <mark key="[" line="61" column="18" />
         <mark key="]" line="61" column="30" />
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="29" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1588669895162">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1588669863088">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" timestamp="1588675777475">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588668819183">
-        <mark key="'" line="430" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -255,8 +247,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -334,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>video.offset</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
