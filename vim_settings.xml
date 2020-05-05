@@ -108,21 +108,16 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/Comments/index.tsx" timestamp="1588680908582">
         <mark key="'" line="325" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/Comments/CommentsContainer.tsx" timestamp="1588679730823" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/index.tsx" timestamp="1588680858257" />
-      <file name="/index.ts" timestamp="1588680342028">
-        <mark key="[" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588681106489" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588682399595" />
-      <file name="/GraphQL.result.json" timestamp="1588677694674">
+      <file name="/GraphQL.result.json" timestamp="1588689808026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/PostOptionsMobileBar.tsx" timestamp="1588679754168" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/hooks/index.ts" timestamp="1588680663085">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/index.ts" timestamp="1588680342028">
+        <mark key="[" line="7" column="41" />
       </file>
     </filemarks>
     <jumps>
