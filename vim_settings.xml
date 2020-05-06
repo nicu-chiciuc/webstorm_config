@@ -106,15 +106,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/MediaContainer/index.tsx" timestamp="1588759001178" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/Comments/index.tsx" timestamp="1588680908582">
         <mark key="'" line="325" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1588757139996">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1588759071257">
         <mark key="'" line="574" column="32" />
-        <mark key="[" line="574" column="11" />
-        <mark key="]" line="574" column="33" />
+        <mark key="[" line="569" column="0" />
+        <mark key="]" line="569" column="0" />
         <mark key="^" line="566" column="51" />
-        <mark key="." line="574" column="11" />
+        <mark key="." line="569" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/MixedMediaContainer.tsx" timestamp="1588757938556">
         <mark key="[" line="65" column="37" />
@@ -125,12 +126,12 @@
       <file name="/GraphQL.result.json" timestamp="1588750229699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" timestamp="1588753398452">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" timestamp="1588759058431">
         <mark key="'" line="151" column="32" />
-        <mark key="[" line="151" column="32" />
-        <mark key="]" line="151" column="33" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="69" />
         <mark key="^" line="151" column="33" />
-        <mark key="." line="151" column="32" />
+        <mark key="." line="147" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/VideoTrimmerModal/VideoTrimmerModal.tsx" timestamp="1588757716328">
         <mark key="'" line="33" column="53" />
@@ -254,8 +255,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaW5mb1RleHQgPSAnVGhlIHZpZGVvIGNhbiBiZSB0cmltbWVkIHRvIHRoZSBuZWNlc3NhcnkgbGVuZ3RoJwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -333,7 +334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -358,23 +359,23 @@
       <register name="/" type="4">
         <text>this</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGhpcy5wcm9wcy5pbml0aWFsT2Zmc2V0IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGluZm9UZXh0PSJUaGUgdmlkZW8gY2FuIGJlIHRyaW1tZWQgdG8gdGhlIG5lY2Vzc2FyeSBsZW5ndGgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgICAgaW5mb1RleHQgPSAnVGhlIHZpZGVvIGNhbiBiZSB0cmltbWVkIHRvIHRoZSBuZWNlc3NhcnkgbGVuZ3RoJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gY2Fyb3VzZWxNZWRpYSAtIERPTSBlbGVtZW50Cg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBVcGRhdGVzIHRoZSBzdGF0ZSBiYXNlZCBvbiBzb21lIGNhbGN1bGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gY2Fyb3VzZWxNZWRpYSAtIERPTSBlbGVtZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgKiBVcGRhdGVzIHRoZSBzdGF0ZSBiYXNlZCBvbiBzb21lIGNhbGN1bGF0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gY29udGFpbmVyV2lkdGgK</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -383,16 +384,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIFJldHVybnMgdGhlIHVwZGF0ZXMgc3RhdGUK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gY29udGFpbmVyV2lkdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIFJldHVybnMgdGhlIHVwZGF0ZXMgc3RhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
     </registers>
   </component>
