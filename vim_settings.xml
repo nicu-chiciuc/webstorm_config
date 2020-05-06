@@ -116,11 +116,17 @@
         <mark key="^" line="566" column="51" />
         <mark key="." line="569" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588768570733">
+      <file name="/GraphQL.result.json" timestamp="1588772965703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/mediainfoParser.js" timestamp="1588768499182">
         <mark key="'" line="123" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/algebraic-temp/some.ts" timestamp="1588772994654">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="/index.ts" timestamp="1588680342028">
         <mark key="[" line="7" column="41" />
@@ -134,9 +140,9 @@
         <mark key="." line="147" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/hooks/index.ts" timestamp="1588680663085">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
