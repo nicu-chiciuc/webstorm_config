@@ -107,9 +107,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1588841905032" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" timestamp="1588843791910">
-        <mark key="'" line="37" column="6" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1588842237743">
         <mark key="[" line="0" column="0" />
       </file>
