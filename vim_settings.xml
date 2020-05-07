@@ -106,6 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1588856947449" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerStyles.scss" timestamp="1588847381352">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="27" />
