@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>split</entry>
         <entry encoding="base64">XDxpbml0aWFsTWV0YVRvTmV3TWVkaWFUeXBlXD4=</entry>
         <entry>ios</entry>
         <entry>open-ios</entry>
@@ -27,6 +26,7 @@
         <entry>this</entry>
         <entry>updatePost</entry>
         <entry>setContent</entry>
+        <entry>getMeta</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -106,37 +106,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/Comments/index.tsx" timestamp="1588680908582">
-        <mark key="'" line="325" column="31" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1588841905032" />
-      <file name="/GraphQL.result.json" timestamp="1588841110018">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" timestamp="1588843791910">
+        <mark key="'" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588841755748">
-        <mark key="'" line="72" column="6" />
+      <file name="/GraphQL.result.json" timestamp="1588842237743">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/mediainfoParser.js" timestamp="1588768499182">
         <mark key="'" line="123" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePost.ts" timestamp="1588842154615">
-        <mark key="[" line="104" column="30" />
-        <mark key="]" line="104" column="48" />
-        <mark key="^" line="104" column="48" />
-        <mark key="." line="104" column="47" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePost.ts" timestamp="1588842192315">
+        <mark key="[" line="154" column="11" />
+        <mark key="]" line="154" column="11" />
+        <mark key="^" line="154" column="11" />
+        <mark key="." line="154" column="10" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588841730921">
-        <mark key="'" line="356" column="71" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/posts/server/methods/updatePost.ts" timestamp="1588842283756" />
       <file name="$USER_HOME$/Dev/PLANABLE/algebraic-temp/some.ts" timestamp="1588772994654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588841755748">
+        <mark key="'" line="72" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588841730921">
+        <mark key="'" line="356" column="71" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" />
       <jump line="373" column="103" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" />
       <jump line="63" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" />
       <jump line="42" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" />
@@ -236,12 +236,13 @@
       <jump line="353" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" />
       <jump line="356" column="71" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" />
       <jump line="72" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
+      <jump line="37" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>postData</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -319,7 +320,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>postData</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -342,7 +343,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>setContent</text>
+        <text>getMeta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2UgPSBhd2FpdCB1cGRhdGVkTWVzc2FnZVdpdGhGZXRjaGVkVXJsKGluaXRpYWxNZXNzYWdlLCBpbml0aWFsUG9zdCwgY3VycmVudFBvc3QsIGN1cnJlbnRQYWdlKTsK</text>
@@ -384,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setContent</last-search>
+      <last-search>getMeta</last-search>
       <last-offset />
-      <last-pattern>setContent</last-pattern>
+      <last-pattern>getMeta</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
