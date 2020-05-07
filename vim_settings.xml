@@ -106,32 +106,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1588841905032" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerStyles.scss" timestamp="1588847381352">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="27" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1588842237743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/mediainfoParser.js" timestamp="1588768499182">
-        <mark key="'" line="123" column="1" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePost.ts" timestamp="1588842192315">
-        <mark key="[" line="154" column="11" />
-        <mark key="]" line="154" column="11" />
-        <mark key="^" line="154" column="11" />
-        <mark key="." line="154" column="10" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/posts/server/methods/updatePost.ts" timestamp="1588842283756" />
-      <file name="$USER_HOME$/Dev/PLANABLE/algebraic-temp/some.ts" timestamp="1588772994654">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588841755748">
-        <mark key="'" line="72" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1588841730921">
-        <mark key="'" line="356" column="71" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="373" column="103" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" />
@@ -238,8 +222,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>postData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -346,19 +330,19 @@
         <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2UgPSBhd2FpdCB1cGRhdGVkTWVzc2FnZVdpdGhGZXRjaGVkVXJsKGluaXRpYWxNZXNzYWdlLCBpbml0aWFsUG9zdCwgY3VycmVudFBvc3QsIGN1cnJlbnRQYWdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC4uLm1lc3NhZ2UsCiAgICAgIGZldGNoZWRVcmxzRm9yU2VsZWN0ZWRQYWdlczogW2ZldGNoZWRNZXRhXQogICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC4uLm1lc3NhZ2UsCiAgICAgIGZldGNoZWRVcmxzRm9yU2VsZWN0ZWRQYWdlczogW2ZldGNoZWRNZXRhXQogICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaXJzdDogdHJ1ZQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgczogc29tZXRoaW5nRWxzZSA9IHsK</text>
+        <text encoding="base64">ICBmaXJzdDogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBkZWNpbWFsID0gMCB8IDEgfCAyOwo=</text>
+        <text encoding="base64">Y29uc3Qgczogc29tZXRoaW5nRWxzZSA9IHsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -367,16 +351,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBteU5ld1R5cGUgPSAnc29tZXRoaW5nJyB8IG5ldmVyIHwgbmV2ZXI7Cg==</text>
+        <text encoding="base64">dHlwZSBkZWNpbWFsID0gMCB8IDEgfCAyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dHlwZSBteU5ld1R5cGUgPSAnc29tZXRoaW5nJyB8IG5ldmVyIHwgbmV2ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZWNvbmQ6IG5ldmVyOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaXJzdDogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICBzZWNvbmQ6IG5ldmVyOwo=</text>
       </register>
     </registers>
   </component>
