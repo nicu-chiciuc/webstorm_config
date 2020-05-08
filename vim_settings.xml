@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>useRef</entry>
         <entry>transcoder</entry>
         <entry>modalize</entry>
         <entry>node</entry>
@@ -27,6 +26,7 @@
         <entry>composertime</entry>
         <entry>ComposerTime</entry>
         <entry encoding="base64">XDwsXD4=</entry>
+        <entry>urix</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -124,7 +124,8 @@
         <mark key="." line="270" column="89" />
       </file>
       <file name="/ComposerTimePickerWrapper.tsx" timestamp="1588935575987" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588934517936">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588936822954">
+        <mark key="'" line="278" column="6" />
         <mark key="[" line="257" column="0" />
         <mark key="]" line="257" column="0" />
         <mark key="." line="257" column="0" />
@@ -175,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
       <jump line="502" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="149" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
       <jump line="237" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
@@ -275,6 +275,7 @@
       <jump line="712" column="30" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1858" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="2126" column="56" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="278" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,7 +382,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwsXD4=</text>
+        <text>urix</text>
       </register>
       <register name="0" type="4">
         <text>t.type({
@@ -426,10 +427,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwsXD4=</last-search>
+      <last-search>urix</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>urix</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
