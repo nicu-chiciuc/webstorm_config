@@ -106,20 +106,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Compose.tsx" timestamp="1588925607736" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/pages/server/methods.js" timestamp="1588927609624" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" timestamp="1588925686631" />
-      <file name="/GraphQL.result.json" timestamp="1588922977931">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/ComposerTimePickerWrapper.tsx" timestamp="1588925689645" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588927503269">
-        <mark key="'" line="166" column="4" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588927532583">
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
+      </file>
+      <file name="/Compose.tsx" timestamp="1588925607736" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1588930362990">
+        <mark key="]" line="287" column="0" />
+        <mark key="^" line="287" column="0" />
+        <mark key="." line="287" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1588930514367">
+        <mark key="[" line="194" column="13" />
+        <mark key="]" line="194" column="15" />
+        <mark key="^" line="194" column="15" />
+        <mark key="." line="194" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588927503269">
+        <mark key="'" line="157" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1588925632969">
         <mark key="'" line="2014" column="32" />
@@ -234,8 +242,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
