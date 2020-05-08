@@ -106,28 +106,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/pages/server/methods.js" timestamp="1588927609624" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" timestamp="1588925686631" />
-      <file name="/ComposerTimePickerWrapper.tsx" timestamp="1588925689645" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588927532583">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
-      </file>
-      <file name="/Compose.tsx" timestamp="1588925607736" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1588930362990">
         <mark key="]" line="287" column="0" />
         <mark key="^" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1588930514367">
-        <mark key="[" line="194" column="13" />
-        <mark key="]" line="194" column="15" />
-        <mark key="^" line="194" column="15" />
-        <mark key="." line="194" column="14" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1588927503269">
         <mark key="'" line="157" column="4" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1588930549977">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588927532583">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1588930810679">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="14" />
+        <mark key="." line="64" column="13" />
+        <mark key="^" line="64" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1588925632969">
         <mark key="'" line="2014" column="32" />
@@ -138,9 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Composer/PostModalProvider.tsx" />
-      <jump line="29" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" />
-      <jump line="50" column="79" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" />
       <jump line="5" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/common/gifProcessedAsVideo.ts" />
       <jump line="7" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/common/gifProcessedAsVideo.ts" />
       <jump line="59" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" />
@@ -238,12 +235,15 @@
       <jump line="1923" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="2014" column="32" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="166" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
+      <jump line="201" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="182" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Key</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -321,7 +321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Key</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -346,8 +346,11 @@
       <register name="/" type="4">
         <text>StoryEditor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2UgPSBhd2FpdCB1cGRhdGVkTWVzc2FnZVdpdGhGZXRjaGVkVXJsKGluaXRpYWxNZXNzYWdlLCBpbml0aWFsUG9zdCwgY3VycmVudFBvc3QsIGN1cnJlbnRQYWdlKTsK</text>
+      <register name="0" type="4">
+        <text>t.type({
+      prevLoc: t.string,
+      sagaProcessId: t.string
+    }),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
