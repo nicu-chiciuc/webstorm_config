@@ -142,7 +142,11 @@
         <mark key="." line="28" column="59" />
         <mark key="^" line="28" column="60" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/mediaLibrary/mappings.ts" timestamp="1589193768833" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/mediaLibrary/mappings.ts" timestamp="1589196980154">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" timestamp="1588937787742">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="375" column="17" />
@@ -280,7 +284,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>formatTime</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -358,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>formatTime</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
