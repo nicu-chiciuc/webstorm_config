@@ -6,7 +6,7 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="11" />
+    <option name="FONT_SIZE" value="10" />
     <option name="FONT_FAMILY" value="Fira Code Retina" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -32,7 +32,6 @@
       </map>
     </option>
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="50" />
   </component>
   <component name="TodoConfiguration">
