@@ -133,7 +133,7 @@
         <mark key="^" line="26" column="63" />
         <mark key="." line="26" column="62" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589177899206">
+      <file name="/GraphQL.result.json" timestamp="1589197100224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/SidebarLightboxUsage.tsx" timestamp="1588938373918">
@@ -157,9 +157,8 @@
       <file name="/" timestamp="1589193828110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" timestamp="1589178118932" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1588936822954">
-        <mark key="'" line="278" column="6" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1589197196030">
+        <mark key="'" line="282" column="0" />
         <mark key="[" line="257" column="0" />
         <mark key="]" line="257" column="0" />
         <mark key="." line="257" column="0" />
@@ -179,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="59" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
       <jump line="579" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="510" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="464" column="47" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
@@ -279,6 +277,7 @@
       <jump line="375" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" />
       <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" />
       <jump line="38" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" />
+      <jump line="282" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
