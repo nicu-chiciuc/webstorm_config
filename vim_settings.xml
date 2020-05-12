@@ -130,10 +130,11 @@
         <mark key="^" line="26" column="63" />
         <mark key="." line="26" column="62" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1589273130210">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1589274394465">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589272981703">
         <mark key="[" line="0" column="0" />
@@ -152,6 +153,7 @@
       <file name="/" timestamp="1589193828110">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/SplitLayoutContext/index.tsx" timestamp="1589274404502" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-settings.d.ts" timestamp="1589200938848">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="15" column="15" />
