@@ -177,6 +177,13 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1589275956535">
+        <mark key="'" line="349" column="12" />
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="350" column="0" />
+        <mark key="^" line="347" column="13" />
+        <mark key="." line="347" column="12" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1589197196030">
         <mark key="'" line="261" column="0" />
         <mark key="[" line="1" column="0" />
@@ -202,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
-      <jump line="464" column="47" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="495" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="178" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/video.ts" />
       <jump line="5" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/shared/LazyLoadModals/index.tsx" />
@@ -302,12 +307,14 @@
       <jump line="38" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" />
       <jump line="282" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
       <jump line="7" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/innertrends/innerTrendsDeleteRequest.ts" />
+      <jump line="345" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
+      <jump line="349" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGltYWdlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>content</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -385,7 +392,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>content</text>
       </register>
       <register name="m" type="4">
         <keys>
