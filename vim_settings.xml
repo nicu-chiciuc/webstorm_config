@@ -111,25 +111,66 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1589282358494">
-        <mark key="'" line="41" column="37" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="41" column="15" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" timestamp="1589283348258">
         <mark key="[" line="178" column="28" />
         <mark key="]" line="178" column="40" />
         <mark key="^" line="178" column="40" />
         <mark key="." line="178" column="39" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" timestamp="1588954051466">
-        <mark key="'" line="38" column="29" />
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="33" />
-        <mark key="^" line="43" column="11" />
-        <mark key="." line="13" column="33" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1589286693424">
+        <mark key="[" line="243" column="40" />
+        <mark key="]" line="243" column="53" />
+        <mark key="." line="243" column="52" />
+        <mark key="^" line="243" column="53" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" timestamp="1589277748908">
+        <mark key="[" line="244" column="52" />
+        <mark key="]" line="244" column="61" />
+        <mark key="^" line="244" column="61" />
+        <mark key="." line="244" column="60" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/index.ts" timestamp="1589282485226">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" timestamp="1589282403088">
+        <mark key="'" line="102" column="24" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="104" column="62" />
+        <mark key="." line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-random-stuff.d.ts" timestamp="1589200783893">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1589197196030">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1589208607470">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/getUrlMediainfo.ts" timestamp="1589208446719">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1589282358494">
+        <mark key="'" line="41" column="37" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1589274394465">
         <mark key="[" line="23" column="42" />
@@ -140,44 +181,19 @@
       <file name="/GraphQL.result.json" timestamp="1589276323711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" timestamp="1589277748908">
-        <mark key="[" line="244" column="52" />
-        <mark key="]" line="244" column="61" />
-        <mark key="^" line="244" column="61" />
-        <mark key="." line="244" column="60" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/mediaLibrary/mappings.ts" timestamp="1589196980154">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/index.ts" timestamp="1589282485226">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="39" />
-      </file>
       <file name="/" timestamp="1589193828110">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" timestamp="1589282403088">
-        <mark key="'" line="102" column="24" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="104" column="62" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-settings.d.ts" timestamp="1589200938848">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-random-stuff.d.ts" timestamp="1589200783893">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/innertrends/innerTrendsDeleteRequest.ts" timestamp="1589201543499">
         <mark key="'" line="7" column="16" />
@@ -192,28 +208,11 @@
         <mark key="." line="338" column="0" />
         <mark key="^" line="346" column="72" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1589197196030">
-        <mark key="'" line="261" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1589208607470">
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589283614071" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/getUrlMediainfo.ts" timestamp="1589208446719">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589286224080">
+        <mark key="'" line="1740" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="39" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" />
-      <jump line="621" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="305" column="60" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="307" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="310" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
@@ -312,12 +311,14 @@
       <jump line="43" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" />
       <jump line="25" column="32" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/index.ts" />
       <jump line="638" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1352" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1740" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>contentMessage</text>
+        <text>WARNING</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -395,7 +396,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>contentMessage</text>
+        <text>WARNING</text>
       </register>
       <register name="m" type="4">
         <keys>
