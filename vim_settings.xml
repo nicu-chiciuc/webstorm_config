@@ -130,14 +130,8 @@
         <mark key="." line="28" column="29" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1589358452428">
-        <mark key="'" line="188" column="18" />
-        <mark key="[" line="188" column="5" />
-        <mark key="]" line="188" column="17" />
-        <mark key="^" line="188" column="17" />
-        <mark key="." line="188" column="16" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1589358125407">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1589359853899" />
+      <file name="/GraphQL.result.json" timestamp="1589358699815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" timestamp="1589292896258">
@@ -165,8 +159,11 @@
         <mark key="^" line="104" column="62" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589292856059">
-        <mark key="[" line="275" column="40" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589360378246">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-settings.d.ts" timestamp="1589200938848">
         <mark key="[" line="13" column="20" />
@@ -204,9 +201,6 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589358207245">
-        <mark key="^" line="1003" column="16" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/getUrlMediainfo.ts" timestamp="1589208446719">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -214,12 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
-      <jump line="310" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
-      <jump line="66" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" />
-      <jump line="174" column="20" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
-      <jump line="27" column="30" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/utils.ts" />
       <jump line="16" column="64" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/utils.ts" />
       <jump line="233" column="78" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
       <jump line="1" column="29" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/utils.ts" />
@@ -313,13 +301,19 @@
       <jump line="638" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1352" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1740" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="188" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="221" column="56" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="217" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="209" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="485" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="188" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="241" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
+      <jump line="249" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRhKSB7CiAgICAgIHdpbmRvdy5hbmFseXRpY3MudHJhY2soJ0RyYWdnZWQgZmlsZSBmcm9tIG1lZGlhIGxpYnJhcnknLCB7IGRlc3RpbmF0aW9uOiAnY29tcG9zZXInIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -397,7 +391,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>?</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -442,8 +436,28 @@
       </register>
       <register name="u" type="4">
         <keys>
-          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
         </keys>
       </register>
       <register name="6" type="2">
