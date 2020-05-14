@@ -118,7 +118,7 @@
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1589446285238">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1589462982587">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -201,7 +201,6 @@
         <mark key="." line="249" column="39" />
         <mark key="^" line="249" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589446749876" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" timestamp="1589458246172">
         <mark key="'" line="78" column="6" />
         <mark key="[" line="80" column="22" />
