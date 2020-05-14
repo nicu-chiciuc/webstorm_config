@@ -153,12 +153,12 @@
         <mark key="." line="483" column="35" />
         <mark key="^" line="469" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/MainNavbar/HeaderUserMenu.tsx" timestamp="1589457181779">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/MainNavbar/HeaderUserMenu.tsx" timestamp="1589460615475">
         <mark key="a" line="59" column="16" />
-        <mark key="[" line="58" column="7" />
-        <mark key="]" line="58" column="8" />
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="53" />
         <mark key="^" line="36" column="53" />
-        <mark key="." line="58" column="8" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-development.json" timestamp="1589380532346">
         <mark key="[" line="26" column="7" />
@@ -186,13 +186,6 @@
         <mark key="]" line="96" column="11" />
         <mark key="." line="96" column="10" />
         <mark key="^" line="96" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/linkedin/media/UrlPreview/index.tsx" timestamp="1589370323469">
-        <mark key="'" line="10" column="52" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1589370362525">
         <mark key="'" line="16" column="52" />
