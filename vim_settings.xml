@@ -125,6 +125,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="235" column="119" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" timestamp="1589453487597">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="42" />
+        <mark key="^" line="123" column="42" />
+        <mark key="." line="123" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589445747549">
         <mark key="'" line="324" column="52" />
         <mark key="[" line="324" column="44" />
@@ -194,19 +201,20 @@
         <mark key="^" line="292" column="39" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589446749876" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" timestamp="1589447523387">
-        <mark key="[" line="60" column="34" />
-        <mark key="]" line="60" column="34" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="60" column="34" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" timestamp="1589453290994">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="152" column="15" />
+        <mark key="]" line="152" column="33" />
+        <mark key="^" line="152" column="33" />
+        <mark key="." line="152" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/notification.tsx" timestamp="1589451642666">
-        <mark key="'" line="44" column="34" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/notification.tsx" timestamp="1589453409975">
+        <mark key="'" line="30" column="50" />
         <mark key="j" line="1" column="7" />
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="38" column="10" />
-        <mark key="." line="18" column="2" />
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="54" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/index.tsx" timestamp="1589370255360">
         <mark key="'" line="271" column="55" />
@@ -216,12 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" />
-      <jump line="282" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
-      <jump line="7" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/innertrends/innerTrendsDeleteRequest.ts" />
-      <jump line="345" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
-      <jump line="349" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
-      <jump line="350" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
       <jump line="127" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" />
       <jump line="99" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" />
       <jump line="43" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" />
@@ -315,13 +317,19 @@
       <jump line="22" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" />
       <jump line="57" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" />
       <jump line="35" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/notification.tsx" />
-      <jump line="38" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" />
+      <jump line="38" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" />
+      <jump line="51" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" />
+      <jump line="10" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" />
+      <jump line="159" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" />
+      <jump line="176" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" />
+      <jump line="115" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" />
+      <jump line="30" column="50" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/notification.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Notification.newInstance</text>
+        <text>Notification</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -396,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Notification.newInstance</text>
+        <text>Notification</text>
       </register>
       <register name="m" type="4">
         <keys>
