@@ -139,19 +139,18 @@
         <mark key="." line="96" column="10" />
         <mark key="^" line="96" column="11" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/globals.d.ts" timestamp="1589533467624">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="11" />
+        <mark key="^" line="45" column="12" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" timestamp="1589457332462">
         <mark key="'" line="111" column="82" />
         <mark key="[" line="75" column="23" />
         <mark key="]" line="75" column="33" />
         <mark key="^" line="75" column="33" />
         <mark key="." line="75" column="32" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1589370362525">
-        <mark key="'" line="16" column="52" />
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/postsDuplicate.ts" timestamp="1589446485785">
         <mark key="'" line="247" column="23" />
@@ -160,8 +159,8 @@
         <mark key="." line="249" column="39" />
         <mark key="^" line="249" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589445747549">
-        <mark key="'" line="324" column="52" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589533365308">
+        <mark key="'" line="502" column="1" />
         <mark key="[" line="324" column="44" />
         <mark key="]" line="324" column="69" />
         <mark key="." line="324" column="68" />
@@ -201,6 +200,13 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/postContentValidations.ts" timestamp="1589533491863">
+        <mark key="'" line="97" column="39" />
+        <mark key="[" line="113" column="33" />
+        <mark key="]" line="113" column="33" />
+        <mark key="." line="113" column="39" />
+        <mark key="^" line="77" column="40" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/MainNavbar/HeaderUserMenu.tsx" timestamp="1589460615475">
         <mark key="a" line="59" column="16" />
         <mark key="[" line="36" column="37" />
@@ -216,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1740" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="221" column="56" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="217" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="209" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="485" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
@@ -316,12 +320,14 @@
       <jump line="469" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" />
       <jump line="483" column="100" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" />
       <jump line="78" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" />
+      <jump line="502" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" />
+      <jump line="97" column="39" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/postContentValidations.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdhaXRVcGRhdGU6IGZhbHNlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>doesntExist</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -396,7 +402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">a2V5OiBzdHJpbmc7IG9uQ2xvc2U6ICgpID0+IHZvaWQ=</text>
+        <text>doesntExist</text>
       </register>
       <register name="m" type="4">
         <keys>
