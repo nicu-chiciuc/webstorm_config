@@ -159,12 +159,12 @@
         <mark key="." line="249" column="39" />
         <mark key="^" line="249" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589533365308">
-        <mark key="'" line="502" column="1" />
-        <mark key="[" line="324" column="44" />
-        <mark key="]" line="324" column="69" />
-        <mark key="." line="324" column="68" />
-        <mark key="^" line="324" column="69" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589538426713">
+        <mark key="'" line="500" column="1" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
+        <mark key="^" line="322" column="69" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/functions/updatePostUtils.ts" timestamp="1589446446991">
         <mark key="'" line="30" column="18" />
@@ -200,12 +200,12 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/postContentValidations.ts" timestamp="1589533491863">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/postContentValidations.ts" timestamp="1589538540946">
         <mark key="'" line="97" column="39" />
-        <mark key="[" line="113" column="33" />
-        <mark key="]" line="113" column="33" />
-        <mark key="." line="113" column="39" />
-        <mark key="^" line="77" column="40" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="120" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/MainNavbar/HeaderUserMenu.tsx" timestamp="1589460615475">
         <mark key="a" line="59" column="16" />
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>doesntExist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpZiAoIXZpZGVvTGF5ZXIpIHJldHVybiBbXTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -402,7 +402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>doesntExist</text>
+        <text>sanitizedWarnings</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -431,21 +431,19 @@
         <text encoding="base64">ICAgICAgbm90aWNlKG5vdGljZVByb3BzOiBOb3RpZmljYXRpb25UeXBlKSB7CiAgICAgICAgbm90aWZpY2F0aW9uLmFkZChub3RpY2VQcm9wcyk7CiAgICAgIH0sCiAgICAgIHJlbW92ZU5vdGljZShrZXk6IHN0cmluZykgewogICAgICAgIG5vdGlmaWNhdGlvbi5yZW1vdmUoa2V5KTsKICAgICAgfSwKICAgICAgY29tcG9uZW50OiBub3RpZmljYXRpb24sCiAgICAgIGRlc3Ryb3koKSB7CiAgICAgICAgUmVhY3RET00udW5tb3VudENvbXBvbmVudEF0Tm9kZShkaXYpOwogICAgICAgIGRpdi5wYXJlbnROb2RlPy5yZW1vdmVDaGlsZChkaXYpOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdhaXRVcGRhdGU6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICBpZiAoIXZpZGVvTGF5ZXIpIHJldHVybiBbXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3YWl0VXBkYXRlOiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm90aWZpY2F0aW9uQ29uZmlnIH0gZnJvbSAnYXdzLXNkay9jbGllbnRzL3NzbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmFsaWRhdGlvbi53YXJuaW5ncykgewogICAgICAgICAgY29uc3Qgc2FuaXRpemVkV2FybmluZ3MgPSB2YWxpZGF0aW9uLndhcm5pbmdzLm1hcCh3YXJuaW5nID0+ICh7CiAgICAgICAgICAgIHJ1bGVOYW1lOiB3YXJuaW5nLnJ1bGVOYW1lLAogICAgICAgICAgICBtZXNzYWdlOiB3YXJuaW5nLm1lc3NhZ2UKICAgICAgICAgIH0pKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHsKICBSZWFjdERPTS51bm1vdW50Q29tcG9uZW50QXROb2RlKGRpdik7CiAgZGl2LnBhcmVudE5vZGU/LnJlbW92ZUNoaWxkKGRpdik7Cn0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-  notification.remove(key);
-},</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodmFsaWRhdGlvbi5lcnJvcnMpIHsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -470,17 +468,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICBub3RpZmljYXRpb24uYWRkKG5vdGljZVByb3BzKTsKfSw=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gdmFsdWU6IG1heER1cmF0aW9uLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCAgPSBwcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">ICAvLyB2YWx1ZT86IHVua25vd247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgc3RhdGljIG5ld0luc3RhbmNlID0gZnVuY3Rpb24gbmV3Tm90aWZpY2F0aW9uSW5zdGFuY2UocHJvcGVydGllcywgY2FsbGJhY2spIHsKICAgIGNvbnN0IHsgZ2V0Q29udGFpbmVyLCAuLi5wcm9wcyB9ID0gcHJvcGVydGllcyB8fCB7fTsKICAgIGNvbnN0IGRpdiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwogICAgaWYgKGdldENvbnRhaW5lcikgewogICAgICBjb25zdCByb290ID0gZ2V0Q29udGFpbmVyKCk7CiAgICAgIHJvb3QuYXBwZW5kQ2hpbGQoZGl2KTsKICAgIH0gZWxzZSB7CiAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoZGl2KTsKICAgIH0KICAgIGxldCBjYWxsZWQgPSBmYWxzZTsKICAgIAogICAgZnVuY3Rpb24gcmVmKG5vdGlmaWNhdGlvbikgewogICAgICBpZiAoY2FsbGVkKSB7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIGNhbGxlZCA9IHRydWU7CiAgICAgIGNhbGxiYWNrKHsKICAgICAgICBub3RpY2Uobm90aWNlUHJvcHMpIHsKICAgICAgICAgIG5vdGlmaWNhdGlvbi5hZGQobm90aWNlUHJvcHMpOwogICAgICAgIH0sCiAgICAgICAgcmVtb3ZlTm90aWNlKGtleSkgewogICAgICAgICAgbm90aWZpY2F0aW9uLnJlbW92ZShrZXkpOwogICAgICAgIH0sCiAgICAgICAgY29tcG9uZW50OiBub3RpZmljYXRpb24sCiAgICAgICAgZGVzdHJveSgpIHsKICAgICAgICAgIFJlYWN0RE9NLnVubW91bnRDb21wb25lbnRBdE5vZGUoZGl2KTsKICAgICAgICAgIGRpdi5wYXJlbnROb2RlLnJlbW92ZUNoaWxkKGRpdik7CiAgICAgICAgfQogICAgICB9KTsKICAgIH0KICAgIAogICAgUmVhY3RET00ucmVuZGVyKDxOb3RpZmljYXRpb24gey4uLnByb3BzfSByZWY9e3JlZn0gLz4sIGRpdik7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmFsaWRhdGlvbi53YXJuaW5ncykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Tm90aWZpY2F0aW9uLm5ld0luc3RhbmNlID0gZnVuY3Rpb24gbmV3Tm90aWZpY2F0aW9uSW5zdGFuY2UocHJvcGVydGllcywgY2FsbGJhY2spIHsKICBjb25zdCB7IGdldENvbnRhaW5lciwgLi4ucHJvcHMgfSA9IHByb3BlcnRpZXMgfHwge307CiAgY29uc3QgZGl2ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgaWYgKGdldENvbnRhaW5lcikgewogICAgY29uc3Qgcm9vdCA9IGdldENvbnRhaW5lcigpOwogICAgcm9vdC5hcHBlbmRDaGlsZChkaXYpOwogIH0gZWxzZSB7CiAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGRpdik7CiAgfQogIGxldCBjYWxsZWQgPSBmYWxzZTsKICBmdW5jdGlvbiByZWYobm90aWZpY2F0aW9uKSB7CiAgICBpZiAoY2FsbGVkKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGNhbGxlZCA9IHRydWU7CiAgICBjYWxsYmFjayh7CiAgICAgIG5vdGljZShub3RpY2VQcm9wcykgewogICAgICAgIG5vdGlmaWNhdGlvbi5hZGQobm90aWNlUHJvcHMpOwogICAgICB9LAogICAgICByZW1vdmVOb3RpY2Uoa2V5KSB7CiAgICAgICAgbm90aWZpY2F0aW9uLnJlbW92ZShrZXkpOwogICAgICB9LAogICAgICBjb21wb25lbnQ6IG5vdGlmaWNhdGlvbiwKICAgICAgZGVzdHJveSgpIHsKICAgICAgICBSZWFjdERPTS51bm1vdW50Q29tcG9uZW50QXROb2RlKGRpdik7CiAgICAgICAgZGl2LnBhcmVudE5vZGUucmVtb3ZlQ2hpbGQoZGl2KTsKICAgICAgfQogICAgfSk7CiAgfQogIFJlYWN0RE9NLnJlbmRlcig8Tm90aWZpY2F0aW9uIHsuLi5wcm9wc30gcmVmPXtyZWZ9IC8+LCBkaXYpOwp9Owo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
   </component>
