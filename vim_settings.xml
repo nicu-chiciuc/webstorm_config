@@ -200,7 +200,11 @@
         <mark key="." line="366" column="65" />
         <mark key="^" line="366" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589800595834" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589800777821">
+        <mark key="[" line="687" column="18" />
+        <mark key="]" line="687" column="18" />
+        <mark key="." line="687" column="18" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/rdnd/DropTarget.tsx" timestamp="1589794416878" />
     </filemarks>
     <jumps>
@@ -308,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRDb250ZW50KHsgYWN0aW9uVHlwZTogJ2NoYW5nZS1tZWRpYScsIC4uLmNvbnRlbnRNZXNzYWdlIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Readonly</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -384,7 +388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>timeSlot) {</text>
+        <text>Readonly</text>
       </register>
       <register name="m" type="4">
         <keys>
