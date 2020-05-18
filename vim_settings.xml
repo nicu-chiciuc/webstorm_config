@@ -125,8 +125,12 @@
         <mark key="^" line="75" column="33" />
         <mark key="." line="75" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589788529547">
-        <mark key="'" line="529" column="1" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589789461046">
+        <mark key="'" line="531" column="1" />
+        <mark key="[" line="447" column="19" />
+        <mark key="]" line="460" column="38" />
+        <mark key="^" line="460" column="38" />
+        <mark key="." line="460" column="37" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/MixedMediaContainer.tsx" timestamp="1589788796457">
         <mark key="[" line="16" column="88" />
