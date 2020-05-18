@@ -106,26 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1589445588438">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="^" line="264" column="30" />
-        <mark key="." line="261" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/VerifyEmail.tsx" timestamp="1589457203484">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="52" />
-        <mark key="^" line="15" column="52" />
-        <mark key="." line="15" column="51" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1589784134728">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1589380710092">
-        <mark key="[" line="96" column="5" />
-        <mark key="]" line="96" column="11" />
-        <mark key="." line="96" column="10" />
-        <mark key="^" line="96" column="11" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" timestamp="1589788850080">
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="19" column="63" />
+        <mark key="." line="19" column="62" />
+        <mark key="^" line="19" column="63" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/globals.d.ts" timestamp="1589533467624">
         <mark key="[" line="45" column="5" />
@@ -140,39 +125,47 @@
         <mark key="^" line="75" column="33" />
         <mark key="." line="75" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/postsDuplicate.ts" timestamp="1589446485785">
-        <mark key="'" line="247" column="23" />
-        <mark key="[" line="249" column="29" />
-        <mark key="]" line="249" column="40" />
-        <mark key="." line="249" column="39" />
-        <mark key="^" line="249" column="40" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589788529547">
+        <mark key="'" line="529" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589538426713">
-        <mark key="'" line="500" column="1" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="." line="317" column="0" />
-        <mark key="^" line="322" column="69" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/MixedMediaContainer.tsx" timestamp="1589788796457">
+        <mark key="[" line="16" column="88" />
+        <mark key="]" line="16" column="88" />
+        <mark key="." line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/functions/updatePostUtils.ts" timestamp="1589446446991">
-        <mark key="'" line="30" column="18" />
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" timestamp="1589788807215">
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589785166533">
-        <mark key="[" line="985" column="86" />
-        <mark key="]" line="986" column="55" />
-        <mark key="^" line="986" column="55" />
-        <mark key="." line="986" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1589457140118">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1589788695239">
         <mark key="'" line="483" column="100" />
-        <mark key="[" line="483" column="28" />
-        <mark key="]" line="469" column="34" />
-        <mark key="." line="483" column="35" />
+        <mark key="[" line="56" column="54" />
+        <mark key="]" line="56" column="54" />
+        <mark key="." line="56" column="54" />
         <mark key="^" line="469" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/MainNavbar/HeaderUserMenu.tsx" timestamp="1589460615475">
+        <mark key="a" line="59" column="16" />
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="53" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="36" column="52" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1589788843098">
+        <mark key="[" line="150" column="66" />
+        <mark key="]" line="612" column="8" />
+        <mark key="." line="612" column="7" />
+        <mark key="^" line="612" column="8" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1589784134728">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/index.tsx" timestamp="1589788831901">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="15" column="80" />
+        <mark key="." line="15" column="79" />
+        <mark key="^" line="15" column="80" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/Notice.tsx" timestamp="1589458246172">
         <mark key="'" line="78" column="6" />
@@ -195,13 +188,6 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
         <mark key="^" line="120" column="44" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/MainNavbar/HeaderUserMenu.tsx" timestamp="1589460615475">
-        <mark key="a" line="59" column="16" />
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="36" column="53" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="36" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -310,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>void</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -385,7 +371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>void</text>
       </register>
       <register name="m" type="4">
         <keys>
