@@ -106,6 +106,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1589810446756">
+        <mark key="[" line="362" column="5" />
+        <mark key="]" line="364" column="46" />
+        <mark key="^" line="364" column="46" />
+        <mark key="." line="364" column="45" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1589805678584">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="63" />
+        <mark key="^" line="38" column="63" />
+        <mark key="." line="38" column="62" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589872654341">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.tsx" timestamp="1589811985384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,11 +135,17 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1589872654847">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/globals.d.ts" timestamp="1589805369510">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="57" column="17" />
         <mark key="." line="57" column="16" />
         <mark key="^" line="57" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1589808578740">
+        <mark key="^" line="443" column="56" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589805776555">
         <mark key="'" line="550" column="1" />
@@ -133,8 +154,20 @@
         <mark key="." line="460" column="25" />
         <mark key="^" line="460" column="26" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/index.tsx" timestamp="1589808797799">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="36" />
+        <mark key="^" line="47" column="37" />
+      </file>
       <file name="/JavaScript Console" timestamp="1589810593190">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1589810590080">
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="82" column="34" />
+        <mark key="^" line="82" column="39" />
+        <mark key="." line="82" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/SidebarLightbox.tsx" timestamp="1589812061008">
         <mark key="'" line="132" column="4" />
@@ -142,46 +175,6 @@
         <mark key="]" line="20" column="28" />
         <mark key="." line="20" column="28" />
         <mark key="^" line="19" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1589808719504">
-        <mark key="'" line="549" column="9" />
-        <mark key="[" line="80" column="54" />
-        <mark key="]" line="80" column="72" />
-        <mark key="." line="80" column="71" />
-        <mark key="^" line="80" column="72" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1589810446756">
-        <mark key="[" line="362" column="5" />
-        <mark key="]" line="364" column="46" />
-        <mark key="^" line="364" column="46" />
-        <mark key="." line="364" column="45" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1589805678584">
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="38" column="63" />
-        <mark key="^" line="38" column="63" />
-        <mark key="." line="38" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589809073761">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1589813926774">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1589808578740">
-        <mark key="^" line="443" column="56" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/index.tsx" timestamp="1589808797799">
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="47" column="37" />
-        <mark key="." line="47" column="36" />
-        <mark key="^" line="47" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1589810590080">
-        <mark key="[" line="82" column="34" />
-        <mark key="]" line="82" column="34" />
-        <mark key="^" line="82" column="39" />
-        <mark key="." line="82" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589810436486">
         <mark key="'" line="2099" column="0" />
@@ -195,6 +188,13 @@
         <mark key="]" line="222" column="42" />
         <mark key="." line="222" column="42" />
         <mark key="^" line="222" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1589808719504">
+        <mark key="'" line="549" column="9" />
+        <mark key="[" line="80" column="54" />
+        <mark key="]" line="80" column="72" />
+        <mark key="." line="80" column="71" />
+        <mark key="^" line="80" column="72" />
       </file>
     </filemarks>
     <jumps>
