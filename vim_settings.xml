@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>modalize</entry>
         <entry>node</entry>
         <entry encoding="base64">PFBvc3Q=</entry>
         <entry>apply</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>urix</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>\/\/</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -106,14 +106,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" timestamp="1589887043570">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
       <file name="/fragment.tsx" timestamp="1589811985384">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1589809177374">
-        <mark key="[" line="233" column="46" />
-        <mark key="]" line="233" column="46" />
-        <mark key="." line="233" column="46" />
-        <mark key="^" line="532" column="52" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/index.tsx" timestamp="1589811430732">
         <mark key="[" line="26" column="0" />
@@ -162,19 +162,13 @@
       <file name="/GraphQL.result.json" timestamp="1589872654847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/index.tsx" timestamp="1589808797799">
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="47" column="37" />
-        <mark key="." line="47" column="36" />
-        <mark key="^" line="47" column="37" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1589810590080">
         <mark key="[" line="82" column="34" />
         <mark key="]" line="82" column="34" />
         <mark key="^" line="82" column="39" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1589883094030">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1589886760047">
         <mark key="[" line="435" column="4" />
         <mark key="]" line="435" column="9" />
         <mark key="." line="435" column="8" />
@@ -199,12 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="63" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="492" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="489" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="482" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="478" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="476" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="472" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="461" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="457" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
@@ -299,12 +287,18 @@
       <jump line="413" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.ts" />
       <jump line="493" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.ts" />
       <jump line="325" column="89" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.ts" />
+      <jump line="163" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
+      <jump line="164" column="73" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
+      <jump line="133" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
+      <jump line="136" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
+      <jump line="143" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
+      <jump line="150" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyAnbWl4ZWQtbWVkaWEnOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -406,7 +400,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ts</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -429,7 +423,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>\/\/</text>
       </register>
       <register name="0" type="4">
         <text>'pageClassificationNotSupported',
@@ -438,19 +432,19 @@
             )}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gcGFnZTsKICAgIHBvc3QudHlwZSA9IHR5cGU7Cg==</text>
+        <text encoding="base64">ICAvLyAnbWl4ZWQtbWVkaWEnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgaW5zZXJ0QWN0aXZpdHkgfTsK</text>
+        <text encoding="base64">ICAvLyAnbXVsdGlwbGUtaW1hZ2VzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">ICAvLyAndmlkZW8nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc2VsZWN0ZWRQYWdlSWRzIH0gPSB0aGlzLnByb3BzOwoKICAgIC8vIE1vZGFsTWFuYWdlci5vcGVuKAogICAgLy8gICA8TGF6eVBvc3RNb2RhbFdhcmVob3VzZQogICAgLy8gICAgIHNjb3BlPSJsaXN0IgogICAgLy8gICAgIHBvc3RJZD17cG9zdElkfQogICAgLy8gICAgIHNlbGVjdGVkUGFnZXM9e3NlbGVjdGVkUGFnZUlkc30KICAgIC8vICAgICBzb3J0aW5nPXt7fX0KICAgIC8vICAgICBzdGF0dXNGaWx0ZXI9e3t9fQogICAgLy8gICAvPiwKICAgIC8vICAgewogICAgLy8gICAgIGFuaW1hdGlvbjogJ21vZGFsLWRlZmF1bHQtLWFuaW1hdGlvbicsCiAgICAvLyAgICAgbW9kYWxTY2FsZTogZmFsc2UsCiAgICAvLyAgICAgbW9kYWxDbGFzczogJ3Bvc3QtbW9kYWwnLAogICAgLy8gICAgIG1vZGFsSWQ6ICdwb3N0TW9kYWwnCiAgICAvLyAgIH0KICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAvLyAnZ2lmLWltYWdlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBzdGF0aWMgcHJvcFR5cGVzID0gewogIC8vICAgZGlzYWJsZWQ6IFByb3BUeXBlcy5ib29sLAogIC8vICAgcG9zdHM6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAogIC8vICAgY2FuUHVibGlzaDogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZCwKICAvLyAgIHdvcmtzcGFjZUlkOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgLy8gICBjbG9zZU1vZGFsOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIC8vICAgc2VsZWN0ZWRQYWdlSWRzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwKICAvLyAgIG9uU2NoZWR1bGVOb0RhdGU6IFByb3BUeXBlcy5mdW5jLAogIC8vICAgcGFzdERhdGU6IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgLy8gICBsb2NhbFNlbGVjdGVkU2xvdHM6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAogIC8vICAgcmVxdWlyZUFwcHJvdmU6IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgLy8gICB0aW1lem9uZTogUHJvcFR5cGVzLnN0cmluZywKICAvLyAgIHRpbWVGb3JtYXQ6IFByb3BUeXBlcy5zdHJpbmcsCiAgLy8gICBkdXBsaWNhdGVNb2RlOiBQcm9wVHlwZXMuYm9vbC5pc1JlcXVpcmVkCiAgLy8gfTsK</text>
+        <text encoding="base64">ICAvLyAnc2luZ2xlLWltYWdlJwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -476,27 +470,27 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBtaWxsaXNlY29uZHNJblNlY29uZHMgPSAxMDAwOwo=</text>
+        <text encoding="base64">ICAvLyAnbm8tbWVkaWEnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dmFsdWUgPT4gewogICAgICBzZXRVc2FnZUNvdW50ZXIodmFsdWUpOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldFVzYWdlQ291bnRlcih2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAvLyBOT1RJQ0U6IFRoZW9yZXRpY2FsbHkgZ2lmcyBjYW4gYWxzbyBiZSBzdXBwb3J0ZWQgaW4gbWl4ZWQgbWVkaWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gcGFnZTsKICAgIHBvc3QudHlwZSA9IHR5cGU7Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>\/\/</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>\/\/</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx9XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
