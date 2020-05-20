@@ -106,38 +106,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1589810446756">
-        <mark key="[" line="362" column="5" />
-        <mark key="]" line="364" column="46" />
-        <mark key="^" line="364" column="46" />
-        <mark key="." line="364" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589872654341">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" timestamp="1589887646036">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="139" column="16" />
         <mark key="]" line="139" column="17" />
         <mark key="." line="139" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.ts" timestamp="1589885725009">
-        <mark key="[" line="179" column="19" />
-        <mark key="]" line="179" column="26" />
-        <mark key="." line="179" column="25" />
-        <mark key="^" line="179" column="26" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1589965425919">
+        <mark key="'" line="202" column="1" />
       </file>
-      <file name="/fragment.tsx" timestamp="1589811985384">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/index.tsx" timestamp="1589811430732">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1589963871997">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/common.ts" timestamp="1589964348424" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589883717916">
         <mark key="'" line="564" column="0" />
         <mark key="[" line="460" column="9" />
@@ -145,20 +123,8 @@
         <mark key="." line="460" column="25" />
         <mark key="^" line="460" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589810593190">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1589810590080">
-        <mark key="[" line="82" column="34" />
-        <mark key="]" line="82" column="34" />
-        <mark key="^" line="82" column="39" />
-        <mark key="." line="82" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1589898816381">
-        <mark key="[" line="357" column="4" />
-        <mark key="]" line="357" column="4" />
-        <mark key="^" line="357" column="11" />
-        <mark key="." line="357" column="4" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintignore" timestamp="1589965518230">
+        <mark key="[" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/SidebarLightbox.tsx" timestamp="1589812061008">
         <mark key="'" line="132" column="4" />
@@ -167,17 +133,29 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589810436486">
-        <mark key="'" line="2099" column="0" />
-        <mark key="[" line="2091" column="0" />
-        <mark key="]" line="2091" column="0" />
-        <mark key="^" line="1037" column="2" />
-        <mark key="." line="2091" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1589885176126">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1589965536534">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="69" />
+        <mark key="^" line="34" column="69" />
+        <mark key="." line="34" column="68" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589872654341">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.ts" timestamp="1589885725009">
+        <mark key="[" line="179" column="19" />
+        <mark key="]" line="179" column="26" />
+        <mark key="." line="179" column="25" />
+        <mark key="^" line="179" column="26" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1589963871997">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/common/insertActivity.ts" timestamp="1589885423502">
         <mark key="[" line="28" column="0" />
@@ -197,15 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="461" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="457" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="453" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="450" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="446" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="444" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="441" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="432" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="429" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="427" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="424" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
@@ -297,6 +266,15 @@
       <jump line="136" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
       <jump line="143" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
       <jump line="150" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" />
+      <jump line="77" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="186" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="84" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="182" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="102" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="202" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
