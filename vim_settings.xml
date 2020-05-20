@@ -121,15 +121,11 @@
         <mark key="." line="171" column="51" />
         <mark key="^" line="171" column="52" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" timestamp="1589970312796" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/SplitLayoutContext/index.tsx" timestamp="1589970385053">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="222" column="17" />
-        <mark key="." line="228" column="0" />
+      <file name="/fragment.ts" timestamp="1589975521310">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/rdnd/DragDropManager.tsx" timestamp="1589966995937">
-        <mark key="'" line="13" column="15" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/checkEmailBlacklists.js" timestamp="1589975725322">
+        <mark key="'" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/services/server/instagram/fetchNewPageData.js" timestamp="1589973703910">
         <mark key="[" line="6" column="0" />
@@ -142,11 +138,29 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1589977072832">
+        <mark key="'" line="119" column="1" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="45" />
+        <mark key="^" line="129" column="31" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589972175997">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1589976098257">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="25" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1589972682849">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1589975416947">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/containers/MediaLibraryContainer/MediaLibraryHeader.tsx" timestamp="1589970459128">
         <mark key="[" line="40" column="77" />
@@ -154,11 +168,8 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1589969961579" />
     </filemarks>
     <jumps>
-      <jump line="398" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="395" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="384" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="382" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="379" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
@@ -257,12 +268,14 @@
       <jump line="34" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" />
       <jump line="412" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/checkEmailBlacklists.js" />
+      <jump line="119" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGZ1Y2soKQo=</text>
+        <text encoding="base64">ICAgICAgc2NvcGUuc2V0RXh0cmEoJ3ZpZGVvTWV0YScsIHZpZGVvTWV0YSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -364,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>thumbnail</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -389,26 +402,23 @@
       <register name="/" type="4">
         <text>\/\/</text>
       </register>
-      <register name="0" type="4">
-        <text>'pageClassificationNotSupported',
-            message: `Page of classification ${targetPage.classification} doesn't support ${readableSetContentMessage(
-              message
-            )}`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2NvcGUuc2V0RXh0cmEoJ3ZpZGVvTWV0YScsIHZpZGVvTWV0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGZ1Y2soKQo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdub3QgaW1wbGVtZW50ZWQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoJ1BhcnNlZCBtZWRpYUluZm8nLCBzYWdhUHJvY2Vzc0lkLCBkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IGZpbmQgYSB3YXkgdG8gZGVzZWxlY3Qgd2hlbiB0aGUgc2lkZWJhciBjbG9zZXMgdG8gbWFrZSBpdCBnZW5lcmljCiAgICAgICAgICAgICAgICBkZXNlbGVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZW50cnkud2l0aFNjb3BlKHNjb3BlID0+IHsKICAgICAgICAgIHNjb3BlLnNldEV4dHJhKCd2YWx1ZScsIHZhbHVlKTsKICAgICAgICAgIFNlbnRyeS5jYXB0dXJlTWVzc2FnZSgnQ2FsbGluZyBvbkdvdE1haW5NZWRpYWluZm8gd2l0aCBhcmd1bWVudHMnKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgICAvLyBJZiB0aGUgdmFsaWRhdGlvbiBkaWQgbm90IHBhc3MgdGhlbiB0aGUgc2VsZWN0aW9uIGFuZCB0aGUgbGF5b3V0IHNob3VsZCByZW1haW4KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZW50cnkud2l0aFNjb3BlKHNjb3BlID0+IHsKICAgICAgICAgIHNjb3BlLnNldEV4dHJhKCd2YWx1ZScsIHZhbHVlKTsKICAgICAgICAgIFNlbnRyeS5jYXB0dXJlTWVzc2FnZSgnQ2FsbGluZyBvblByb2Nlc3NlZE1lZGlhTGlicmFyeU1haW5WaWRlbyB3aXRoIGFyZ3VtZW50cycpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZW50cnkud2l0aFNjb3BlKHNjb3BlID0+IHsKICAgICAgICAgIHNjb3BlLnNldEV4dHJhKCd2YWx1ZScsIHZhbHVlKTsKICAgICAgICAgIFNlbnRyeS5jYXB0dXJlTWVzc2FnZSgnQ2FsbGluZyBvbkdvdE1ldGFPZlRyYW5zY29kZWRWaWRlbyB3aXRoIGFyZ3VtZW50cycpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -434,16 +444,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZW50cnkuY2FwdHVyZU1lc3NhZ2UoJ0NhbGxpbmcgb25Hb3RNZXRhT2ZUcmFuc2NvZGVkVmlkZW8gd2l0aCBhcmd1bWVudHMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSk7Cg==</text>
       </register>
     </registers>
   </component>
