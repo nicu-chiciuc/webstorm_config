@@ -295,8 +295,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyAnbWl4ZWQtbWVkaWEnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -398,7 +398,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
