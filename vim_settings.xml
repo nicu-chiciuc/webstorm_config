@@ -116,27 +116,16 @@
         <mark key="'" line="202" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/common.ts" timestamp="1589964348424" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589883717916">
-        <mark key="'" line="564" column="0" />
-        <mark key="[" line="460" column="9" />
-        <mark key="]" line="460" column="26" />
-        <mark key="." line="460" column="25" />
-        <mark key="^" line="460" column="26" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintignore" timestamp="1589965518230">
         <mark key="[" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLightbox/SidebarLightbox.tsx" timestamp="1589812061008">
-        <mark key="'" line="132" column="4" />
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="19" column="21" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/SplitLayoutContext/index.tsx" timestamp="1589969244963">
+        <mark key="]" line="227" column="14" />
+        <mark key="^" line="227" column="14" />
+        <mark key="." line="227" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1589885176126">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/rdnd/DragDropManager.tsx" timestamp="1589966995937">
+        <mark key="'" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1589965536534">
         <mark key="'" line="0" column="0" />
@@ -145,7 +134,7 @@
         <mark key="^" line="34" column="69" />
         <mark key="." line="34" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589872654341">
+      <file name="/Dummy.txt" timestamp="1589967090242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.ts" timestamp="1589885725009">
@@ -156,6 +145,13 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1589963871997">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1589969023567">
+        <mark key="'" line="1765" column="14" />
+        <mark key="[" line="1765" column="6" />
+        <mark key="]" line="1765" column="13" />
+        <mark key="^" line="1765" column="13" />
+        <mark key="." line="1765" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/common/insertActivity.ts" timestamp="1589885423502">
         <mark key="[" line="28" column="0" />
@@ -175,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="427" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
-      <jump line="424" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="417" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="407" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="405" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
@@ -248,7 +241,6 @@
       <jump line="1730" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1760" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1756" column="38" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1765" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="208" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="231" column="99" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" />
       <jump line="1026" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -275,12 +267,16 @@
       <jump line="102" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="202" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" />
+      <jump line="1890" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="13" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/rdnd/DragDropManager.tsx" />
+      <jump line="1928" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1765" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>GetMediainfoDestination</text>
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -382,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GetMediainfoDestination</text>
+        <text>e</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,19 +410,19 @@
             )}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAnbWl4ZWQtbWVkaWEnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzZXRTZWxlY3Rpb24oKTsKICAgICAgICAgIHRoaXMudG9nZ2xlTGF5b3V0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAnbXVsdGlwbGUtaW1hZ2VzJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRQb3N0ID0gdGhpcy5jdXJyZW50UG9zdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAndmlkZW8nOwo=</text>
+        <text encoding="base64">ICBjb250ZW50Q2hhbmdlRnJvbVNwbGl0TWVkaWFEZWZhdWx0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAnZ2lmLWltYWdlJzsK</text>
+        <text encoding="base64">ICBjb250ZW50VHlwZUZyb21Qb3N0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAnc2luZ2xlLWltYWdlJwo=</text>
+        <text encoding="base64">ICAvLyAnbWl4ZWQtbWVkaWEnOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -452,16 +448,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAnbm8tbWVkaWEnCg==</text>
+        <text encoding="base64">ICAvLyAnbXVsdGlwbGUtaW1hZ2VzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAK</text>
+        <text encoding="base64">ICAvLyAndmlkZW8nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBOT1RJQ0U6IFRoZW9yZXRpY2FsbHkgZ2lmcyBjYW4gYWxzbyBiZSBzdXBwb3J0ZWQgaW4gbWl4ZWQgbWVkaWEK</text>
+        <text encoding="base64">ICAvLyAnZ2lmLWltYWdlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gcGFnZTsKICAgIHBvc3QudHlwZSA9IHR5cGU7Cg==</text>
+        <text encoding="base64">ICAvLyAnc2luZ2xlLWltYWdlJwo=</text>
       </register>
     </registers>
   </component>
