@@ -131,18 +131,16 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/rdnd/DragDropManager.tsx" timestamp="1589966995937">
         <mark key="'" line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/services/server/instagram/fetchNewPageData.js" timestamp="1589973703910">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/api/modules/server/syncPageData.js" timestamp="1589972743426">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1589965536534">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="61" />
-        <mark key="]" line="34" column="69" />
-        <mark key="^" line="34" column="69" />
-        <mark key="." line="34" column="68" />
       </file>
       <file name="/Dummy.txt" timestamp="1589972175997">
         <mark key="[" line="0" column="0" />
@@ -263,8 +261,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QGZ1Y2soKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -398,19 +396,19 @@
             )}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">QGZ1Y2soKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IGZpbmQgYSB3YXkgdG8gZGVzZWxlY3Qgd2hlbiB0aGUgc2lkZWJhciBjbG9zZXMgdG8gbWFrZSBpdCBnZW5lcmljCiAgICAgICAgICAgICAgICBkZXNlbGVjdCgpOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgICAvLyBJZiB0aGUgdmFsaWRhdGlvbiBkaWQgbm90IHBhc3MgdGhlbiB0aGUgc2VsZWN0aW9uIGFuZCB0aGUgbGF5b3V0IHNob3VsZCByZW1haW4KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IGZpbmQgYSB3YXkgdG8gZGVzZWxlY3Qgd2hlbiB0aGUgc2lkZWJhciBjbG9zZXMgdG8gbWFrZSBpdCBnZW5lcmljCiAgICAgICAgICAgICAgICBkZXNlbGVjdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgICAvLyBJZiB0aGUgdmFsaWRhdGlvbiBkaWQgbm90IHBhc3MgdGhlbiB0aGUgc2VsZWN0aW9uIGFuZCB0aGUgbGF5b3V0IHNob3VsZCByZW1haW4KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -436,16 +434,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
       </register>
     </registers>
   </component>
