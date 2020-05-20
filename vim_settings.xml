@@ -135,7 +135,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589897558451">
+      <file name="/GraphQL.result.json" timestamp="1589963871997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/validations.ts" timestamp="1589883717916">
@@ -188,6 +188,12 @@
         <mark key="[" line="1" column="78" />
         <mark key="]" line="1" column="78" />
         <mark key="." line="1" column="78" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/serverless.yml" timestamp="1589964133286">
+        <mark key="[" line="118" column="7" />
+        <mark key="]" line="118" column="13" />
+        <mark key="." line="118" column="12" />
+        <mark key="^" line="118" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -296,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>GetMediainfoDestination</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -398,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>GetMediainfoDestination</text>
       </register>
       <register name="m" type="4">
         <keys>
