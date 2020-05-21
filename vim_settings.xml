@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-production.json" timestamp="1590059851394">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-production.json" timestamp="1590069345244">
         <mark key="[" line="39" column="28" />
         <mark key="]" line="40" column="24" />
         <mark key="." line="40" column="23" />
@@ -119,6 +119,11 @@
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/facebook/media/MediaPreview.tsx" timestamp="1590058740224" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" timestamp="1590060227588" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/server/userConnectionStatus.ts" timestamp="1590069162610">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1590060406378">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,7 +139,12 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1590060063906">
         <mark key="[" line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/linkedin/media/MediaPreview.tsx" timestamp="1590064779478" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/linkedin/media/MediaPreview.tsx" timestamp="1590069135188">
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="29" />
+        <mark key="^" line="81" column="29" />
+        <mark key="." line="81" column="28" />
+      </file>
       <file name="/MediaPreview.tsx" timestamp="1590064769189" />
       <file name="/JavaScript Console" timestamp="1590064651417">
         <mark key="[" line="0" column="0" />
@@ -160,13 +170,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" timestamp="1590060240400" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/ffmpegProcessVideo.ts" timestamp="1590057144302">
-        <mark key="'" line="102" column="41" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
-        <mark key="^" line="102" column="28" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Notifications/index.tsx" />
@@ -274,7 +277,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICBjb25zdCB7IGltYWdlcywgdHlwZSwgaXNGZXRjaGluZywgb25SZW1vdmVNZWRpYSwgaGFuZGxlRWRpdE1vZGUsIHJlYWRPbmx5LCBoYW5kbGVVcGRhdGVNZWRpYSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IGhhc0V4YWN0bHkxID0gaGFzRXhhY3RseSgxLCBpbWFnZXMpOwogICAgY29uc3QgdXBsb2FkZWRGaWxlcyA9IGltYWdlcy5tYXAoKGl0ZW0sIGluZGV4KSA9PiB7CiAgICAgIGNvbnN0IGNvbW1vbiA9IHsKICAgICAgICBrZXk6IGluZGV4LAogICAgICAgIHdpZHRoOiB0aGlzLnN0YXRlLndpZHRoLAogICAgICAgIGhlaWdodDogaGFzRXhhY3RseTEgPyB0aGlzLnN0YXRlLndpZHRoIDogdGhpcy5zdGF0ZS5oZWlnaHQKICAgICAgfTsKCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnVXNlciBpcyBvZmZsaW5lJyk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -405,26 +408,19 @@
         <text encoding="base64">ICAgICAgc3dpdGNoIChkYXRhLm1lZGlhLm1lZGlhU3RhdHVzKSB7CiAgICAgICAgY2FzZSAnc3VjY2Vzcyc6IHsKICAgICAgICAgIGNvbnN0IHsgdXJsIH0gPSBkYXRhLm1lZGlhOwogICAgICAgICAgcmV0dXJuICgpID0+IGRvd25sb2FkRmlsZSh1cmwpOwogICAgICAgIH0KICAgICAgICBjYXNlICdlcnJvcic6CiAgICAgICAgY2FzZSAncHJvY2Vzc2luZyc6CiAgICAgICAgY2FzZSAndXBsb2FkaW5nJzoKICAgICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICAgICAgZGVmYXVsdDogewogICAgICAgICAgdW5yZWFjaGFibGUoZGF0YS5tZWRpYSk7CiAgICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICBjb25zdCB7IGltYWdlcywgdHlwZSwgaXNGZXRjaGluZywgb25SZW1vdmVNZWRpYSwgaGFuZGxlRWRpdE1vZGUsIHJlYWRPbmx5LCBoYW5kbGVVcGRhdGVNZWRpYSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IGhhc0V4YWN0bHkxID0gaGFzRXhhY3RseSgxLCBpbWFnZXMpOwogICAgY29uc3QgdXBsb2FkZWRGaWxlcyA9IGltYWdlcy5tYXAoKGl0ZW0sIGluZGV4KSA9PiB7CiAgICAgIGNvbnN0IGNvbW1vbiA9IHsKICAgICAgICBrZXk6IGluZGV4LAogICAgICAgIHdpZHRoOiB0aGlzLnN0YXRlLndpZHRoLAogICAgICAgIGhlaWdodDogaGFzRXhhY3RseTEgPyB0aGlzLnN0YXRlLndpZHRoIDogdGhpcy5zdGF0ZS5oZWlnaHQKICAgICAgfTsKCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnVXNlciBpcyBvZmZsaW5lJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyB1cmwgfSA9IGltYWdlOwo=</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICBjb25zdCB7IGltYWdlcywgdHlwZSwgaXNGZXRjaGluZywgb25SZW1vdmVNZWRpYSwgaGFuZGxlRWRpdE1vZGUsIHJlYWRPbmx5LCBoYW5kbGVVcGRhdGVNZWRpYSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IGhhc0V4YWN0bHkxID0gaGFzRXhhY3RseSgxLCBpbWFnZXMpOwogICAgY29uc3QgdXBsb2FkZWRGaWxlcyA9IGltYWdlcy5tYXAoKGl0ZW0sIGluZGV4KSA9PiB7CiAgICAgIGNvbnN0IGNvbW1vbiA9IHsKICAgICAgICBrZXk6IGluZGV4LAogICAgICAgIHdpZHRoOiB0aGlzLnN0YXRlLndpZHRoLAogICAgICAgIGhlaWdodDogaGFzRXhhY3RseTEgPyB0aGlzLnN0YXRlLndpZHRoIDogdGhpcy5zdGF0ZS5oZWlnaHQKICAgICAgfTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyB1cmwgfSA9IGltYWdlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9jZXNzZWRWaWRlb1VybCA9IGAke2Nsb3VkVXJsfS8ke3ZpZGVvTG9jYXRpb259YDsKICBjb25zdCBwcm9jZXNzZWRUaHVtYm5haWxVcmwgPSBgJHtjbG91ZFVybH0vJHt0aHVtYm5haWxMb2NhdGlvbn1gOw==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
-      <register name="5" type="4">
-        <text>logger.error('both nextNode and nextLoc should be null at the same time', nextNode, nextLoc);
-          }
-
-          return;
-        }
-
-        if (!passToNext) {
-          //</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBwcm9jZXNzZWRWaWRlb1VybCA9IGAke2Nsb3VkVXJsfS8ke3ZpZGVvTG9jYXRpb259YDsKICBjb25zdCBwcm9jZXNzZWRUaHVtYm5haWxVcmwgPSBgJHtjbG91ZFVybH0vJHt0aHVtYm5haWxMb2NhdGlvbn1gOw==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -452,17 +448,24 @@
           <key char="83" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdib3RoIG5leHROb2RlIGFuZCBuZXh0TG9jIHNob3VsZCBiZSBudWxsIGF0IHRoZSBzYW1lIHRpbWUnLCBuZXh0Tm9kZSwgbmV4dExvYyk7Cg==</text>
+      <register name="6" type="4">
+        <text>logger.error('both nextNode and nextLoc should be null at the same time', nextNode, nextLoc);
+          }
+
+          return;
+        }
+
+        if (!passToNext) {
+          //</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcvaW1wb3J0cy9hcGkvc2VydmljZXMvc2VydmVyL2xvZ2dlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdib3RoIG5leHROb2RlIGFuZCBuZXh0TG9jIHNob3VsZCBiZSBudWxsIGF0IHRoZSBzYW1lIHRpbWUnLCBuZXh0Tm9kZSwgbmV4dExvYyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dFcnJvcigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcvaW1wb3J0cy9hcGkvc2VydmljZXMvc2VydmVyL2xvZ2dlcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iai5lbnRyaWVzLmZvckVhY2goZSkgICAgc2NvcGUuc2V0RXh0cmEoKQo=</text>
+        <text encoding="base64">ICBsb2dFcnJvcigpCg==</text>
       </register>
     </registers>
   </component>
