@@ -127,13 +127,6 @@
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1590060406378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1590057934304">
-        <mark key="'" line="264" column="4" />
-        <mark key="[" line="285" column="12" />
-        <mark key="]" line="285" column="20" />
-        <mark key="." line="285" column="101" />
-        <mark key="^" line="285" column="20" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/twitter/media/MediaPreview.tsx" timestamp="1590064799722" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/Labels/PopUp/EditLabel.tsx" timestamp="1590065777842" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1590060063906">
@@ -146,8 +139,19 @@
         <mark key="." line="81" column="28" />
       </file>
       <file name="/MediaPreview.tsx" timestamp="1590064769189" />
+      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/package.json" timestamp="1590070347847">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="/JavaScript Console" timestamp="1590064651417">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1590070380516">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/MediaPreview.tsx" timestamp="1590066302203" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1590060183728">
@@ -165,9 +169,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="41" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1590058714661">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" timestamp="1590060240400" />
     </filemarks>
