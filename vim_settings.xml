@@ -106,22 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/common/setOutputVideoAsMain.js" timestamp="1590052556687">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/mediaGuards.ts" timestamp="1590052237917">
-        <mark key="[" line="22" column="71" />
-        <mark key="]" line="22" column="81" />
-        <mark key="." line="22" column="80" />
-        <mark key="^" line="22" column="81" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUpdates.ts" timestamp="1590051843623">
-        <mark key="[" line="259" column="16" />
-        <mark key="]" line="259" column="44" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-production.json" timestamp="1590058060268">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-production.json" timestamp="1590059851394">
         <mark key="[" line="39" column="28" />
         <mark key="]" line="40" column="24" />
         <mark key="." line="40" column="23" />
@@ -130,6 +115,8 @@
       <file name="meteor://💻app/packages/mongo/mongo_driver.js" timestamp="1590053092750">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/server/methods/multiplexerStarters.ts" timestamp="1590060373756" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/facebook/media/MediaPreview.tsx" timestamp="1590058740224" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/common/waitUntilAllMediaInPostProcessed.ts" timestamp="1590055703257">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="50" />
@@ -139,10 +126,7 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/urlRetrier.ts" timestamp="1590055449071">
         <mark key="'" line="85" column="67" />
       </file>
-      <file name="/fragment.ts" timestamp="1590050234258">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1590055485817">
+      <file name="/JavaScript Console" timestamp="1590060261854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/instagram/index.js" timestamp="1590052570234">
@@ -157,16 +141,21 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="29" column="49" />
       </file>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1590053090504">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" timestamp="1590060227588" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1590060183728">
+        <mark key="'" line="38" column="28" />
+        <mark key="[" line="90" column="2" />
+        <mark key="]" line="90" column="2" />
+        <mark key="^" line="90" column="2" />
+        <mark key="." line="90" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590051997259">
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1590060406378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/postsPublish.js" timestamp="1590053832684">
         <mark key="[" line="37" column="36" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590058118781">
+      <file name="/GraphQL.result.json" timestamp="1590058714661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1590057934304">
@@ -176,6 +165,7 @@
         <mark key="." line="285" column="101" />
         <mark key="^" line="285" column="20" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" timestamp="1590060240400" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/index.ts" timestamp="1590055214040">
         <mark key="'" line="82" column="40" />
         <mark key="[" line="38" column="51" />
@@ -183,17 +173,17 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="55" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/image.ts" timestamp="1590052058671">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="12" />
-        <mark key="^" line="32" column="13" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/linkedin/index.js" timestamp="1590052566313">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="31" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1590060063906">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/ffmpegProcessVideo.ts" timestamp="1590057144302">
         <mark key="'" line="102" column="41" />
@@ -308,8 +298,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>logger.error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBwcm9jZXNzZWRWaWRlb1VybCA9IGAke2Nsb3VkVXJsfS8ke3ZpZGVvTG9jYXRpb259YDsKICBjb25zdCBwcm9jZXNzZWRUaHVtYm5haWxVcmwgPSBgJHtjbG91ZFVybH0vJHt0aHVtYm5haWxMb2NhdGlvbn1gOw==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -439,7 +429,10 @@
       <register name="0" type="4">
         <text>payload, error</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCBwcm9jZXNzZWRWaWRlb1VybCA9IGAke2Nsb3VkVXJsfS8ke3ZpZGVvTG9jYXRpb259YDsKICBjb25zdCBwcm9jZXNzZWRUaHVtYm5haWxVcmwgPSBgJHtjbG91ZFVybH0vJHt0aHVtYm5haWxMb2NhdGlvbn1gOw==</text>
+      </register>
+      <register name="2" type="4">
         <text>logger.error('both nextNode and nextLoc should be null at the same time', nextNode, nextLoc);
           }
 
@@ -449,17 +442,14 @@
         if (!passToNext) {
           //</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdib3RoIG5leHROb2RlIGFuZCBuZXh0TG9jIHNob3VsZCBiZSBudWxsIGF0IHRoZSBzYW1lIHRpbWUnLCBuZXh0Tm9kZSwgbmV4dExvYyk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcvaW1wb3J0cy9hcGkvc2VydmljZXMvc2VydmVyL2xvZ2dlcic7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsb2dFcnJvcigpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9iai5lbnRyaWVzLmZvckVhY2goZSkgICAgc2NvcGUuc2V0RXh0cmEoKQo=</text>
+        <text encoding="base64">ICBsb2dFcnJvcigpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -488,16 +478,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5lbnRyaWVzKG9iaikK</text>
+        <text encoding="base64">ICAgIG9iai5lbnRyaWVzLmZvckVhY2goZSkgICAgc2NvcGUuc2V0RXh0cmEoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgIE9iamVjdC5lbnRyaWVzKG9iaikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2VudHIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
   </component>
