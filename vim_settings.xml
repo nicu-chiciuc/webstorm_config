@@ -130,7 +130,7 @@
         <mark key="^" line="285" column="20" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/twitter/media/MediaPreview.tsx" timestamp="1590064799722" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/Labels/PopUp/EditLabel.tsx" timestamp="1590064719179" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/Labels/PopUp/EditLabel.tsx" timestamp="1590065777842" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1590060063906">
         <mark key="[" line="34" column="32" />
       </file>
@@ -139,7 +139,6 @@
       <file name="/JavaScript Console" timestamp="1590064651417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/MediaPreview.tsx" timestamp="1590064761578" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1590060183728">
         <mark key="'" line="38" column="28" />
         <mark key="[" line="90" column="2" />
