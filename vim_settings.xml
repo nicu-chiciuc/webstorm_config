@@ -157,11 +157,9 @@
         <mark key="^" line="20" column="46" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1590407256347">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="11" column="59" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1590412203370" />
+      <file name="/GraphQL.result.json" timestamp="1590412453508">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/PostFeed/GenericDatePicker.tsx" timestamp="1590402051231">
         <mark key="'" line="44" column="1" />
