@@ -134,10 +134,9 @@
         <mark key="'" line="522" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/pages/pages.ts" timestamp="1590476027845">
-        <mark key="[" line="167" column="58" />
-        <mark key="]" line="167" column="58" />
-        <mark key="." line="167" column="58" />
-        <mark key="^" line="4" column="25" />
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Editor/index.tsx" timestamp="1590407369208">
         <mark key="[" line="602" column="49" />
@@ -175,10 +174,7 @@
         <mark key="." line="36" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1590476739150">
-        <mark key="'" line="1820" column="40" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+        <mark key="'" line="2101" column="40" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/Attachment/index.tsx" timestamp="1590407031955">
         <mark key="'" line="0" column="12" />
