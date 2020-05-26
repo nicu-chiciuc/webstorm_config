@@ -131,6 +131,13 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/containers/MediaLibraryContainer/MediaDragContainer.tsx" timestamp="1590487787440">
         <mark key="'" line="69" column="30" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1590489824589">
+        <mark key="'" line="295" column="18" />
+        <mark key="[" line="159" column="13" />
+        <mark key="]" line="159" column="26" />
+        <mark key="^" line="159" column="26" />
+        <mark key="." line="159" column="25" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/root/Authenticated.tsx" timestamp="1590487920366" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" timestamp="1590488260088">
         <mark key="[" line="26" column="0" />
@@ -140,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CheckInvite.tsx" />
       <jump line="28" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" />
       <jump line="241" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" />
       <jump line="38" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" />
@@ -240,6 +246,7 @@
       <jump line="47" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" />
       <jump line="89" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/MediaDragContext/manager.tsx" />
       <jump line="69" column="30" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/containers/MediaLibraryContainer/MediaDragContainer.tsx" />
+      <jump line="301" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
