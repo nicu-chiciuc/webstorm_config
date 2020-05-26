@@ -128,12 +128,12 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Company/CompanyRoutes/CompanySettings.tsx" timestamp="1590486194094" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1590488356815" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.github/workflows/meteorCI.yml" timestamp="1590488338347" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" timestamp="1590491357680">
-        <mark key="'" line="56" column="87" />
-        <mark key="[" line="81" column="18" />
-        <mark key="]" line="81" column="26" />
-        <mark key="." line="81" column="25" />
-        <mark key="^" line="81" column="26" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" timestamp="1590497114418">
+        <mark key="'" line="181" column="0" />
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/containers/MediaLibraryContainer/LazyMediaDragContainer.tsx" timestamp="1590487812075" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/containers/MediaLibraryContainer/MediaDragContainer.tsx" timestamp="1590487787440">
@@ -155,13 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="83" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/WorkspacesTilesList.tsx" />
-      <jump line="24" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CompaniesBilling/index.js" />
-      <jump line="61" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CompaniesBilling/index.tsx" />
-      <jump line="69" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CompaniesBilling/index.tsx" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CompaniesBilling/index.tsx" />
-      <jump line="65" column="26" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CompaniesBilling/index.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/CompaniesBilling/index.tsx" />
       <jump line="10" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/PublishedButton.js" />
       <jump line="33" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduledTimeText.tsx" />
       <jump line="58" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduledTimeText.tsx" />
@@ -255,12 +248,19 @@
       <jump line="409" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
       <jump line="33" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
       <jump line="56" column="87" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="166" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="173" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="186" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="250" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="54" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="152" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
+      <jump line="181" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/SignUp.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYWxsVGhlU3R1ZmYoKSB7fQo=</text>
+        <text encoding="base64">ICBzaG93RXJyb3JzOiBmYWxzZSwKICBpc1VzZXJSZWdpc3RlcmVkOiBmYWxzZQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -362,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>error.reason</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -388,23 +388,22 @@
         <text>window</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICcnLAogICAgZW1haWxBZGRyZXNzOiAnJywKICAgIHBhc3N3b3JkOiAnJywKICAgIGlzVXNlclJlZ2lzdGVyZWQ6IGZhbHNlLAogICAgaXNGb2N1c2VkOiBmYWxzZSwKICAgIHRlcm1zQ29uc2VudDogZmFsc2UsCiAgICBlbWFpbENvbnNlbnQ6IHRydWUsCiAgICBzaG93RXJyb3JzOiBmYWxzZSwKICAgIGlzU2lnbmluZ1VwOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgc2hvd0Vycm9yczogZmFsc2UsCiAgICAgIGlzVXNlclJlZ2lzdGVyZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYWxsVGhlU3R1ZmYoKSB7fQo=</text>
+        <text encoding="base64">ICBzaG93RXJyb3JzOiBmYWxzZSwKICBpc1VzZXJSZWdpc3RlcmVkOiBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYWxsVGhlU3R1ZmYoKXsKICAKICAKfQo=</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0ZW9yLmNhbGwoJ0ludml0ZXMuY2hlY2snLCB7IGludml0ZVRva2VuOiBpbnZpdGVJZCB9LCAobWV0aG9kRXJyb3IsIHJlc3VsdCkgPT4gewogICAgICAgICAgICAgIGlmIChyZXN1bHQgJiYgcmVzdWx0LndvcmtzcGFjZUlkKSB7CiAgICAgICAgICAgICAgICBoaXN0b3J5LnB1c2goYC9iLyR7cmVzdWx0LndvcmtzcGFjZUlkfWApOwogICAgICAgICAgICAgICAgd2luZG93LmFuYWx5dGljcy5pZGVudGlmeSh1c2VySWQsIHsgaXNJbnZpdGVkOiB0cnVlIH0pOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzRW50ZXJwcmlzZSgpKSB7CiAgICAgIHByb2ZpbGUuaXNFbnRlcnByaXNlID0gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXRJc1NpZ25pbmdJbjogKCkgPT4gdm9pZDsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gYWxsVGhlU3R1ZmYoKSB7fQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -433,16 +432,17 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aXNDb2huZgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYWxsVGhlU3R1ZmYoKXsKICAKICAKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc0NvbmZpZ0xvYWRlZDogYm9vbGVhbjsK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBvcGVuTW9kYWw6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQ7Cg==</text>
+      <register name="8" type="4">
+        <text>{
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXRjaDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkOwo=</text>
+        <text encoding="base64">ICBzZXRJc1NpZ25pbmdJbjogKCkgPT4gdm9pZDsK</text>
       </register>
     </registers>
   </component>
