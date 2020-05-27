@@ -113,7 +113,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1590589960635" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tests/cypress/integration/features/composer_spec.js" timestamp="1590590432215" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tests/cypress/integration/features/composer_spec.js" timestamp="1590590860881">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="22" />
+        <mark key="." line="265" column="0" />
+        <mark key="^" line="264" column="4" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/global.d.ts" timestamp="1590588409839">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -124,7 +129,7 @@
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1590589667537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tests/cypress/support/composerCommands.js" timestamp="1590590751104">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tests/cypress/support/composerCommands.js" timestamp="1590591103579">
         <mark key="[" line="75" column="13" />
         <mark key="]" line="75" column="13" />
         <mark key="^" line="76" column="15" />
@@ -296,8 +301,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN5LnNhdmVDb21wb3NlcigpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -429,19 +434,19 @@
         <text>mediaContent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN5LnNhdmVDb21wb3NlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQHRzLW5vY2hlY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Ly8gQHRzLW5vY2hlY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gV0FSTklORzogVGhpcyBmaWxlIHdhcyBjb3BpZWQgZnJvbSBwbGFuYWJsZS1hcHAgYnV0IHRoZSBjaGVja3MgdGhhdCB3ZXJlIHJlc3BvbnNpYmxlIGZvcgo=</text>
+        <text encoding="base64">Ly8gQHRzLW5vY2hlY2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gc2FmZS10eXBpbmcgd2VyZSByZW1vdmVkLCB1bnRpbCB0aGUgZmlsZSBpcyByZXZlcnRlZCwgdGhlCg==</text>
+        <text encoding="base64">Ly8gV0FSTklORzogVGhpcyBmaWxlIHdhcyBjb3BpZWQgZnJvbSBwbGFuYWJsZS1hcHAgYnV0IHRoZSBjaGVja3MgdGhhdCB3ZXJlIHJlc3BvbnNpYmxlIGZvcgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -468,16 +473,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzKSB7CiAgLy8gICBpZiAocHJldlByb3BzLnNlbGVjdGVkTWVkaWEubGVuZ3RoICE9PSB0aGlzLnByb3BzLnNlbGVjdGVkTWVkaWEubGVuZ3RoKSB7CiAgLy8gICAgIGNvbnNvbGUubG9nKCdNZWRpYSBMaXN0IHVwZGF0ZScsIHsgb2xkOiBwcmV2UHJvcHMsIG5ldzogdGhpcy5wcm9wcyB9KTsKICAvLyAgIH0KICAvLyB9Cg==</text>
+        <text encoding="base64">Ly8gc2FmZS10eXBpbmcgd2VyZSByZW1vdmVkLCB1bnRpbCB0aGUgZmlsZSBpcyByZXZlcnRlZCwgdGhlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVsIH0gZnJvbSAnLi4vLi4vdXRpbHMvcG9zdHMvbWVkaWFWYWxpZGF0aW9ucyc7Cg==</text>
+        <text encoding="base64">ICAvLyBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzKSB7CiAgLy8gICBpZiAocHJldlByb3BzLnNlbGVjdGVkTWVkaWEubGVuZ3RoICE9PSB0aGlzLnByb3BzLnNlbGVjdGVkTWVkaWEubGVuZ3RoKSB7CiAgLy8gICAgIGNvbnNvbGUubG9nKCdNZWRpYSBMaXN0IHVwZGF0ZScsIHsgb2xkOiBwcmV2UHJvcHMsIG5ldzogdGhpcy5wcm9wcyB9KTsKICAvLyAgIH0KICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBXQVJOSU5HOiBSZW1vdmUgdGhpcyBhcyBzb29uIGFzIHRoZSBjb2RlIGlzIGNsZWFuZWQgYW5kIHRoZSB0eXBlcyBmcm9tIHBsYW5hYmxlLWFwcCBhcmUgc3luY2hyb25pemVkCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVsIH0gZnJvbSAnLi4vLi4vdXRpbHMvcG9zdHMvbWVkaWFWYWxpZGF0aW9ucyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtZWRpYUNvbnRlbnQ/OiBNZWRpYUNvbnRlbnQ7Cg==</text>
+        <text encoding="base64">ICAvLyBXQVJOSU5HOiBSZW1vdmUgdGhpcyBhcyBzb29uIGFzIHRoZSBjb2RlIGlzIGNsZWFuZWQgYW5kIHRoZSB0eXBlcyBmcm9tIHBsYW5hYmxlLWFwcCBhcmUgc3luY2hyb25pemVkCg==</text>
       </register>
     </registers>
   </component>
