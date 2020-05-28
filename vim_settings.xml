@@ -138,7 +138,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Company/CompanyHeader/CompanyPopOver.tsx" timestamp="1590670400544">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Company/CompanyHeader/CompanyPopOver.tsx" timestamp="1590676731469">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="32" />
         <mark key="^" line="62" column="23" />
@@ -284,8 +284,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gW25hbWVdOiB2YWx1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>= undefined</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -388,7 +388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fCB1bmRlZmluZWQg</text>
+        <text>= undefined</text>
       </register>
       <register name="m" type="4">
         <keys>
