@@ -164,9 +164,6 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" timestamp="1590666673155" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/trash/MemberOption.js" timestamp="1590665209378">
-        <mark key="'" line="48" column="43" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/InviteForm/UserEmailSearchSelect/index.tsx" timestamp="1590665364423">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="7" />
@@ -180,6 +177,7 @@
         <mark key="." line="181" column="17" />
         <mark key="^" line="181" column="18" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/AccountSettings/AccountSettingsNavbar.tsx" timestamp="1590670603186" />
     </filemarks>
     <jumps>
       <jump line="10" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/navbar/PageNavbar/ComposeButtonMobile.tsx" />
