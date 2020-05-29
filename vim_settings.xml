@@ -165,13 +165,6 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" timestamp="1590679968826">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/CheckboxSelect/index.tsx" timestamp="1590679020329">
-        <mark key="'" line="36" column="14" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="26" />
-        <mark key="^" line="32" column="26" />
-        <mark key="." line="32" column="25" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" timestamp="1590680758142">
         <mark key="'" line="331" column="0" />
       </file>
@@ -202,9 +195,11 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/GoogleChooser.js" timestamp="1590680734394">
         <mark key="'" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/ConnectActionButton.tsx" timestamp="1590737139793">
+        <mark key="'" line="40" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
       <jump line="116" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="22" column="26" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="239" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
@@ -304,6 +299,7 @@
       <jump line="71" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
       <jump line="106" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
       <jump line="45" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
+      <jump line="40" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/ConnectActionButton.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
