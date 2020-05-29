@@ -106,81 +106,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" timestamp="1590739647328">
-        <mark key="'" line="118" column="11" />
-        <mark key="[" line="118" column="11" />
-        <mark key="]" line="118" column="26" />
-        <mark key="." line="118" column="27" />
-        <mark key="^" line="73" column="9" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" timestamp="1590743650777">
+        <mark key="'" line="113" column="33" />
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.js" timestamp="1590679190797">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.js" timestamp="1590681265706">
-        <mark key="'" line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/MediaLibraryModal.tsx" timestamp="1590680722417">
-        <mark key="'" line="93" column="10" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1590739276392">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/containers/ListElement/Placeholder.tsx" timestamp="1590679458248">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="66" />
-        <mark key="^" line="13" column="66" />
-        <mark key="." line="13" column="65" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.js" timestamp="1590680831900">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/containers/ListElement/index.tsx" timestamp="1590679895402">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/PostsGroupConsumer.tsx" timestamp="1590680625130">
-        <mark key="'" line="66" column="14" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="29" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/utils/posts/instagramShare.js" timestamp="1590743906551" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/api/mediaLibrary/mappings.ts" timestamp="1590743358438">
+        <mark key="'" line="279" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/FileAttachment/index.js" timestamp="1590681138239">
         <mark key="'" line="60" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.tsx" timestamp="1590681043798">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.tsx" timestamp="1590742895127">
+        <mark key="'" line="113" column="43" />
+        <mark key="[" line="113" column="31" />
+        <mark key="]" line="113" column="43" />
+        <mark key="." line="113" column="31" />
+        <mark key="^" line="113" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/StyledCheckbox/index.tsx" timestamp="1590679547124">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="46" />
-        <mark key="^" line="11" column="58" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" timestamp="1590743484283">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="445" column="10" />
+        <mark key="]" line="445" column="10" />
+        <mark key="^" line="445" column="11" />
+        <mark key="." line="445" column="10" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" timestamp="1590679968826">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" timestamp="1590680758142">
-        <mark key="'" line="331" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/CheckboxSelect/CheckboxElement.tsx" timestamp="1590679045741">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" timestamp="1590737103521">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" timestamp="1590742717788">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="3" />
         <mark key="^" line="12" column="3" />
@@ -193,14 +147,28 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="52" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.js" timestamp="1590681265706">
+        <mark key="'" line="52" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1590742582699">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Posts/ComposerWrapper/index.tsx" timestamp="1590743379309">
+        <mark key="'" line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Posts/withInstagramShare/index.js" timestamp="1590743869592" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1590743661950">
+        <mark key="[" line="127" column="30" />
+        <mark key="]" line="127" column="30" />
+        <mark key="^" line="127" column="44" />
+        <mark key="." line="127" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1590743203013" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/FileAttachment/index.tsx" timestamp="1590681196795">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/GoogleChooser.js" timestamp="1590680734394">
-        <mark key="'" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/ConnectActionButton.tsx" timestamp="1590738248878">
         <mark key="'" line="27" column="4" />
@@ -211,18 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/ConnectTile/index.tsx" />
-      <jump line="94" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="119" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="137" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="134" column="5" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="175" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="211" column="61" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="250" column="62" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="65" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/out.txt" />
-      <jump line="16" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/out.txt" />
-      <jump line="74" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/out.txt" />
       <jump line="73" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.js" />
       <jump line="15" column="53" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
       <jump line="48" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/trash/MemberOption.js" />
@@ -311,12 +267,24 @@
       <jump line="94" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
       <jump line="98" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
       <jump line="118" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
+      <jump line="22" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.tsx" />
+      <jump line="113" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.tsx" />
+      <jump line="13" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" />
+      <jump line="249" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" />
+      <jump line="92" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" />
+      <jump line="1" column="102" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/api/mediaLibrary/mappings.ts" />
+      <jump line="279" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/api/mediaLibrary/mappings.ts" />
+      <jump line="383" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Posts/ComposerWrapper/index.tsx" />
+      <jump line="75" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/components/Posts/ComposerWrapper/index.tsx" />
+      <jump line="445" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" />
+      <jump line="113" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -419,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -445,17 +413,7 @@
         <text>window</text>
       </register>
       <register name="0" type="4">
-        <text>{
-          const { timezone, timeFormat, selectedSuggestion, pageType } = this.props;
-
-          // Save new Timeslot if exists selected;
-          if (selectedSuggestion) {
-            this.handleSaveTimeSlots(selectedSuggestion);
-          }
-
-          ModalManager.close();
-          scheduleNotification({ scheduledAt, timezone, timeFormat, pageType, scheduledPostsCounter: response.length });
-        }</text>
+        <text>requestClose</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICk7Cg==</text>
