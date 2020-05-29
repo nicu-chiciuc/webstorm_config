@@ -106,11 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" timestamp="1590739112893">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="73" column="2" />
-        <mark key="]" line="73" column="10" />
-        <mark key="." line="73" column="11" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" timestamp="1590739647328">
+        <mark key="'" line="118" column="11" />
+        <mark key="[" line="118" column="11" />
+        <mark key="]" line="118" column="26" />
+        <mark key="." line="118" column="27" />
         <mark key="^" line="73" column="9" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.js" timestamp="1590679190797">
@@ -122,7 +122,7 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/MediaLibraryModal.tsx" timestamp="1590680722417">
         <mark key="'" line="93" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590739051893">
+      <file name="/GraphQL.result.json" timestamp="1590739276392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/containers/ListElement/Placeholder.tsx" timestamp="1590679458248">
@@ -211,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="276" column="43" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
-      <jump line="26" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
       <jump line="28" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/ConnectTile/index.tsx" />
       <jump line="94" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
       <jump line="119" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
@@ -311,6 +308,9 @@
       <jump line="72" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
       <jump line="71" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
       <jump line="73" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
+      <jump line="94" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
+      <jump line="98" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
+      <jump line="118" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
