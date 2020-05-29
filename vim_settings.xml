@@ -106,6 +106,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.js" timestamp="1590679190797">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.js" timestamp="1590681265706">
+        <mark key="'" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/MediaLibraryModal.tsx" timestamp="1590680722417">
+        <mark key="'" line="93" column="10" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1590736866329">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/containers/ListElement/Placeholder.tsx" timestamp="1590679458248">
         <mark key="'" line="33" column="10" />
         <mark key="[" line="13" column="65" />
@@ -113,41 +125,12 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" timestamp="1590681487077">
-        <mark key="'" line="106" column="24" />
-        <mark key="[" line="106" column="43" />
-        <mark key="]" line="106" column="52" />
-        <mark key="." line="106" column="51" />
-        <mark key="^" line="106" column="52" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/GoogleChooser.js" timestamp="1590680734394">
-        <mark key="'" line="23" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.js" timestamp="1590679190797">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/filters/Status/index.tsx" timestamp="1590679009023">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/FileAttachment/index.js" timestamp="1590681138239">
-        <mark key="'" line="60" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/StyledCheckbox/index.tsx" timestamp="1590679547124">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="46" />
-        <mark key="^" line="11" column="58" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/CheckboxSelect/CheckboxElement.tsx" timestamp="1590679045741">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.js" timestamp="1590681265706">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.js" timestamp="1590680831900">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/containers/ListElement/index.tsx" timestamp="1590679895402">
         <mark key="'" line="68" column="0" />
@@ -155,6 +138,32 @@
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/PostsGroupConsumer.tsx" timestamp="1590680625130">
+        <mark key="'" line="66" column="14" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/FileAttachment/index.js" timestamp="1590681138239">
+        <mark key="'" line="60" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.tsx" timestamp="1590681043798">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/StyledCheckbox/index.tsx" timestamp="1590679547124">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="11" column="58" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" timestamp="1590679968826">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/CheckboxSelect/index.tsx" timestamp="1590679020329">
         <mark key="'" line="36" column="14" />
@@ -166,38 +175,23 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" timestamp="1590680758142">
         <mark key="'" line="331" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/MediaLibraryModal.tsx" timestamp="1590680722417">
-        <mark key="'" line="93" column="10" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/CheckboxSelect/CheckboxElement.tsx" timestamp="1590679045741">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.js" timestamp="1590680831900">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="16" column="35" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" timestamp="1590737103521">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/PostsGroupConsumer.tsx" timestamp="1590680625130">
-        <mark key="'" line="66" column="14" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/RemoveCollection/index.tsx" timestamp="1590681043798">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" timestamp="1590679968826">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/target/containers/GenderSelector.tsx" timestamp="1590678373823">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="9" column="59" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" timestamp="1590736900998">
+        <mark key="'" line="45" column="24" />
+        <mark key="[" line="106" column="43" />
+        <mark key="]" line="106" column="52" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="106" column="52" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/FileAttachment/index.tsx" timestamp="1590681196795">
         <mark key="[" line="9" column="42" />
@@ -205,9 +199,11 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="47" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/GoogleChooser.js" timestamp="1590680734394">
+        <mark key="'" line="23" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="77" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
       <jump line="27" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/PageTile.tsx" />
       <jump line="116" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="22" column="26" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
@@ -307,6 +303,7 @@
       <jump line="134" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
       <jump line="71" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
       <jump line="106" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
+      <jump line="45" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostLeftSidebarContainer/ScheduleOrPublishModalButtons.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
