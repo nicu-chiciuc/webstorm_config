@@ -106,12 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" timestamp="1590738786616">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/containers/hoc/MediaLibraryWrapper/index.tsx" timestamp="1590738914324">
         <mark key="'" line="71" column="2" />
-        <mark key="[" line="71" column="2" />
-        <mark key="]" line="71" column="3" />
-        <mark key="." line="71" column="2" />
-        <mark key="^" line="71" column="3" />
+        <mark key="[" line="73" column="2" />
+        <mark key="]" line="73" column="9" />
+        <mark key="." line="73" column="8" />
+        <mark key="^" line="73" column="9" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.js" timestamp="1590679190797">
         <mark key="'" line="0" column="0" />
@@ -122,7 +122,7 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/MediaLibraryModal.tsx" timestamp="1590680722417">
         <mark key="'" line="93" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590738777206">
+      <file name="/GraphQL.result.json" timestamp="1590738888081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/containers/ListElement/Placeholder.tsx" timestamp="1590679458248">
@@ -316,7 +316,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>i</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -419,7 +419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>i</text>
       </register>
       <register name="m" type="4">
         <keys>
