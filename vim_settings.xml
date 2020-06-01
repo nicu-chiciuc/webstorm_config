@@ -127,13 +127,12 @@
         <mark key="." line="28" column="41" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.js" timestamp="1591009826048">
-        <mark key="'" line="12" column="83" />
-        <mark key="[" line="1291" column="0" />
-        <mark key="]" line="1314" column="0" />
-        <mark key="." line="1314" column="0" />
-        <mark key="^" line="1314" column="117" />
+        <mark key="[" line="1442" column="0" />
+        <mark key="]" line="1465" column="0" />
+        <mark key="." line="1465" column="0" />
+        <mark key="^" line="1465" column="117" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591013066742">
+      <file name="/JavaScript Console" timestamp="1591015072350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591011012030">
@@ -141,9 +140,7 @@
         <mark key="]" line="126" column="32" />
         <mark key="." line="126" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1590770605113">
-        <mark key="'" line="580" column="16" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/common.ts" timestamp="1591014811946" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/LoadingPostPlaceholder/index.tsx" timestamp="1591012289573">
         <mark key="'" line="19" column="24" />
         <mark key="[" line="111" column="19" />
@@ -151,6 +148,7 @@
         <mark key="^" line="111" column="40" />
         <mark key="." line="111" column="39" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/processing.ts" timestamp="1591014792945" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-development.json" timestamp="1591007794218" />
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591006362442">
         <mark key="[" line="0" column="0" />
@@ -163,9 +161,6 @@
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="41" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1591003022387">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/reverseError.ts" timestamp="1591004120617">
         <mark key="[" line="2" column="91" />
