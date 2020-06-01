@@ -112,37 +112,6 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.js" timestamp="1590765580353">
-        <mark key="'" line="1250" column="25" />
-        <mark key="[" line="1201" column="12" />
-        <mark key="]" line="1201" column="13" />
-        <mark key="." line="1201" column="13" />
-        <mark key="^" line="1254" column="72" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/notifications/getNotification.ts" timestamp="1590763962775">
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1590770572545">
-        <mark key="'" line="580" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1590765224714">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="33" column="17" />
-        <mark key="^" line="127" column="44" />
-        <mark key="." line="127" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1590761771477">
-        <mark key="'" line="103" column="1" />
-        <mark key="[" line="12" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1590761776845">
-        <mark key="'" line="1802" column="21" />
-        <mark key="[" line="330" column="53" />
-        <mark key="]" line="330" column="53" />
-        <mark key="." line="330" column="53" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxModal.tsx" timestamp="1590754855983" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.ts" timestamp="1590760107633">
         <mark key="'" line="1" column="14" />
         <mark key="[" line="1193" column="3" />
@@ -156,11 +125,27 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePost.ts" timestamp="1590760303130" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/lambda-media-meta/.build/interfaces/mediaInfo/processing.d.ts" timestamp="1590764969974" />
+      <file name="/GraphQL.result.json" timestamp="1590994355755">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.js" timestamp="1590765580353">
+        <mark key="'" line="1250" column="25" />
+        <mark key="[" line="1201" column="12" />
+        <mark key="]" line="1201" column="13" />
+        <mark key="." line="1201" column="13" />
+        <mark key="^" line="1254" column="72" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainerFeed.tsx" timestamp="1590762620788">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/urlRetrier.ts" timestamp="1590760029352">
         <mark key="[" line="57" column="24" />
         <mark key="]" line="57" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/image.ts" timestamp="1590765207822">
+        <mark key="'" line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/SplitLayoutContext/index.tsx" timestamp="1590756499161">
         <mark key="'" line="299" column="43" />
@@ -169,21 +154,35 @@
         <mark key="^" line="214" column="27" />
         <mark key="." line="334" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1590765224714">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="127" column="44" />
+        <mark key="." line="127" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/notifications/getNotification.ts" timestamp="1590763962775">
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1590761771477">
+        <mark key="'" line="103" column="1" />
+        <mark key="[" line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1590761776845">
+        <mark key="'" line="1802" column="21" />
+        <mark key="[" line="330" column="53" />
+        <mark key="]" line="330" column="53" />
+        <mark key="." line="330" column="53" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1590770605113">
+        <mark key="'" line="580" column="16" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/services/server/methods/getUrlMediainfo.ts" timestamp="1590765119259">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainerFeed.tsx" timestamp="1590762620788">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/image.ts" timestamp="1590765207822">
-        <mark key="'" line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/portal/ModalManager.tsx" timestamp="1590754737490" />
     </filemarks>
     <jumps>
       <jump line="27" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Page/ConnectActionButton.tsx" />
