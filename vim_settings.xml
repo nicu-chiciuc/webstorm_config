@@ -106,7 +106,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591006362442">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591005701887">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/placeholders/MediaPlaceholder.tsx" timestamp="1591012242448">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/placeholders/StoryPlaceholder.tsx" timestamp="1591012131477">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
@@ -126,11 +138,31 @@
         <mark key="^" line="28" column="42" />
         <mark key="." line="28" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.js" timestamp="1591009826048">
-        <mark key="[" line="1442" column="0" />
-        <mark key="]" line="1465" column="0" />
-        <mark key="." line="1465" column="0" />
-        <mark key="^" line="1465" column="117" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/reverseError.ts" timestamp="1591004120617">
+        <mark key="[" line="2" column="91" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="2" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591015344716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.js" timestamp="1591016486830">
+        <mark key="'" line="1189" column="8" />
+        <mark key="[" line="1216" column="68" />
+        <mark key="]" line="1216" column="72" />
+        <mark key="." line="1216" column="71" />
+        <mark key="^" line="1216" column="72" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/PostsFeed.tsx" timestamp="1591010738043">
+        <mark key="'" line="61" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/components/PostTilePlaceholder.tsx" timestamp="1591012143582">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="42" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="46" column="41" />
       </file>
       <file name="/JavaScript Console" timestamp="1591015072350">
         <mark key="[" line="0" column="0" />
@@ -140,7 +172,12 @@
         <mark key="]" line="126" column="32" />
         <mark key="." line="126" column="32" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/common.ts" timestamp="1591014811946" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/placeholders/CommentsPlaceholder.tsx" timestamp="1591012083071">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/LoadingPostPlaceholder/index.tsx" timestamp="1591012289573">
         <mark key="'" line="19" column="24" />
         <mark key="[" line="111" column="19" />
@@ -148,49 +185,12 @@
         <mark key="^" line="111" column="40" />
         <mark key="." line="111" column="39" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/processing.ts" timestamp="1591014792945" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-development.json" timestamp="1591007794218" />
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591006362442">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591005701887">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/placeholders/StoryPlaceholder.tsx" timestamp="1591012131477">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="42" />
-        <mark key="^" line="15" column="42" />
-        <mark key="." line="15" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/reverseError.ts" timestamp="1591004120617">
-        <mark key="[" line="2" column="91" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/PostsFeed.tsx" timestamp="1591010738043">
-        <mark key="'" line="61" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/PostsFeedConsumer.tsx" timestamp="1591011348424" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/components/PostTilePlaceholder.tsx" timestamp="1591012143582">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="46" column="42" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="46" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/placeholders/CommentsPlaceholder.tsx" timestamp="1591012083071">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="41" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1591012051634">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/settings-development.json" timestamp="1591016044818" />
     </filemarks>
     <jumps>
-      <jump line="199" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" />
       <jump line="161" column="87" filename="$USER_HOME$/Dev/PLANABLE/planable-app/.eslintrc.js" />
       <jump line="432" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
       <jump line="445" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
@@ -290,12 +290,13 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/components/PostTilePlaceholder.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/placeholders/PostPlaceholder.tsx" />
       <jump line="19" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/LoadingPostPlaceholder/index.tsx" />
+      <jump line="1189" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/migrations.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>undefined</text>
+        <text>.rawCollection()</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -398,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>.rawCollection()</text>
       </register>
       <register name="m" type="4">
         <keys>
