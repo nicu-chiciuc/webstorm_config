@@ -112,12 +112,6 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/ApprovalsSettings/User.tsx" timestamp="1591083397392">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="7" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/trash/WorkspaceOnboarding/PageTile.js" timestamp="1591083971753" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/WorkspaceOnboarding/components/ConnectPages/PagesList.tsx" timestamp="1591083791304">
         <mark key="'" line="14" column="29" />
@@ -127,10 +121,6 @@
         <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1591086387033" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/UserLabel.tsx" timestamp="1591081000493">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="32" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/userSchema.d.ts" timestamp="1591086315288">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="9" column="39" />
@@ -138,20 +128,26 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="59" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591090360696">
+        <mark key="[" line="197" column="31" />
+        <mark key="]" line="197" column="33" />
+        <mark key="." line="197" column="32" />
+        <mark key="^" line="197" column="33" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/WorkspaceOnboarding/components/ConnectPages/PagesList.js" timestamp="1591084029667">
         <mark key="'" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591086540530">
-        <mark key="'" line="1149" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/UserInfo/index.tsx" timestamp="1591083483448">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="14" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591089082037">
+        <mark key="'" line="1693" column="46" />
+        <mark key="[" line="352" column="27" />
+        <mark key="]" line="352" column="34" />
+        <mark key="." line="352" column="33" />
+        <mark key="^" line="352" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/WorkspaceOnboarding/components/ConnectPages/PageTile.js" timestamp="1591083938425" />
+      <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/common.ts" timestamp="1591089884796">
+        <mark key="'" line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" timestamp="1591084174104">
         <mark key="'" line="213" column="8" />
         <mark key="[" line="18" column="43" />
@@ -168,11 +164,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/meteor/meteor.d.ts" timestamp="1591083440715">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="35" column="19" />
+      <file name="/GraphQL.result.json" timestamp="1591089675691">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" timestamp="1591084386565">
         <mark key="'" line="39" column="42" />
@@ -181,22 +174,18 @@
         <mark key="." line="28" column="13" />
         <mark key="^" line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" timestamp="1591090289459">
+        <mark key="'" line="162" column="25" />
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="15" />
+        <mark key="^" line="42" column="16" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/WorkspaceOnboarding/components/ConnectPages/OnBoardingConnect.js" timestamp="1591084009004">
         <mark key="'" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/ApprovalsSettings/WorkspaceUsers.tsx" timestamp="1591083387759">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="27" />
-        <mark key="^" line="31" column="27" />
-        <mark key="." line="31" column="26" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/ProgressBar.js" />
-      <jump line="32" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MissingApp/index.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MissingApp/index.tsx" />
-      <jump line="82" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MissingApp/index.tsx" />
-      <jump line="163" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/MediaLibrary/GoogleChooser.js" />
       <jump line="615" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
       <jump line="38" column="82" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ActionButtons/index.tsx" />
       <jump line="26" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ActionButtons/index.tsx" />
@@ -292,12 +281,17 @@
       <jump line="1287" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1149" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1695" column="46" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="119" column="0" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/common.ts" />
+      <jump line="105" column="16" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
+      <jump line="136" column="62" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
+      <jump line="161" column="25" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>failureMessage</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -400,7 +394,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>failureMessage</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -425,29 +419,23 @@
       <register name="/" type="4">
         <text>window</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-        [key in 'addedPost' | 'postStatusUpdate' | 'conversations']: boolean;
-      };</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgaWYgKCFtZXNzYWdlLkJvZHkpIHsKICAgICAgICAgICAgdW5wcm9jZXNzZWRTdWNjZXNzTWVzc2FnZShtZXNzYWdlKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgfQoKICAgICAgICAgIGNvbnN0IHsgcmVzcG9uc2VQYXlsb2FkLCByZXF1ZXN0UGF5bG9hZCB9ID0gSlNPTi5wYXJzZShtZXNzYWdlLkJvZHkpOwoKICAgICAgICAgIGNvbnN0IHJlc3BvbnNlVmFsaWRhdGlvbiA9IE1lZGlhaW5mb1Jlc3BvbnNlSU8uZGVjb2RlKHJlc3BvbnNlUGF5bG9hZCk7CiAgICAgICAgICBjb25zdCByZXF1ZXN0VmFsaWRhdGlvbiA9IHQKICAgICAgICAgICAgLmludGVyc2VjdGlvbihbdC50eXBlKHsgcGFzc3Rocm91Z2g6IHBhc3N0aHJvdWdoSU8gfSksIE1lZGlhaW5mb1JlcXVlc3RJT10pCiAgICAgICAgICAgIC5kZWNvZGUocmVxdWVzdFBheWxvYWQpOwoKICAgICAgICAgIGlmIChyZXNwb25zZVZhbGlkYXRpb24uX3RhZyA9PT0gJ1JpZ2h0JyAmJiByZXF1ZXN0VmFsaWRhdGlvbi5fdGFnID09PSAnUmlnaHQnKSB7CiAgICAgICAgICAgIGNvbnN0IHsgcGFzc3Rocm91Z2ggfSA9IHJlcXVlc3RWYWxpZGF0aW9uLnJpZ2h0OwogICAgICAgICAgICBjb25zdCByZXNwb25zZSA9IHJlc3BvbnNlVmFsaWRhdGlvbi5yaWdodDsKCiAgICAgICAgICAgIC8vIENvbmRpdGlvbmFsIHR5cGVzIGFyZSBzY2FyeQogICAgICAgICAgICBjb25zdCBib2k6IFBhc3N0aHJvdWdoICYgU2ltcGxlTWVkaWFpbmZvU3VjY2Vzc01lc3NhZ2UgPSB7CiAgICAgICAgICAgICAgLi4ucGFzc3Rocm91Z2gsCiAgICAgICAgICAgICAgcmVzcG9uc2UsCiAgICAgICAgICAgICAgbWVzc2FnZQogICAgICAgICAgICB9OwoKICAgICAgICAgICAgc3VjY2Vzc01lc3NhZ2UoYm9pKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgfQoKICAgICAgICAgIHVucHJvY2Vzc2VkU3VjY2Vzc01lc3NhZ2UobWVzc2FnZSwgeyByZXNwb25zZVZhbGlkYXRpb24sIHJlcXVlc3RWYWxpZGF0aW9uIH0pOwogICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICB1bnByb2Nlc3NlZFN1Y2Nlc3NNZXNzYWdlKG1lc3NhZ2UsIGVycm9yKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        [key in 'addedPost' | 'postStatusUpdate' | 'conversations']: boolean;
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgY29uc3QgeyBQYXlsb2FkIH0gPSBtZXNzYWdlOwogICAgICAgICAgaWYgKCFQYXlsb2FkKSB7CiAgICAgICAgICAgIHVucHJvY2Vzc2VkU3VjY2Vzc01lc3NhZ2UobWVzc2FnZSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgIH0KCiAgICAgICAgICBjb25zdCByZXNwb25zZVBheWxvYWQgPSBKU09OLnBhcnNlKFBheWxvYWQudG9TdHJpbmcoKSk7CiAgICAgICAgICBjb25zdCByZXNwb25zZVZhbGlkYXRpb24gPSBNZWRpYWluZm9SZXNwb25zZUlPLmRlY29kZShyZXNwb25zZVBheWxvYWQpOwoKICAgICAgICAgIGlmIChyZXNwb25zZVZhbGlkYXRpb24uX3RhZyA9PT0gJ1JpZ2h0JykgewogICAgICAgICAgICBjb25zdCByZXNwb25zZSA9IHJlc3BvbnNlVmFsaWRhdGlvbi5yaWdodDsKICAgICAgICAgICAgY29uc3QgeyBwYXNzdGhyb3VnaCB9ID0gcmVxdWVzdDsKCiAgICAgICAgICAgIC8vIENvbmRpdGlvbmFsIHR5cGVzIGFyZSBzY2FyeQogICAgICAgICAgICBjb25zdCBib2k6IFBhc3N0aHJvdWdoICYgU2ltcGxlTWVkaWFpbmZvU3VjY2Vzc01lc3NhZ2UgPSB7CiAgICAgICAgICAgICAgLi4ucGFzc3Rocm91Z2gsCiAgICAgICAgICAgICAgcmVzcG9uc2UsCiAgICAgICAgICAgICAgbWVzc2FnZQogICAgICAgICAgICB9OwoKICAgICAgICAgICAgc3VjY2Vzc01lc3NhZ2UoYm9pKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgfQoKICAgICAgICAgIHVucHJvY2Vzc2VkU3VjY2Vzc01lc3NhZ2UobWVzc2FnZSwgeyByZXNwb25zZVZhbGlkYXRpb24sIHJlcXVlc3QgfSk7CiAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICAgIHVucHJvY2Vzc2VkU3VjY2Vzc01lc3NhZ2UobWVzc2FnZSwgZXJyb3IpOwogICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-  
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICogQW4gZWFzaWVyIG9wdGlvbiB3b3VsZCBiZSB0byAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgY29uc3QgeyBub3RpZmljYXRpb25TZXR0aW5ncyB9ID0gcHJvcHM7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgcmVzcG9uc2VQYXlsb2FkLCByZXF1ZXN0UGF5bG9hZCB9ID0gYm9keTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIG5vdGlmaWNhdGlvblNldHRpbmdzCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgQm9keSB9ID0gbWVzc2FnZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgbm90aWZpY2F0aW9uU2V0dGluZ3M6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAogICAgdXNlcklkOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICB3b3Jrc3BhY2VJZDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkCiAgfTsK</text>
+        <text encoding="base64">ICBmYWlsdXJlTWVzc2FnZSwK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -482,16 +470,20 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">Y29uc3QgeyBwcm9taXNlT3JTcXMgfSA9IE1ldGVvci5zZXR0aW5ncy5wdWJsaWMuQVdTOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">SW50cm9Ub3VyLnByb3BUeXBlcyA9IHsKICBsYXVuY2hJbnRybzogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICBzaG93VG91cjogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZCwKICBvcGVuTW9kYWw6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQKfTsK</text>
+      <register name="7" type="4">
+        <text>{
+        [key in 'addedPost' | 'postStatusUpdate' | 'conversations']: boolean;
+      }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kYWxNYW5hZ2VyIH0gZnJvbSAnLi4vLi4vLi4vbW9kYWxzJzsK</text>
+      <register name="8" type="4">
+        <text>{
+  
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgY29uc3QgeyBub3RpZmljYXRpb25TZXR0aW5ncyB9ID0gcHJvcHM7CiAgfQo=</text>
       </register>
     </registers>
   </component>
