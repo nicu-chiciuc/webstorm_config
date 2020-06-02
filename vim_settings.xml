@@ -127,7 +127,7 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="27" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591101835312">
+      <file name="/JavaScript Console" timestamp="1591102756936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/common.ts" timestamp="1591095668887">
@@ -135,7 +135,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1591101291845">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1591102613606">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="11" />
@@ -153,12 +153,6 @@
       <file name="/Dummy.txt" timestamp="1591095139324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/lambda-media-meta/interfaces/mediaInfo/processing.ts" timestamp="1591091601424">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="^" line="214" column="0" />
-        <mark key="." line="214" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" timestamp="1591101022840">
         <mark key="'" line="156" column="6" />
         <mark key="[" line="154" column="0" />
@@ -168,23 +162,19 @@
       <file name="/GraphQL.result.json" timestamp="1591095138264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591101895452">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="39" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/typesIO.ts" timestamp="1591092598001">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="38" column="65" />
-        <mark key="^" line="38" column="65" />
-        <mark key="." line="38" column="64" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591102743903">
+        <mark key="'" line="83" column="1" />
+        <mark key="[" line="118" column="78" />
+        <mark key="]" line="119" column="15" />
+        <mark key="^" line="119" column="15" />
+        <mark key="." line="119" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1591094358308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Preview.tsx" timestamp="1591103185453" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/withSimpleRouter.tsx" timestamp="1591101113755">
         <mark key="[" line="10" column="59" />
         <mark key="]" line="10" column="66" />
@@ -206,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPaymentContainer.tsx" />
-      <jump line="10" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPaymentContainer.tsx" />
       <jump line="11" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPaymentContainer.tsx" />
       <jump line="29" column="46" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
       <jump line="203" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
@@ -298,7 +286,6 @@
       <jump line="158" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="143" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="108" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
-      <jump line="82" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
@@ -306,12 +293,15 @@
       <jump line="133" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" />
       <jump line="156" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" />
       <jump line="88" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" />
+      <jump line="52" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="82" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="208" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgY29uc2lzdGVudC1yZXR1cm4gKi8K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -414,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
