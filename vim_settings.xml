@@ -115,7 +115,7 @@
       <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/common.ts" timestamp="1591095251651">
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/lambda-media-meta/interfaces/common.ts" timestamp="1591095578596">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/lambda-media-meta/interfaces/common.ts" timestamp="1591109112059">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -127,7 +127,7 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="27" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591102756936">
+      <file name="/JavaScript Console" timestamp="1591109254719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/transcoder-formation/interfaces/common.ts" timestamp="1591095668887">
@@ -135,7 +135,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1591102613606">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" timestamp="1591108169900">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="11" />
@@ -147,6 +147,9 @@
         <mark key="[" line="13" column="75" />
         <mark key="]" line="13" column="75" />
         <mark key="." line="13" column="75" />
+      </file>
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591109024764">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" timestamp="1591095276789">
         <mark key="'" line="151" column="0" />
@@ -164,22 +167,26 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1591095138264">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591109499022">
+        <mark key="'" line="126" column="1" />
+        <mark key="[" line="157" column="2" />
+        <mark key="]" line="157" column="2" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="157" column="2" />
+      </file>
+      <file name="file:///tools/static-assets/server/runtime.js" timestamp="1591108933891">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591102743903">
-        <mark key="'" line="83" column="1" />
-        <mark key="[" line="118" column="78" />
-        <mark key="]" line="119" column="15" />
-        <mark key="^" line="119" column="15" />
-        <mark key="." line="119" column="14" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Preview.tsx" timestamp="1591107877886">
+        <mark key="'" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1591094358308">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1591108482692">
+        <mark key="'" line="327" column="57" />
+        <mark key="[" line="329" column="3" />
+        <mark key="]" line="329" column="4" />
+        <mark key="^" line="329" column="4" />
+        <mark key="." line="329" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Preview.tsx" timestamp="1591103267692" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/withSimpleRouter.tsx" timestamp="1591101113755">
         <mark key="[" line="10" column="59" />
         <mark key="]" line="10" column="66" />
@@ -201,23 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPaymentContainer.tsx" />
-      <jump line="29" column="46" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
-      <jump line="203" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
-      <jump line="60" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
-      <jump line="83" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
-      <jump line="95" column="39" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
-      <jump line="246" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
-      <jump line="247" column="48" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/video.ts" />
-      <jump line="163" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/video.ts" />
-      <jump line="2" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/draft-js-linkify-plugin/linkStrategy.js" />
-      <jump line="439" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
-      <jump line="28" column="32" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
-      <jump line="466" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
-      <jump line="101" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
-      <jump line="427" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
-      <jump line="444" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
       <jump line="22" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
       <jump line="110" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
       <jump line="117" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PricingAndPayment.tsx" />
@@ -300,13 +290,30 @@
       <jump line="88" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagaProcessMedia/index.ts" />
       <jump line="52" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="82" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="32" column="35" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Preview.tsx" />
+      <jump line="115" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="202" column="36" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
       <jump line="208" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="232" column="72" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="251" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="248" column="100" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="264" column="70" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="279" column="116" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="293" column="70" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="298" column="79" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="306" column="63" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="310" column="55" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="314" column="50" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="318" column="85" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="325" column="57" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
+      <jump line="157" column="53" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="125" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>n</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -409,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -435,60 +442,79 @@
         <text>window</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PSAobWVzc2FnZTogQVdTLlNRUy5NZXNzYWdlKSA9PiB7</text>
+        <text>'MediaLibrary.statusChange'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgY29uc2lzdGVudC1yZXR1cm4gKi8K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZnVjayBrbm93Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBJTkZPOiBUaGlzIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZnVjayBrbm93Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVuc2FmZV91bmlvbkZ1bmNUb1VuaW9uQXJnPEZ1bmMgZXh0ZW5kcyAoYXJnczogYW55KSA9PiBhbnk+KGZ1bmM6IEZ1bmMpIHsKICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQHR5cGVzY3JpcHQtZXNsaW50L2Jhbi10cy1pZ25vcmUKICAvLyBAdHMtaWdub3JlCiAgcmV0dXJuIGZ1bmMgYXMgVW5pb25GdW5jRml4PEZ1bmM+Owp9Cg==</text>
+        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgY29uc2lzdGVudC1yZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENoZWNrIG91dCB0aGUgdXNhZ2UgaW4gYXdzLXN0YXJ0dXAgdG8gY2hlY2sgdGhlIG91dHB1dCB0eXBlCiAqLwpleHBvcnQgZnVuY3Rpb24gZ3JvdXBPYmpVbnNhZmU8SyBleHRlbmRzIHN0cmluZywgT2JqIGV4dGVuZHMgeyBbayBpbiBLXTogc3RyaW5nIH0+KGFycjogT2JqW10sIGtleTogSykgewogIC8vIEB0cy1pZ25vcmUKICBjb25zdCByZXRPYmo6IHsgW2sgaW4gT2JqW0tdXTogT2JqV2l0aEtleTxPYmosIEssIGs+W10gfSA9IHt9OwoKICBhcnIuZm9yRWFjaCh0dXAgPT4gewogICAgY29uc3QgZWxlbSA9IHR1cFtrZXldOwogICAgaWYgKGVsZW0gaW4gcmV0T2JqKSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgcmV0T2JqW2VsZW1dLnB1c2godHVwKTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgcmV0T2JqW2VsZW1dID0gW3R1cF07CiAgICB9CiAgfSk7CgogIHJldHVybiByZXRPYmo7Cn0K</text>
+        <text encoding="base64">ICAvLyBNb3N0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgQHR5cGVzY3JpcHQtZXNsaW50L2Jhbi10cy1pZ25vcmUgKi8K</text>
+        <text encoding="base64">ICByZXR1cm4gJ3Nxcyc7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
+          <key char="119" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="77" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
           <key char="111" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
           <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
           <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG9iamVjdE1hcFZhbHM8UGFyYW0sIE9iaiBleHRlbmRzIHsgW2s6IHN0cmluZ106IChhcmc6IFBhcmFtKSA9PiBhbnkgfT4oCiAgb2JqOiBPYmosCiAgcGFyYW06IFBhcmFtCik6IHsKICBbUCBpbiBrZXlvZiBPYmpdOiBSZXR1cm5UeXBlPE9ialtQXT47Cn0gewogIC8vIEB0cy1pZ25vcmUKICBjb25zdCByZXRPYmo6IHsKICAgIFtQIGluIGtleW9mIE9ial06IFJldHVyblR5cGU8T2JqW1BdPjsKICB9ID0ge307CgogIG9iamVjdEtleShvYmopLmZvckVhY2goa2V5ID0+IHsKICAgIHJldE9ialtrZXldID0gb2JqW2tleV0ocGFyYW0pOwogIH0pOwoKICByZXR1cm4gcmV0T2JqOwp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgY29uc2lzdGVudC1yZXR1cm4gKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIG9uTWVkaWFQcm9jZXNzRXJyb3IocGVuZGluZ01lZGlhSWQ6IHN0cmluZywgZXJyb3JNZXNzYWdlOiBzdHJpbmcsIHN0dWZmOiB1bmtub3duW10pOiB2b2lkIHsKICBsb2dnZXIuZXJyb3IoJ2NvdWxkIG5vdCBjb252ZXJ0IG1lZGlhIHVybCB0byBzMyBidWNrZXQgdXJsJywgLi4uc3R1ZmYpOwogIE1lZGlhVXBsb2Fkc09wZXJhdGlvbnMuc2V0U3RhdHVzRXJyb3IocGVuZGluZ01lZGlhSWQpOwp9CgovLyBUaGUgZnVuY3Rpb25zIGJlbG93IHNob3VsZCBhbGwgc2l0IHRpZ2h0IGluIG9uZSBwbGFjZQpleHBvcnQgZnVuY3Rpb24gb25Hb3RNYWluTWVkaWFpbmZvKHNhZ2FQcm9jZXNzSWQ6IHN0cmluZywgcmVzcG9uc2U6IE1lZGlhaW5mb091dHB1dFR5cGUpOiB2b2lkIHsKICBjb25zdCB7IG1lZGlhaW5mbyB9ID0gcmVzcG9uc2U7CiAgY29uc3QgZGF0YSA9IHBhcnNlTWVkaWFpbmZvKHsgbWVkaWFpbmZvIH0pOwoKICBpZiAoIWRhdGEpIHsKICAgIHJldHVybiBvbk1lZGlhUHJvY2Vzc0Vycm9yKHNhZ2FQcm9jZXNzSWQsICdNZWRpYWluZm8gY291bGQgbm90IHBlIHBhcnNlZCcsIFtdKTsKICB9CgogIHN3aXRjaCAoZGF0YS5tZWRpYVR5cGUpIHsKICAgIGNhc2UgJ2ltYWdlJzogewogICAgICBjb25zdCBmdWxsSW1hZ2U6IEZ1bGxJbWFnZSA9IHsKICAgICAgICBtZWRpYVR5cGU6ICdpbWFnZScsCiAgICAgICAgbmFtZTogJ05PVCBJTVBMRU1FTlRFRCBZRVQnLAogICAgICAgIHV1aWQ6IFJhbmRvbS5pZCgpLAogICAgICAgIG9yaWdpbmFsSW1hZ2U6IGRhdGEKICAgICAgfTsKCiAgICAgIE1lZGlhVXBsb2Fkc09wZXJhdGlvbnMuc2V0U3RhdHVzU3VjY2VzcyhzYWdhUHJvY2Vzc0lkLCBmdWxsSW1hZ2UpOwoKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNhc2UgJ2dpZic6CiAgICBjYXNlICd2aWRlbyc6IHsKICAgICAgY29uc3Qgb3JpZ2luYWxWaWRlb01ldGEgPSBkYXRhOwoKICAgICAgTWVkaWFVcGxvYWRzT3BlcmF0aW9ucy5zZXRPcmlnaW5hbFZpZGVvTWV0YShzYWdhUHJvY2Vzc0lkLCBvcmlnaW5hbFZpZGVvTWV0YSk7CgogICAgICBjb25zdCBzM0tleSA9IGZpbGVOYW1lRnJvbVVybChkYXRhLnVybCk7CgogICAgICBpZiAoIXMzS2V5KSB7CiAgICAgICAgcmV0dXJuIG9uTWVkaWFQcm9jZXNzRXJyb3Ioc2FnYVByb2Nlc3NJZCwgJ2NvdWxkIG5vdCBjb252ZXJ0IG1lZGlhIHVybCB0byBzMyBidWNrZXQgdXJsJywgW2RhdGEudXJsLCBzM0tleV0pOwogICAgICB9CgogICAgICBOT0RFX1RyYW5zY29kZXIoewogICAgICAgIHBhc3N0aHJvdWdoOiB7IHNhZ2FQcm9jZXNzSWQsIGxvYzogJ1Byb2Nlc3NMb2NhdGlvbkVudW0vUHJvY2Vzc2VkTWVkaWFMaWJyYXJ5TWFpblZpZGVvJyB9LAogICAgICAgIHZpZGVvS2V5OiBzM0tleQogICAgICB9KTsKCiAgICAgIHJldHVybjsKICAgIH0KCiAgICBkZWZhdWx0OiB7CiAgICAgIHVucmVhY2hhYmxlKGRhdGEpOwoKICAgICAgcmV0dXJuIG9uTWVkaWFQcm9jZXNzRXJyb3Ioc2FnYVByb2Nlc3NJZCwgJ2RhdGEubWVkaWFUeXBlIGlzIHVua25vd24nLCBbZGF0YT8ubWVkaWFUeXBlXSk7CiAgICB9CiAgfQp9CgpleHBvcnQgZnVuY3Rpb24gb25Qcm9jZXNzZWRNZWRpYUxpYnJhcnlNYWluVmlkZW8oCiAgc2FnYVByb2Nlc3NJZDogc3RyaW5nLAogIGJvZHk6IFRyYW5zY29kZXJSZXNwb25zZSB8IFRyYW5zY29kZXJKb2JSZXNwb25zZQopOiB2b2lkIHsKICBjb25zdCB7IHZpZGVvTG9jYXRpb24sIHRodW1ibmFpbExvY2F0aW9uIH0gPSAndXNlck1ldGFkYXRhJyBpbiBib2R5ID8gYm9keS51c2VyTWV0YWRhdGEgOiBib2R5LlVzZXJNZXRhZGF0YTsKICBjb25zdCBjbG91ZFVybCA9IE1ldGVvci5zZXR0aW5ncy5wdWJsaWMuY2xvdWRmcm9udC5kb21haW47CgogIGNvbnN0IHByb2Nlc3NlZFZpZGVvVXJsID0gYCR7Y2xvdWRVcmx9LyR7dmlkZW9Mb2NhdGlvbn1gOwogIGNvbnN0IHByb2Nlc3NlZFRodW1ibmFpbFVybCA9IGAke2Nsb3VkVXJsfS8ke3RodW1ibmFpbExvY2F0aW9ufWA7CgogIE5PREVfTXVsdGlNZWRpYWluZm8oewogICAgcGFzc3Rocm91Z2g6IHsgc2FnYVByb2Nlc3NJZCwgbG9jOiAnUHJvY2Vzc0xvY2F0aW9uRW51bS9Hb3RNZXRhT2ZUcmFuc2NvZGVkVmlkZW8nIH0sCiAgICBtZWRpYVVybHM6IFtwcm9jZXNzZWRWaWRlb1VybCwgcHJvY2Vzc2VkVGh1bWJuYWlsVXJsXQogIH0pOwp9CgpleHBvcnQgZnVuY3Rpb24gb25Hb3RNZXRhT2ZUcmFuc2NvZGVkVmlkZW8oc2FnYVByb2Nlc3NJZDogc3RyaW5nLCByZXNwb25zZTogTXVsdGlNZWRpYWluZm9PdXRwdXRUeXBlKTogdm9pZCB7CiAgbG9nZ2VyLmRlYnVnKCdvbkdvdE1ldGFPZlRyYW5zY29kZWRWaWRlbycsIHNhZ2FQcm9jZXNzSWQsIHJlc3BvbnNlKTsKICBjb25zdCB7IG1lZGlhaW5mb3MgfSA9IHJlc3BvbnNlOwoKICBjb25zdCBbdmlkZW9NZXRhLCB0aHVtYm5haWxdID0gbWVkaWFpbmZvcy5tYXAobWVkaWFpbmZvID0+IHBhcnNlTWVkaWFpbmZvKG1lZGlhaW5mbykpOwoKICBjb25zdCBbY3VycmVudF0gPSBNZWRpYVVwbG9hZHNPcGVyYXRpb25zLmZpbmRCeUlkcyhbc2FnYVByb2Nlc3NJZF0pLmZldGNoKCk7CgogIGlmICghKHZpZGVvTWV0YT8ubWVkaWFUeXBlID09PSAndmlkZW8nICYmIHRodW1ibmFpbD8ubWVkaWFUeXBlID09PSAnaW1hZ2UnKSkgewogICAgcmV0dXJuIG9uTWVkaWFQcm9jZXNzRXJyb3IoCiAgICAgIHNhZ2FQcm9jZXNzSWQsCiAgICAgIGB2aWRlb01ldGEubWVkaWFUeXBlIGlzIG5vdCAndmlkZW8nIG9yIHRodW1ibmFpbC5tZWRpYVR5cGUgaXMgbm90ICdpbWFnZSdgLAogICAgICBbXQogICAgKTsKICB9CiAgaWYgKCEoJ29yaWdpbmFsVmlkZW9NZXRhJyBpbiBjdXJyZW50ICYmIGN1cnJlbnQub3JpZ2luYWxWaWRlb01ldGEpKSB7CiAgICByZXR1cm4gb25NZWRpYVByb2Nlc3NFcnJvcihzYWdhUHJvY2Vzc0lkLCBgY3VycmVudCBkb2Vzbid0IGhhdmUgb3JpZ2luYWxWaWRlb01ldGFgLCBbXSk7CiAgfQoKICBjb25zdCB2aWRlb09yR2lmTWV0YSA9IGN1cnJlbnQub3JpZ2luYWxWaWRlb01ldGE7CgogIGlmIChjdXJyZW50LmluaXRpYWxNZXRhLm1lZGlhVHlwZSA9PT0gJ3ZpZGVvJyAmJiB2aWRlb09yR2lmTWV0YS5tZWRpYVR5cGUgPT09ICd2aWRlbycpIHsKICAgIGNvbnN0IGZ1bGxWaWRlbzogRnVsbFZpZGVvID0gewogICAgICBtZWRpYVR5cGU6ICd2aWRlbycsCiAgICAgIG5hbWU6ICdOT1QgSU1QTEVNRU5URUQgWUVUIHZpZGVvJywKICAgICAgdXVpZDogUmFuZG9tLmlkKCksCgogICAgICB0aHVtYm5haWwsCiAgICAgIHRodW1ibmFpbHM6IFt0aHVtYm5haWxdLAoKICAgICAgb3JpZ2luYWxWaWRlbzogdmlkZW9PckdpZk1ldGEsCiAgICAgIG9yaWdpbmFsVHJhbnNjb2RlZDogdmlkZW9NZXRhLAoKICAgICAgdmVyc2lvbnM6IFtdCiAgICB9OwogICAgTWVkaWFVcGxvYWRzT3BlcmF0aW9ucy5zZXRTdGF0dXNTdWNjZXNzKHNhZ2FQcm9jZXNzSWQsIGZ1bGxWaWRlbyk7CiAgfSBlbHNlIGlmIChjdXJyZW50LmluaXRpYWxNZXRhLm1lZGlhVHlwZSA9PT0gJ2dpZicgJiYgdmlkZW9PckdpZk1ldGEubWVkaWFUeXBlID09PSAnZ2lmJykgewogICAgY29uc3QgZnVsbEdpZjogRnVsbEdpZiA9IHsKICAgICAgbWVkaWFUeXBlOiAnZ2lmJywKICAgICAgbmFtZTogJ05PVCBJTVBMRU1FTlRFRCBZRVQgbmFtZScsCiAgICAgIHV1aWQ6IFJhbmRvbS5pZCgpLAoKICAgICAgb3JpZ2luYWxHaWY6IHZpZGVvT3JHaWZNZXRhLAogICAgICB0aHVtYm5haWwsCiAgICAgIHRyYW5zY29kZWRWaWRlbzogdmlkZW9NZXRhCiAgICB9OwogICAgTWVkaWFVcGxvYWRzT3BlcmF0aW9ucy5zZXRTdGF0dXNTdWNjZXNzKHNhZ2FQcm9jZXNzSWQsIGZ1bGxHaWYpOwogIH0gZWxzZSB7CiAgICBjb25zb2xlLmVycm9yKCdFUlJPUjogU2hvdWxkIGJlIGp1c3QgdmlkZW8gb3IgZ2lmJyk7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAvLyBJTkZPOiBUaGlzIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVkaWFpbmZvT3V0cHV0VHlwZSwgTXVsdGlNZWRpYWluZm9PdXRwdXRUeXBlLCBNdWx0aU1lZGlhaW5mb1JlcXVlc3RUeXBlIH0gZnJvbSAnQHBsYW5hYmxlL2xhbWJkYS1tZWRpYS1tZXRhJzsKaW1wb3J0IHsgVHJhbnNjb2RlckpvYlJlc3BvbnNlLCBUcmFuc2NvZGVyUmVxdWVzdCwgVHJhbnNjb2RlclJlc3BvbnNlIH0gZnJvbSAnQHBsYW5hYmxlL3RyYW5zY29kZXItZm9ybWF0aW9uJzsKaW1wb3J0IHsgTWV0ZW9yIH0gZnJvbSAnbWV0ZW9yL21ldGVvcic7CmltcG9ydCB7IFJhbmRvbSB9IGZyb20gJ21ldGVvci9yYW5kb20nOwppbXBvcnQgeyB1bnJlYWNoYWJsZSB9IGZyb20gJy9pbXBvcnRzL2FwaS90c1V0aWxzJzsKaW1wb3J0IHsgZmlsZU5hbWVGcm9tVXJsIH0gZnJvbSAnLi4vLi4vLi4vcG9zdHMvc2VydmVyL21ldGhvZHMvcHJvY2Vzc1ZpZGVvJzsKaW1wb3J0IHsgcGFyc2VNZWRpYWluZm8gfSBmcm9tICcuLi8uLi9tZWRpYWluZm9QYXJzZXInOwppbXBvcnQgeyBGdWxsR2lmLCBGdWxsSW1hZ2UsIEZ1bGxWaWRlbywgTWVkaWFVcGxvYWRzT3BlcmF0aW9ucyB9IGZyb20gJy4uLy4uL21lZGlhVXBsb2Fkcyc7CmltcG9ydCB7IFJlZ2lzdGVyU2FnYVR5cGUgfSBmcm9tICcvaW1wb3J0cy9zdGFydHVwL3NlcnZlci9hd3Mtc3RhcnR1cCc7CmltcG9ydCBsb2dnZXIgZnJvbSAnL2ltcG9ydHMvYXBpL3NlcnZpY2VzL3NlcnZlci9sb2dnZXInOwoKZnVuY3Rpb24gb25NZWRpYVByb2Nlc3NFcnJvcihwZW5kaW5nTWVkaWFJZDogc3RyaW5nLCBlcnJvck1lc3NhZ2U6IHN0cmluZywgc3R1ZmY6IHVua25vd25bXSk6IG51bGwgewogIGxvZ2dlci5lcnJvcignY291bGQgbm90IGNvbnZlcnQgbWVkaWEgdXJsIHRvIHMzIGJ1Y2tldCB1cmwnLCAuLi5zdHVmZik7CiAgTWVkaWFVcGxvYWRzT3BlcmF0aW9ucy5zZXRTdGF0dXNFcnJvcihwZW5kaW5nTWVkaWFJZCk7CiAgcmV0dXJuIG51bGw7Cn0KCmV4cG9ydCBmdW5jdGlvbiByZWdpc3RlclRoaXNQcm9jZXNzKHJlZ2lzdHJhdG9yOiBSZWdpc3RlclNhZ2FUeXBlKSB7CiAgcmV0dXJuIHJlZ2lzdHJhdG9yKHsgbmV4dE5vZGU6ICdOT0RFX01lZGlhaW5mbycsIG5leHRMb2M6ICdQcm9jZXNzTG9jYXRpb25FbnVtL0dvdE1haW5NZWRpYVZpZGVvJyB9KQogICAgLm5leHQoewogICAgICBuZXh0TG9jOiAnUHJvY2Vzc0xvY2F0aW9uRW51bS9Qcm9jZXNzZWRNZWRpYUxpYnJhcnlNYWluVmlkZW8nLAogICAgICBuZXh0Tm9kZTogJ05PREVfVHJhbnNjb2RlcicsCiAgICAgIG9uU3VjY2VzczogdmFsdWUgPT4gewogICAgICAgIHJldHVybiBvbkdvdE1haW5NZWRpYWluZm8odmFsdWUuc2FnYVByb2Nlc3NJZCwgdmFsdWUucmVzcG9uc2UpOwogICAgICB9CiAgICB9KQogICAgLm5leHQoewogICAgICBuZXh0TG9jOiAnUHJvY2Vzc0xvY2F0aW9uRW51bS9Hb3RNZXRhT2ZUcmFuc2NvZGVkVmlkZW8nLAogICAgICBuZXh0Tm9kZTogJ05PREVfTXVsdGlNZWRpYWluZm8nLAogICAgICBvblN1Y2Nlc3M6IHZhbHVlID0+IHsKICAgICAgICByZXR1cm4gb25Qcm9jZXNzZWRNZWRpYUxpYnJhcnlNYWluVmlkZW8odmFsdWUuc2FnYVByb2Nlc3NJZCwgdmFsdWUucmVzcG9uc2UpOwogICAgICB9CiAgICB9KQogICAgLmZpbmlzaCh7CiAgICAgIG9uU3VjY2VzczogdmFsdWUgPT4gewogICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKTsKICAgICAgICByZXR1cm4gb25Hb3RNZXRhT2ZUcmFuc2NvZGVkVmlkZW8odmFsdWUuc2FnYVByb2Nlc3NJZCwgdmFsdWUucmVzcG9uc2UpOwogICAgICB9CiAgICB9KTsKfQoKZnVuY3Rpb24gb25Hb3RNYWluTWVkaWFpbmZvKHNhZ2FQcm9jZXNzSWQ6IHN0cmluZywgcmVzcG9uc2U6IE1lZGlhaW5mb091dHB1dFR5cGUpOiBUcmFuc2NvZGVyUmVxdWVzdCB8IG51bGwgewogIGNvbnN0IHsgbWVkaWFpbmZvIH0gPSByZXNwb25zZTsKICBjb25zdCBkYXRhID0gcGFyc2VNZWRpYWluZm8oeyBtZWRpYWluZm8gfSk7CgogIGlmICghZGF0YSkgewogICAgcmV0dXJuIG9uTWVkaWFQcm9jZXNzRXJyb3Ioc2FnYVByb2Nlc3NJZCwgJ01lZGlhaW5mbyBjb3VsZCBub3QgcGUgcGFyc2VkJywgW10pOwogIH0KCiAgc3dpdGNoIChkYXRhLm1lZGlhVHlwZSkgewogICAgY2FzZSAnaW1hZ2UnOiB7CiAgICAgIGNvbnN0IGZ1bGxJbWFnZTogRnVsbEltYWdlID0gewogICAgICAgIG1lZGlhVHlwZTogJ2ltYWdlJywKICAgICAgICBuYW1lOiAnTk9UIElNUExFTUVOVEVEIFlFVCcsCiAgICAgICAgdXVpZDogUmFuZG9tLmlkKCksCiAgICAgICAgb3JpZ2luYWxJbWFnZTogZGF0YQogICAgICB9OwoKICAgICAgTWVkaWFVcGxvYWRzT3BlcmF0aW9ucy5zZXRTdGF0dXNTdWNjZXNzKHNhZ2FQcm9jZXNzSWQsIGZ1bGxJbWFnZSk7CgogICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBjYXNlICdnaWYnOgogICAgY2FzZSAndmlkZW8nOiB7CiAgICAgIGNvbnN0IG9yaWdpbmFsVmlkZW9NZXRhID0gZGF0YTsKCiAgICAgIE1lZGlhVXBsb2Fkc09wZXJhdGlvbnMuc2V0T3JpZ2luYWxWaWRlb01ldGEoc2FnYVByb2Nlc3NJZCwgb3JpZ2luYWxWaWRlb01ldGEpOwoKICAgICAgY29uc3QgczNLZXkgPSBmaWxlTmFtZUZyb21VcmwoZGF0YS51cmwpOwoKICAgICAgaWYgKCFzM0tleSkgewogICAgICAgIHJldHVybiBvbk1lZGlhUHJvY2Vzc0Vycm9yKHNhZ2FQcm9jZXNzSWQsICdjb3VsZCBub3QgY29udmVydCBtZWRpYSB1cmwgdG8gczMgYnVja2V0IHVybCcsIFtkYXRhLnVybCwgczNLZXldKTsKICAgICAgfQoKICAgICAgcmV0dXJuIHsKICAgICAgICB2aWRlb0tleTogczNLZXkKICAgICAgfTsKICAgIH0KCiAgICBkZWZhdWx0OiB7CiAgICAgIHVucmVhY2hhYmxlKGRhdGEpOwoKICAgICAgcmV0dXJuIG9uTWVkaWFQcm9jZXNzRXJyb3Ioc2FnYVByb2Nlc3NJZCwgJ2RhdGEubWVkaWFUeXBlIGlzIHVua25vd24nLCBbZGF0YT8ubWVkaWFUeXBlXSk7CiAgICB9CiAgfQp9CgpmdW5jdGlvbiBvblByb2Nlc3NlZE1lZGlhTGlicmFyeU1haW5WaWRlbygKICBzYWdhUHJvY2Vzc0lkOiBzdHJpbmcsCiAgYm9keTogVHJhbnNjb2RlclJlc3BvbnNlIHwgVHJhbnNjb2RlckpvYlJlc3BvbnNlCik6IE11bHRpTWVkaWFpbmZvUmVxdWVzdFR5cGUgfCBudWxsIHsKICBjb25zdCB7IHZpZGVvTG9jYXRpb24sIHRodW1ibmFpbExvY2F0aW9uIH0gPSAndXNlck1ldGFkYXRhJyBpbiBib2R5ID8gYm9keS51c2VyTWV0YWRhdGEgOiBib2R5LlVzZXJNZXRhZGF0YTsKICBjb25zdCBjbG91ZFVybCA9IE1ldGVvci5zZXR0aW5ncy5wdWJsaWMuY2xvdWRmcm9udC5kb21haW47CgogIGNvbnN0IHByb2Nlc3NlZFZpZGVvVXJsID0gYCR7Y2xvdWRVcmx9LyR7dmlkZW9Mb2NhdGlvbn1gOwogIGNvbnN0IHByb2Nlc3NlZFRodW1ibmFpbFVybCA9IGAke2Nsb3VkVXJsfS8ke3RodW1ibmFpbExvY2F0aW9ufWA7CgogIHJldHVybiB7CiAgICBtZWRpYVVybHM6IFtwcm9jZXNzZWRWaWRlb1VybCwgcHJvY2Vzc2VkVGh1bWJuYWlsVXJsXQogIH07Cn0KCmZ1bmN0aW9uIG9uR290TWV0YU9mVHJhbnNjb2RlZFZpZGVvKHNhZ2FQcm9jZXNzSWQ6IHN0cmluZywgcmVzcG9uc2U6IE11bHRpTWVkaWFpbmZvT3V0cHV0VHlwZSk6IG51bGwgewogIGxvZ2dlci5kZWJ1Zygnb25Hb3RNZXRhT2ZUcmFuc2NvZGVkVmlkZW8nLCBzYWdhUHJvY2Vzc0lkLCByZXNwb25zZSk7CiAgY29uc3QgeyBtZWRpYWluZm9zIH0gPSByZXNwb25zZTsKCiAgY29uc3QgW3ZpZGVvTWV0YSwgdGh1bWJuYWlsXSA9IG1lZGlhaW5mb3MubWFwKG1lZGlhaW5mbyA9PiBwYXJzZU1lZGlhaW5mbyhtZWRpYWluZm8pKTsKCiAgY29uc3QgW2N1cnJlbnRdID0gTWVkaWFVcGxvYWRzT3BlcmF0aW9ucy5maW5kQnlJZHMoW3NhZ2FQcm9jZXNzSWRdKS5mZXRjaCgpOwoKICBpZiAoISh2aWRlb01ldGE/Lm1lZGlhVHlwZSA9PT0gJ3ZpZGVvJyAmJiB0aHVtYm5haWw/Lm1lZGlhVHlwZSA9PT0gJ2ltYWdlJykpIHsKICAgIHJldHVybiBvbk1lZGlhUHJvY2Vzc0Vycm9yKAogICAgICBzYWdhUHJvY2Vzc0lkLAogICAgICBgdmlkZW9NZXRhLm1lZGlhVHlwZSBpcyBub3QgJ3ZpZGVvJyBvciB0aHVtYm5haWwubWVkaWFUeXBlIGlzIG5vdCAnaW1hZ2UnYCwKICAgICAgW10KICAgICk7CiAgfQogIGlmICghKCdvcmlnaW5hbFZpZGVvTWV0YScgaW4gY3VycmVudCAmJiBjdXJyZW50Lm9yaWdpbmFsVmlkZW9NZXRhKSkgewogICAgcmV0dXJuIG9uTWVkaWFQcm9jZXNzRXJyb3Ioc2FnYVByb2Nlc3NJZCwgYGN1cnJlbnQgZG9lc24ndCBoYXZlIG9yaWdpbmFsVmlkZW9NZXRhYCwgW10pOwogIH0KCiAgY29uc3QgdmlkZW9PckdpZk1ldGEgPSBjdXJyZW50Lm9yaWdpbmFsVmlkZW9NZXRhOwoKICBpZiAoY3VycmVudC5pbml0aWFsTWV0YS5tZWRpYVR5cGUgPT09ICd2aWRlbycgJiYgdmlkZW9PckdpZk1ldGEubWVkaWFUeXBlID09PSAndmlkZW8nKSB7CiAgICBjb25zdCBmdWxsVmlkZW86IEZ1bGxWaWRlbyA9IHsKICAgICAgbWVkaWFUeXBlOiAndmlkZW8nLAogICAgICBuYW1lOiAnTk9UIElNUExFTUVOVEVEIFlFVCB2aWRlbycsCiAgICAgIHV1aWQ6IFJhbmRvbS5pZCgpLAoKICAgICAgdGh1bWJuYWlsLAogICAgICB0aHVtYm5haWxzOiBbdGh1bWJuYWlsXSwKCiAgICAgIG9yaWdpbmFsVmlkZW86IHZpZGVvT3JHaWZNZXRhLAogICAgICBvcmlnaW5hbFRyYW5zY29kZWQ6IHZpZGVvTWV0YSwKCiAgICAgIHZlcnNpb25zOiBbXQogICAgfTsKICAgIE1lZGlhVXBsb2Fkc09wZXJhdGlvbnMuc2V0U3RhdHVzU3VjY2VzcyhzYWdhUHJvY2Vzc0lkLCBmdWxsVmlkZW8pOwogIH0gZWxzZSBpZiAoY3VycmVudC5pbml0aWFsTWV0YS5tZWRpYVR5cGUgPT09ICdnaWYnICYmIHZpZGVvT3JHaWZNZXRhLm1lZGlhVHlwZSA9PT0gJ2dpZicpIHsKICAgIGNvbnN0IGZ1bGxHaWY6IEZ1bGxHaWYgPSB7CiAgICAgIG1lZGlhVHlwZTogJ2dpZicsCiAgICAgIG5hbWU6ICdOT1QgSU1QTEVNRU5URUQgWUVUIG5hbWUnLAogICAgICB1dWlkOiBSYW5kb20uaWQoKSwKCiAgICAgIG9yaWdpbmFsR2lmOiB2aWRlb09yR2lmTWV0YSwKICAgICAgdGh1bWJuYWlsLAogICAgICB0cmFuc2NvZGVkVmlkZW86IHZpZGVvTWV0YQogICAgfTsKICAgIE1lZGlhVXBsb2Fkc09wZXJhdGlvbnMuc2V0U3RhdHVzU3VjY2VzcyhzYWdhUHJvY2Vzc0lkLCBmdWxsR2lmKTsKICB9IGVsc2UgewogICAgY29uc29sZS5lcnJvcignRVJST1I6IFNob3VsZCBiZSBqdXN0IHZpZGVvIG9yIGdpZicpOwogIH0KCiAgcmV0dXJuIG51bGw7Cn0K</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVuc2FmZV91bmlvbkZ1bmNUb1VuaW9uQXJnPEZ1bmMgZXh0ZW5kcyAoYXJnczogYW55KSA9PiBhbnk+KGZ1bmM6IEZ1bmMpIHsKICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQHR5cGVzY3JpcHQtZXNsaW50L2Jhbi10cy1pZ25vcmUKICAvLyBAdHMtaWdub3JlCiAgcmV0dXJuIGZ1bmMgYXMgVW5pb25GdW5jRml4PEZ1bmM+Owp9Cg==</text>
       </register>
     </registers>
   </component>
