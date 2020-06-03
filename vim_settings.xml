@@ -106,11 +106,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591175284684">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@planable/lambda-media-meta/interfaces/multiMediaInfo/processing.ts" timestamp="1591174606114">
         <mark key="[" line="14" column="67" />
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591174711584">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" timestamp="1591174543019">
+        <mark key="'" line="249" column="25" />
+        <mark key="[" line="112" column="67" />
+        <mark key="]" line="113" column="2" />
+        <mark key="." line="113" column="1" />
+        <mark key="^" line="113" column="2" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/Month/Observer.tsx" timestamp="1591171934703">
         <mark key="'" line="45" column="26" />
@@ -119,8 +132,24 @@
         <mark key="^" line="14" column="90" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/containers/AttachmentsView/index.js" timestamp="1591170537261">
-        <mark key="'" line="4" column="44" />
+      <file name="/GraphQL.result.json" timestamp="1591174712832">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591175421461">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="12" />
+        <mark key="^" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" timestamp="1591171569674">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="41" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="3" column="40" />
+      </file>
+      <file name="vm:5895" timestamp="1591175400692">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/index.tsx" timestamp="1591170968711">
         <mark key="e" line="33" column="20" />
@@ -136,40 +165,6 @@
         <mark key="." line="93" column="54" />
         <mark key="^" line="93" column="43" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/common.ts" timestamp="1591174273645">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Attachments/components/Attachment/index.tsx" timestamp="1591170481508">
-        <mark key="'" line="0" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591173304653">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" timestamp="1591174543019">
-        <mark key="'" line="249" column="25" />
-        <mark key="[" line="112" column="67" />
-        <mark key="]" line="113" column="2" />
-        <mark key="." line="113" column="1" />
-        <mark key="^" line="113" column="2" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1591173311502">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591174661862">
-        <mark key="'" line="157" column="3" />
-        <mark key="[" line="35" column="1" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" timestamp="1591171569674">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="40" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/LinkComponent.js" timestamp="1591171873455">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="32" column="0" />
@@ -179,23 +174,20 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/Month/Observer.js" timestamp="1591171623159">
         <mark key="'" line="1" column="23" />
       </file>
+      <file name="/JavaScript Console" timestamp="1591177153894">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" timestamp="1591174414239">
-        <mark key="'" line="24" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="24" column="3" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/multiMediaInfo/processing.ts" timestamp="1591174303715">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591176820801">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="39" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="47" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/userSchema.d.ts" />
-      <jump line="23" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/userSchema.d.ts" />
       <jump line="1287" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1149" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -294,12 +286,14 @@
       <jump line="76" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="31" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="151" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="56" column="55" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0UHJvbWlzZU9yU3FzKCk6ICdwcm9taXNlJyB8ICdzcXMnIHsKICBjb25zdCB7IHByb21pc2VPclNxcyB9ID0gTWV0ZW9yLnNldHRpbmdzLnB1YmxpYy5BV1M7CgogIHJldHVybiBwcm9taXNlT3JTcXMgPT09ICdzcXMnID8gJ3NxcycgOiAncHJvbWlzZSc7Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>1.7.2</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -402,7 +396,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>1.7.2</text>
       </register>
       <register name="m" type="4">
         <keys>
