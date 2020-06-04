@@ -112,24 +112,6 @@
         <mark key="^" line="467" column="0" />
         <mark key="." line="467" column="0" />
       </file>
-      <file name="/PostContainer.tsx" timestamp="1591255574002" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1591269868335">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="248" column="10" />
-        <mark key="]" line="248" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/globals.d.ts" timestamp="1591260072051" />
-      <file name="/__dummy.tsx" timestamp="1591255296468">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" timestamp="1591264332935">
-        <mark key="[" line="80" column="49" />
-        <mark key="]" line="80" column="69" />
-        <mark key="^" line="80" column="69" />
-        <mark key="." line="80" column="68" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1591268061688" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1591255253738" />
       <file name="/Dummy.txt" timestamp="1591254924606">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,7 +122,17 @@
         <mark key="^" line="268" column="48" />
         <mark key="." line="262" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1591255306370" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1591269868335">
+        <mark key="'" line="124" column="4" />
+        <mark key="[" line="248" column="10" />
+        <mark key="]" line="248" column="28" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591274908108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/__dummy.tsx" timestamp="1591255296468">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/postsDuplicate.ts" timestamp="1591259854725">
         <mark key="[" line="55" column="3" />
         <mark key="]" line="55" column="20" />
@@ -149,6 +141,12 @@
       </file>
       <file name="/" timestamp="1591259705539">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" timestamp="1591264332935">
+        <mark key="[" line="80" column="49" />
+        <mark key="]" line="80" column="69" />
+        <mark key="^" line="80" column="69" />
+        <mark key="." line="80" column="68" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1591255773246">
         <mark key="'" line="36" column="48" />
@@ -165,7 +163,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Composer.tsx" timestamp="1591274573097">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/CommentThread.tsx" timestamp="1591275463152">
+        <mark key="[" line="124" column="10" />
+        <mark key="]" line="124" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Composer.tsx" timestamp="1591274670852">
         <mark key="[" line="86" column="2" />
         <mark key="]" line="86" column="2" />
         <mark key="." line="86" column="2" />
