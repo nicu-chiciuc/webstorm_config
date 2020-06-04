@@ -117,7 +117,6 @@
       <file name="/__dummy.tsx" timestamp="1591255296468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/PostsFeedConsumer.tsx" timestamp="1591253820333" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" timestamp="1591264332935">
         <mark key="[" line="80" column="49" />
         <mark key="]" line="80" column="69" />
@@ -125,6 +124,7 @@
         <mark key="." line="80" column="68" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/pages/PublicPost/PublicPostPage.tsx" timestamp="1591253893507" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1591267470463" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1591255253738" />
       <file name="/Dummy.txt" timestamp="1591254924606">
         <mark key="[" line="0" column="0" />
@@ -143,12 +143,7 @@
         <mark key="^" line="55" column="20" />
         <mark key="." line="55" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Preview.tsx" timestamp="1591265945883">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Preview.tsx" timestamp="1591265945883" />
       <file name="/" timestamp="1591259705539">
         <mark key="[" line="0" column="0" />
       </file>
