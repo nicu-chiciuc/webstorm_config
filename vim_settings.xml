@@ -113,6 +113,10 @@
         <mark key="." line="467" column="0" />
       </file>
       <file name="/PostContainer.tsx" timestamp="1591255574002" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1591269485744">
+        <mark key="[" line="248" column="10" />
+        <mark key="]" line="248" column="28" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/globals.d.ts" timestamp="1591260072051" />
       <file name="/__dummy.tsx" timestamp="1591255296468">
         <mark key="[" line="0" column="0" />
@@ -124,7 +128,7 @@
         <mark key="." line="80" column="68" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/pages/PublicPost/PublicPostPage.tsx" timestamp="1591253893507" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1591267470463" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1591268061688" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1591255253738" />
       <file name="/Dummy.txt" timestamp="1591254924606">
         <mark key="[" line="0" column="0" />
@@ -154,8 +158,7 @@
         <mark key="." line="622" column="41" />
         <mark key="^" line="622" column="42" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/PublicPost/PublicPostPage.tsx" timestamp="1591253889456" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591265506701" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591268763152" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app2/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1591255089929">
         <mark key="'" line="97" column="0" />
       </file>
@@ -271,7 +274,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>200</text>
+        <text>change-story-output</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -399,8 +402,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvLyBjaGVja0lmRnVuY3Rpb25zQXJlRXF1YWwob3Blbk1vZGFsKTsK</text>
+      <register name="0" type="4">
+        <text>change-story-output</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
