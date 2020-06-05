@@ -106,29 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/mixpanel/index.d.ts" timestamp="1591343669745">
-        <mark key="'" line="7" column="1" />
-        <mark key="[" line="631" column="30" />
-        <mark key="]" line="631" column="42" />
-        <mark key="^" line="631" column="42" />
-        <mark key="." line="631" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/globals.d.ts" timestamp="1591343675607">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="7" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Google.tsx" timestamp="1591344443046">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="23" column="2" />
         <mark key="." line="115" column="58" />
         <mark key="^" line="115" column="59" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Google.js" timestamp="1591343029518">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/typings/meteor.d.ts" timestamp="1591344751679">
         <mark key="[" line="1212" column="27" />
@@ -141,11 +124,12 @@
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591348725866">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591351352530">
+        <mark key="[" line="193" column="27" />
+        <mark key="]" line="193" column="27" />
+        <mark key="." line="193" column="27" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/patches/@types+react+16.9.35.patch" timestamp="1591351904316" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1591348433078">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -159,9 +143,6 @@
         <mark key="^" line="82" column="59" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/companies/server/methods/validateEuTaxId.ts" timestamp="1591348248487" />
-      <file name="/GraphQL.result.json" timestamp="1591343908831">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" timestamp="1591345774254" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/rc-field-form/lib/Form.d.ts" timestamp="1591348674388" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentAccountDetails.tsx" timestamp="1591348312802" />
@@ -174,16 +155,20 @@
         <mark key="^" line="143" column="22" />
         <mark key="." line="143" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/CommentThread.tsx" timestamp="1591342784904">
-        <mark key="'" line="113" column="12" />
-        <mark key="[" line="124" column="10" />
-        <mark key="]" line="124" column="12" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/companies/companies.ts" timestamp="1591352096238">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" timestamp="1591351222609">
+        <mark key="'" line="3102" column="0" />
+        <mark key="[" line="2888" column="0" />
+        <mark key="]" line="2888" column="0" />
+        <mark key="." line="2888" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package-lock.json" timestamp="1591349776114" />
     </filemarks>
     <jumps>
-      <jump line="46" column="13" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
-      <jump line="48" column="2" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
-      <jump line="24" column="2" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
       <jump line="128" column="0" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
       <jump line="126" column="13" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
@@ -281,12 +266,15 @@
       <jump line="54" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" />
       <jump line="102" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" />
       <jump line="75" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" />
+      <jump line="814" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" />
+      <jump line="3088" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" />
+      <jump line="3102" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;es2017&quot;</text>
+        <text>?</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -389,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, &quot;es2017&quot;</text>
+        <text>?</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -418,19 +406,19 @@
         <text>afterSignInSuccessful</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCAobWV0aG9kRXJyb3IsIHJlc3VsdCkgPT4gewogICAgICAgICAgICBpZiAocmVzdWx0ICYmIHJlc3VsdC53b3Jrc3BhY2VJZCkgewogICAgICAgICAgICAgIGhpc3RvcnkucHVzaChgL2IvJHtyZXN1bHQud29ya3NwYWNlSWR9YCk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8vIERpc3RyaWJ1dGUgb3ZlciBQIGluIGNhc2UgaXQgaXMgYSB1bmlvbiB0eXBlCiAgICAvLyBQIGV4dGVuZHMgYW55CiAgICAvLyAgICAgLy8gSWYgcHJvcHMgaXMgdHlwZSBhbnksIHVzZSBwcm9wVHlwZXMgZGVmaW5pdGlvbnMKICAgIC8vICAgICA/IElzRXhhY3RseUFueTxQPiBleHRlbmRzIHRydWUgPyBUIDoKICAgIC8vICAgICAgICAgLy8gSWYgZGVjbGFyZWQgcHJvcHMgaGF2ZSBpbmRleGVkIHByb3BlcnRpZXMsIGlnbm9yZSBpbmZlcnJlZCBwcm9wcyBlbnRpcmVseSBhcyBrZXlvZiBnZXRzIHdpZGVuZWQKICAgIC8vICAgICAgICAgc3RyaW5nIGV4dGVuZHMga2V5b2YgUCA/IFAgOgogICAgLy8gICAgICAgICAgICAgLy8gUHJlZmVyIGRlY2xhcmVkIHR5cGVzIHdoaWNoIGFyZSBub3QgZXhhY3RseSBhbnkKICAgIC8vICAgICAgICAgICAgICYgUGljazxQLCBOb3RFeGFjdGx5QW55UHJvcGVydHlLZXlzPFA+PgogICAgLy8gICAgICAgICAgICAgLy8gRm9yIHByb3BzIHdoaWNoIGFyZSBleGFjdGx5IGFueSwgdXNlIHRoZSB0eXBlIGluZmVycmVkIGZyb20gcHJvcFR5cGVzIGlmIHByZXNlbnQKICAgIC8vICAgICAgICAgICAgICYgUGljazxULCBFeGNsdWRlPGtleW9mIFQsIE5vdEV4YWN0bHlBbnlQcm9wZXJ0eUtleXM8UD4+PgogICAgLy8gICAgICAgICAgICAgLy8gS2VlcCBsZWZ0b3ZlciBwcm9wcyBub3Qgc3BlY2lmaWVkIGluIHByb3BUeXBlcwogICAgLy8gICAgICAgICAgICAgJiBQaWNrPFAsIEV4Y2x1ZGU8a2V5b2YgUCwga2V5b2YgVD4+CiAgICAvLyAgICAgOiBuZXZlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9wVHlwZXM/OiBWYWxpZGF0aW9uTWFwPGFueT47CiAgICAgICAgLy8gY29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+OwogICAgICAgIC8vIGNoaWxkQ29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5kb3cuYW5hbHl0aWNzICYmIHdpbmRvdy5hbmFseXRpY3MuX3VzZXIgJiYgd2luZG93LmFuYWx5dGljcy5fdXNlci5hbm9ueW1vdXNJZCgpKSB7CiAgICAgIHNlZ21lbnRBbm9ueW1vdXNJZCA9IHdpbmRvdy5hbmFseXRpY3MuX3VzZXIuYW5vbnltb3VzSWQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0UHJvcHM/OiBQYXJ0aWFsPFA+OwogICAgICAgIC8vIHByb3BUeXBlcz86IFdlYWtWYWxpZGF0aW9uTWFwPFA+Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5kb3cubWl4cGFuZWwgJiYgd2luZG93Lm1peHBhbmVsPy5nZXRfZGlzdGluY3RfaWQpIHsKICAgICAgbWl4cGFuZWxJZCA9IHdpbmRvdy5taXhwYW5lbC5nZXRfZGlzdGluY3RfaWQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0UHJvcHM/OiBQYXJ0aWFsPFA+Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGlsZENvbnRleHRUeXBlcz86IFZhbGlkYXRpb25NYXA8YW55PjsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -478,16 +466,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgdHlwZTogcHJvcFR5cGVzLm9uZU9mKFsnY29udGludWUnLCAnbG9naW4nLCAnc2lnblVwJ10pLmlzUmVxdWlyZWQsCiAgICBpc0VuYWJsZWQ6IHByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgICBoaXN0b3J5OiBwcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCiAgICBvblNpZ25JbjogcHJvcFR5cGVzLmZ1bmMsCiAgICBhZnRlclNpZ25JblN1Y2Nlc3NmdWw6IHByb3BUeXBlcy5mdW5jLAogICAgaW52aXRlSWQ6IHByb3BUeXBlcy5zdHJpbmcsCiAgICBpc0NvbnNlbnRHaXZlbjogcHJvcFR5cGVzLmJvb2wsCiAgICBpc0VudGVycHJpc2U6IHByb3BUeXBlcy5ib29sCiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb250ZXh0VHlwZXM/OiBWYWxpZGF0aW9uTWFwPGFueT47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9wVHlwZXM/OiBXZWFrVmFsaWRhdGlvbk1hcDxQPjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyQ29tcG9uZW50UHJvcHMgfSBmcm9tICdyZWFjdC1yb3V0ZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBleHBsaWNpdCByZWplY3RlZCB3aXRoIGBuZXZlcmAgcmVxdWlyZWQgZHVlIHRvCiAgICAgICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL21pY3Jvc29mdC9UeXBlU2NyaXB0L2lzc3Vlcy8zNjgyNgogICAgICAgIC8qKgogICAgICAgICAqIGRlZmF1bHRQcm9wcyBhcmUgbm90IHN1cHBvcnRlZCBvbiByZW5kZXIgZnVuY3Rpb25zCiAgICAgICAgICovCiAgICAgICAgLy8gZGVmYXVsdFByb3BzPzogbmV2ZXI7CiAgICAgICAgLyoqCiAgICAgICAgICogcHJvcFR5cGVzIGFyZSBub3Qgc3VwcG9ydGVkIG9uIHJlbmRlciBmdW5jdGlvbnMKICAgICAgICAgKi8KICAgICAgICAvLyBwcm9wVHlwZXM/OiBuZXZlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAsIChtZXRob2RFcnJvciwgcmVzdWx0KSA9PiB7CiAgICAgICAgICAgICAgaWYgKHJlc3VsdCAmJiByZXN1bHQud29ya3NwYWNlSWQpIHsKICAgICAgICAgICAgICAgIGhpc3RvcnkucHVzaChgL2IvJHtyZXN1bHQud29ya3NwYWNlSWR9YCk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0UHJvcHM/OiBQYXJ0aWFsPFA+Owo=</text>
       </register>
     </registers>
   </component>
