@@ -155,11 +155,6 @@
         <mark key="^" line="143" column="22" />
         <mark key="." line="143" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/companies/companies.ts" timestamp="1591352096238">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" timestamp="1591351222609">
         <mark key="'" line="3102" column="0" />
         <mark key="[" line="2888" column="0" />
@@ -273,8 +268,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -377,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>Promise</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -406,76 +401,47 @@
         <text>afterSignInSuccessful</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIERpc3RyaWJ1dGUgb3ZlciBQIGluIGNhc2UgaXQgaXMgYSB1bmlvbiB0eXBlCiAgICAvLyBQIGV4dGVuZHMgYW55CiAgICAvLyAgICAgLy8gSWYgcHJvcHMgaXMgdHlwZSBhbnksIHVzZSBwcm9wVHlwZXMgZGVmaW5pdGlvbnMKICAgIC8vICAgICA/IElzRXhhY3RseUFueTxQPiBleHRlbmRzIHRydWUgPyBUIDoKICAgIC8vICAgICAgICAgLy8gSWYgZGVjbGFyZWQgcHJvcHMgaGF2ZSBpbmRleGVkIHByb3BlcnRpZXMsIGlnbm9yZSBpbmZlcnJlZCBwcm9wcyBlbnRpcmVseSBhcyBrZXlvZiBnZXRzIHdpZGVuZWQKICAgIC8vICAgICAgICAgc3RyaW5nIGV4dGVuZHMga2V5b2YgUCA/IFAgOgogICAgLy8gICAgICAgICAgICAgLy8gUHJlZmVyIGRlY2xhcmVkIHR5cGVzIHdoaWNoIGFyZSBub3QgZXhhY3RseSBhbnkKICAgIC8vICAgICAgICAgICAgICYgUGljazxQLCBOb3RFeGFjdGx5QW55UHJvcGVydHlLZXlzPFA+PgogICAgLy8gICAgICAgICAgICAgLy8gRm9yIHByb3BzIHdoaWNoIGFyZSBleGFjdGx5IGFueSwgdXNlIHRoZSB0eXBlIGluZmVycmVkIGZyb20gcHJvcFR5cGVzIGlmIHByZXNlbnQKICAgIC8vICAgICAgICAgICAgICYgUGljazxULCBFeGNsdWRlPGtleW9mIFQsIE5vdEV4YWN0bHlBbnlQcm9wZXJ0eUtleXM8UD4+PgogICAgLy8gICAgICAgICAgICAgLy8gS2VlcCBsZWZ0b3ZlciBwcm9wcyBub3Qgc3BlY2lmaWVkIGluIHByb3BUeXBlcwogICAgLy8gICAgICAgICAgICAgJiBQaWNrPFAsIEV4Y2x1ZGU8a2V5b2YgUCwga2V5b2YgVD4+CiAgICAvLyAgICAgOiBuZXZlcjsK</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9wVHlwZXM/OiBWYWxpZGF0aW9uTWFwPGFueT47CiAgICAgICAgLy8gY29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+OwogICAgICAgIC8vIGNoaWxkQ29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0UHJvcHM/OiBQYXJ0aWFsPFA+OwogICAgICAgIC8vIHByb3BUeXBlcz86IFdlYWtWYWxpZGF0aW9uTWFwPFA+Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0UHJvcHM/OiBQYXJ0aWFsPFA+Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGlsZENvbnRleHRUeXBlcz86IFZhbGlkYXRpb25NYXA8YW55PjsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
-          <key char="119" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="77" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
           <key char="114" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
-          <key char="69" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb250ZXh0VHlwZXM/OiBWYWxpZGF0aW9uTWFwPGFueT47Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9wVHlwZXM/OiBXZWFrVmFsaWRhdGlvbk1hcDxQPjsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBsaWNpdCByZWplY3RlZCB3aXRoIGBuZXZlcmAgcmVxdWlyZWQgZHVlIHRvCiAgICAgICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL21pY3Jvc29mdC9UeXBlU2NyaXB0L2lzc3Vlcy8zNjgyNgogICAgICAgIC8qKgogICAgICAgICAqIGRlZmF1bHRQcm9wcyBhcmUgbm90IHN1cHBvcnRlZCBvbiByZW5kZXIgZnVuY3Rpb25zCiAgICAgICAgICovCiAgICAgICAgLy8gZGVmYXVsdFByb3BzPzogbmV2ZXI7CiAgICAgICAgLyoqCiAgICAgICAgICogcHJvcFR5cGVzIGFyZSBub3Qgc3VwcG9ydGVkIG9uIHJlbmRlciBmdW5jdGlvbnMKICAgICAgICAgKi8KICAgICAgICAvLyBwcm9wVHlwZXM/OiBuZXZlcjsK</text>
+        <text encoding="base64">ICAgIC8vIERpc3RyaWJ1dGUgb3ZlciBQIGluIGNhc2UgaXQgaXMgYSB1bmlvbiB0eXBlCiAgICAvLyBQIGV4dGVuZHMgYW55CiAgICAvLyAgICAgLy8gSWYgcHJvcHMgaXMgdHlwZSBhbnksIHVzZSBwcm9wVHlwZXMgZGVmaW5pdGlvbnMKICAgIC8vICAgICA/IElzRXhhY3RseUFueTxQPiBleHRlbmRzIHRydWUgPyBUIDoKICAgIC8vICAgICAgICAgLy8gSWYgZGVjbGFyZWQgcHJvcHMgaGF2ZSBpbmRleGVkIHByb3BlcnRpZXMsIGlnbm9yZSBpbmZlcnJlZCBwcm9wcyBlbnRpcmVseSBhcyBrZXlvZiBnZXRzIHdpZGVuZWQKICAgIC8vICAgICAgICAgc3RyaW5nIGV4dGVuZHMga2V5b2YgUCA/IFAgOgogICAgLy8gICAgICAgICAgICAgLy8gUHJlZmVyIGRlY2xhcmVkIHR5cGVzIHdoaWNoIGFyZSBub3QgZXhhY3RseSBhbnkKICAgIC8vICAgICAgICAgICAgICYgUGljazxQLCBOb3RFeGFjdGx5QW55UHJvcGVydHlLZXlzPFA+PgogICAgLy8gICAgICAgICAgICAgLy8gRm9yIHByb3BzIHdoaWNoIGFyZSBleGFjdGx5IGFueSwgdXNlIHRoZSB0eXBlIGluZmVycmVkIGZyb20gcHJvcFR5cGVzIGlmIHByZXNlbnQKICAgIC8vICAgICAgICAgICAgICYgUGljazxULCBFeGNsdWRlPGtleW9mIFQsIE5vdEV4YWN0bHlBbnlQcm9wZXJ0eUtleXM8UD4+PgogICAgLy8gICAgICAgICAgICAgLy8gS2VlcCBsZWZ0b3ZlciBwcm9wcyBub3Qgc3BlY2lmaWVkIGluIHByb3BUeXBlcwogICAgLy8gICAgICAgICAgICAgJiBQaWNrPFAsIEV4Y2x1ZGU8a2V5b2YgUCwga2V5b2YgVD4+CiAgICAvLyAgICAgOiBuZXZlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0UHJvcHM/OiBQYXJ0aWFsPFA+Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9wVHlwZXM/OiBWYWxpZGF0aW9uTWFwPGFueT47CiAgICAgICAgLy8gY29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+OwogICAgICAgIC8vIGNoaWxkQ29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+Owo=</text>
       </register>
     </registers>
   </component>
