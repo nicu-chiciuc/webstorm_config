@@ -106,27 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" timestamp="1591259598075">
-        <mark key="[" line="466" column="2" />
-        <mark key="]" line="467" column="0" />
-        <mark key="^" line="467" column="0" />
-        <mark key="." line="467" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react-router/index.d.ts" timestamp="1591344190029" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" timestamp="1591344827750">
-        <mark key="[" line="82" column="54" />
-        <mark key="]" line="82" column="59" />
-        <mark key="." line="82" column="58" />
-        <mark key="^" line="82" column="59" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1591269868335">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="248" column="10" />
-        <mark key="]" line="248" column="28" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1591343908831">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/mixpanel/index.d.ts" timestamp="1591343669745">
         <mark key="'" line="7" column="1" />
         <mark key="[" line="631" column="30" />
@@ -151,20 +130,43 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Google.js" timestamp="1591343029518">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/postsDuplicate.ts" timestamp="1591259854725">
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="55" column="20" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="55" column="19" />
-      </file>
-      <file name="/" timestamp="1591259705539">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/typings/meteor.d.ts" timestamp="1591344751679">
         <mark key="[" line="1212" column="27" />
         <mark key="]" line="1212" column="34" />
         <mark key="^" line="1212" column="34" />
         <mark key="." line="1212" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/history/index.d.ts" timestamp="1591344197600">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591348725866">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1591348433078">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react-router/index.d.ts" timestamp="1591344190029" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" timestamp="1591344827750">
+        <mark key="[" line="82" column="54" />
+        <mark key="]" line="82" column="59" />
+        <mark key="." line="82" column="58" />
+        <mark key="^" line="82" column="59" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/companies/server/methods/validateEuTaxId.ts" timestamp="1591348248487" />
+      <file name="/GraphQL.result.json" timestamp="1591343908831">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" timestamp="1591345774254" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/rc-field-form/lib/Form.d.ts" timestamp="1591348674388" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentAccountDetails.tsx" timestamp="1591348312802" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" timestamp="1591348362942">
+        <mark key="'" line="75" column="2" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/meteor/meteor.d.ts" timestamp="1591344810374">
         <mark key="[" line="143" column="20" />
@@ -172,42 +174,13 @@
         <mark key="^" line="143" column="22" />
         <mark key="." line="143" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" timestamp="1591264332935">
-        <mark key="[" line="80" column="49" />
-        <mark key="]" line="80" column="69" />
-        <mark key="^" line="80" column="69" />
-        <mark key="." line="80" column="68" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/history/index.d.ts" timestamp="1591344197600">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1591255773246">
-        <mark key="'" line="36" column="48" />
-        <mark key="[" line="621" column="29" />
-        <mark key="]" line="622" column="42" />
-        <mark key="." line="622" column="41" />
-        <mark key="^" line="622" column="42" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxModal.tsx" timestamp="1591260885676">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/CommentThread.tsx" timestamp="1591342784904">
         <mark key="'" line="113" column="12" />
         <mark key="[" line="124" column="10" />
         <mark key="]" line="124" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Composer.tsx" timestamp="1591274670852">
-        <mark key="[" line="86" column="2" />
-        <mark key="]" line="86" column="2" />
-        <mark key="." line="86" column="2" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/multiMediaInfo/processing.ts" />
       <jump line="46" column="13" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
       <jump line="48" column="2" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
       <jump line="24" column="2" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
@@ -307,12 +280,13 @@
       <jump line="134" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Google.tsx" />
       <jump line="54" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" />
       <jump line="102" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" />
+      <jump line="75" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>afterSignInSuccessful</text>
+        <text>, &quot;es2017&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -415,7 +389,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, &quot;es2017&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
