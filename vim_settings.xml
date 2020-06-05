@@ -149,8 +149,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" timestamp="1591348362942">
-        <mark key="'" line="75" column="2" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" timestamp="1591367201368">
+        <mark key="'" line="252" column="16" />
+        <mark key="[" line="252" column="38" />
+        <mark key="]" line="252" column="33" />
+        <mark key="^" line="252" column="33" />
+        <mark key="." line="252" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/typings/meteor.d.ts" timestamp="1591344751679">
         <mark key="[" line="1212" column="27" />
@@ -181,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
-      <jump line="65" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="11" column="49" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="136" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="140" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
@@ -281,12 +283,14 @@
       <jump line="1793" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1842" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="94" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" />
+      <jump line="252" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>PropTypes.array.isRequired,</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJpY2UgfSA9IGN1cnJlbnRQbGFuRGV0YWlsczsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -389,7 +393,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PropTypes.array.isRequired,</text>
+        <text>{}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -415,22 +419,26 @@
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbnZpdGVzOiBPbkJvYXJkaW5nQ29tcGFueUludml0ZVR5cGVbXTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0ICBwcmljZSAgPSBjdXJyZW50UGxhbkRldGFpbHM/LnByaWNlID8/IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb2xsYWJvcmF0b3JzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwKICBjYW5JbnZpdGVNb3JlVXNlcnM6IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgb3JpZ2luOiBQcm9wVHlwZXMuc3RyaW5nCn07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJpY2UgfSA9IGN1cnJlbnRQbGFuRGV0YWlsczsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFVzZXJzTWF4UmVhY2hlZCBmcm9tICcuLi8uLi8uLi9zaGFyZWQvVXNlcnNNYXhSZWFjaGVkJzsK</text>
+      <register name="2" type="4">
+        <text>{
+    price: number;
+    label: string;
+    currency: string;
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgc2V0Q29sbGFib3JhdG9yczogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICAgIGNvbGxhYm9yYXRvcnM6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAogICAgY2FuSW52aXRlTW9yZVVzZXJzOiBQcm9wVHlwZXMuYm9vbC5pc1JlcXVpcmVkLAogICAgb3JpZ2luOiBQcm9wVHlwZXMuc3RyaW5nCiAgfTsK</text>
+        <text encoding="base64">ICBjb2xsYWJvcmF0b3JzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwKICBjYW5JbnZpdGVNb3JlVXNlcnM6IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgb3JpZ2luOiBQcm9wVHlwZXMuc3RyaW5nCn07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFVzZXJzTWF4UmVhY2hlZCBmcm9tICcuLi8uLi8uLi9zaGFyZWQvVXNlcnNNYXhSZWFjaGVkJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgc2V0Q29sbGFib3JhdG9yczogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICAgIGNvbGxhYm9yYXRvcnM6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAogICAgY2FuSW52aXRlTW9yZVVzZXJzOiBQcm9wVHlwZXMuYm9vbC5pc1JlcXVpcmVkLAogICAgb3JpZ2luOiBQcm9wVHlwZXMuc3RyaW5nCiAgfTsK</text>
       </register>
       <register name="u" type="4">
         <text>dwxwx</text>
@@ -439,13 +447,13 @@
         <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
   </component>
