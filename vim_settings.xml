@@ -279,7 +279,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>isEditing</text>
+        <text>_id</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -408,7 +408,7 @@
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>change-story-output</text>
+        <text>_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
