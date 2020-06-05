@@ -106,6 +106,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1591348433078">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/index.tsx" timestamp="1591359042820">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="2" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" timestamp="1591344827750">
+        <mark key="[" line="82" column="54" />
+        <mark key="]" line="82" column="59" />
+        <mark key="." line="82" column="58" />
+        <mark key="^" line="82" column="59" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591354443956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" timestamp="1591359023188">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Google.tsx" timestamp="1591344443046">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="11" column="0" />
@@ -113,41 +137,21 @@
         <mark key="." line="115" column="58" />
         <mark key="^" line="115" column="59" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/index.js" timestamp="1591358485797" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/InviteRow.js" timestamp="1591358574629">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" timestamp="1591348362942">
+        <mark key="'" line="75" column="2" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/typings/meteor.d.ts" timestamp="1591344751679">
         <mark key="[" line="1212" column="27" />
         <mark key="]" line="1212" column="34" />
         <mark key="^" line="1212" column="34" />
         <mark key="." line="1212" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/history/index.d.ts" timestamp="1591344197600">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591351352530">
-        <mark key="[" line="193" column="27" />
-        <mark key="]" line="193" column="27" />
-        <mark key="." line="193" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/patches/@types+react+16.9.35.patch" timestamp="1591351904316" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/tsconfig.json" timestamp="1591348433078">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react-router/index.d.ts" timestamp="1591344190029" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" timestamp="1591344827750">
-        <mark key="[" line="82" column="54" />
-        <mark key="]" line="82" column="59" />
-        <mark key="." line="82" column="58" />
-        <mark key="^" line="82" column="59" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/companies/server/methods/validateEuTaxId.ts" timestamp="1591348248487" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" timestamp="1591345774254" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/rc-field-form/lib/Form.d.ts" timestamp="1591348674388" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentAccountDetails.tsx" timestamp="1591348312802" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" timestamp="1591348362942">
-        <mark key="'" line="75" column="2" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/meteor/meteor.d.ts" timestamp="1591344810374">
         <mark key="[" line="143" column="20" />
@@ -155,20 +159,23 @@
         <mark key="^" line="143" column="22" />
         <mark key="." line="143" column="21" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" timestamp="1591351352530">
+        <mark key="[" line="193" column="27" />
+        <mark key="]" line="193" column="27" />
+        <mark key="." line="193" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591358112155">
+        <mark key="'" line="1845" column="0" />
+        <mark key="^" line="866" column="16" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" timestamp="1591351222609">
         <mark key="'" line="3102" column="0" />
         <mark key="[" line="2888" column="0" />
         <mark key="]" line="2888" column="0" />
         <mark key="." line="2888" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/package-lock.json" timestamp="1591349776114" />
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
-      <jump line="126" column="13" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
-      <jump line="69" column="0" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
-      <jump line="250" column="25" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="31" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="151" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
@@ -229,7 +236,6 @@
       <jump line="1839" column="39" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1840" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="58" column="67" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1855" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="276" column="49" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/tsUtils.ts" />
       <jump line="1841" column="56" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -264,12 +270,18 @@
       <jump line="814" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" />
       <jump line="3088" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" />
       <jump line="3102" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" />
+      <jump line="875" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="871" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="393" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="621" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1850" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+      <register name="&quot;" type="4">
+        <text>PropTypes.array.isRequired,</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -372,7 +384,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Promise</text>
+        <text>PropTypes.array.isRequired,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -397,51 +409,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>afterSignInSuccessful</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpbnZpdGVzOiBPbkJvYXJkaW5nQ29tcGFueUludml0ZVR5cGVbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICBjb2xsYWJvcmF0b3JzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwKICBjYW5JbnZpdGVNb3JlVXNlcnM6IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgb3JpZ2luOiBQcm9wVHlwZXMuc3RyaW5nCn07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFVzZXJzTWF4UmVhY2hlZCBmcm9tICcuLi8uLi8uLi9zaGFyZWQvVXNlcnNNYXhSZWFjaGVkJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgc2V0Q29sbGFib3JhdG9yczogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICAgIGNvbGxhYm9yYXRvcnM6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAogICAgY2FuSW52aXRlTW9yZVVzZXJzOiBQcm9wVHlwZXMuYm9vbC5pc1JlcXVpcmVkLAogICAgb3JpZ2luOiBQcm9wVHlwZXMuc3RyaW5nCiAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-        </keys>
+        <text>dwxwx</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIERpc3RyaWJ1dGUgb3ZlciBQIGluIGNhc2UgaXQgaXMgYSB1bmlvbiB0eXBlCiAgICAvLyBQIGV4dGVuZHMgYW55CiAgICAvLyAgICAgLy8gSWYgcHJvcHMgaXMgdHlwZSBhbnksIHVzZSBwcm9wVHlwZXMgZGVmaW5pdGlvbnMKICAgIC8vICAgICA/IElzRXhhY3RseUFueTxQPiBleHRlbmRzIHRydWUgPyBUIDoKICAgIC8vICAgICAgICAgLy8gSWYgZGVjbGFyZWQgcHJvcHMgaGF2ZSBpbmRleGVkIHByb3BlcnRpZXMsIGlnbm9yZSBpbmZlcnJlZCBwcm9wcyBlbnRpcmVseSBhcyBrZXlvZiBnZXRzIHdpZGVuZWQKICAgIC8vICAgICAgICAgc3RyaW5nIGV4dGVuZHMga2V5b2YgUCA/IFAgOgogICAgLy8gICAgICAgICAgICAgLy8gUHJlZmVyIGRlY2xhcmVkIHR5cGVzIHdoaWNoIGFyZSBub3QgZXhhY3RseSBhbnkKICAgIC8vICAgICAgICAgICAgICYgUGljazxQLCBOb3RFeGFjdGx5QW55UHJvcGVydHlLZXlzPFA+PgogICAgLy8gICAgICAgICAgICAgLy8gRm9yIHByb3BzIHdoaWNoIGFyZSBleGFjdGx5IGFueSwgdXNlIHRoZSB0eXBlIGluZmVycmVkIGZyb20gcHJvcFR5cGVzIGlmIHByZXNlbnQKICAgIC8vICAgICAgICAgICAgICYgUGljazxULCBFeGNsdWRlPGtleW9mIFQsIE5vdEV4YWN0bHlBbnlQcm9wZXJ0eUtleXM8UD4+PgogICAgLy8gICAgICAgICAgICAgLy8gS2VlcCBsZWZ0b3ZlciBwcm9wcyBub3Qgc3BlY2lmaWVkIGluIHByb3BUeXBlcwogICAgLy8gICAgICAgICAgICAgJiBQaWNrPFAsIEV4Y2x1ZGU8a2V5b2YgUCwga2V5b2YgVD4+CiAgICAvLyAgICAgOiBuZXZlcjsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9wVHlwZXM/OiBWYWxpZGF0aW9uTWFwPGFueT47CiAgICAgICAgLy8gY29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+OwogICAgICAgIC8vIGNoaWxkQ29udGV4dFR5cGVzPzogVmFsaWRhdGlvbk1hcDxhbnk+Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
     </registers>
   </component>
