@@ -114,19 +114,13 @@
       <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" timestamp="1591361636502">
         <mark key="'" line="102" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/index.tsx" timestamp="1591359042820">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="18" column="3" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/buttons/SocialLogin/Facebook.tsx" timestamp="1591344827750">
         <mark key="[" line="82" column="54" />
         <mark key="]" line="82" column="59" />
         <mark key="." line="82" column="58" />
         <mark key="^" line="82" column="59" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1591361659425">
+      <file name="/GraphQL.result.json" timestamp="1591608788457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" timestamp="1591361298632">
