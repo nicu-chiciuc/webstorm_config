@@ -113,6 +113,12 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="15" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" timestamp="1591698669217">
+        <mark key="[" line="534" column="2" />
+        <mark key="]" line="535" column="0" />
+        <mark key="^" line="535" column="0" />
+        <mark key="." line="535" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" timestamp="1591694094227">
         <mark key="'" line="69" column="36" />
         <mark key="[" line="14" column="11" />
@@ -133,13 +139,6 @@
         <mark key="]" line="44" column="35" />
         <mark key="^" line="44" column="35" />
         <mark key="." line="44" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/MixedMediaContainer.tsx" timestamp="1591625340946">
-        <mark key="'" line="92" column="21" />
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="35" />
-        <mark key="^" line="94" column="35" />
-        <mark key="." line="94" column="34" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mappings.ts" timestamp="1591695358764">
         <mark key="[" line="460" column="0" />
