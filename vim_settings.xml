@@ -147,10 +147,12 @@
         <mark key="^" line="189" column="24" />
         <mark key="." line="190" column="27" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithPostActions/index.tsx" timestamp="1591706352866">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithPostActions/index.tsx" timestamp="1591706465915">
+        <mark key="'" line="414" column="20" />
         <mark key="^" line="150" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1591701180197">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1591708847289">
+        <mark key="'" line="265" column="18" />
         <mark key="[" line="209" column="7" />
         <mark key="]" line="209" column="14" />
         <mark key="." line="209" column="13" />
@@ -196,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/InviteRow.tsx" />
-      <jump line="151" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/InviteRow.tsx" />
-      <jump line="114" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/InviteRow.tsx" />
       <jump line="12" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/InviteRow.tsx" />
       <jump line="86" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
       <jump line="73" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
@@ -296,6 +295,9 @@
       <jump line="467" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1520" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1483" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="255" column="5" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithPostActions/index.tsx" />
+      <jump line="414" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithPostActions/index.tsx" />
+      <jump line="265" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
