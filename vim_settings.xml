@@ -106,6 +106,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591622539400">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" timestamp="1591625560148">
         <mark key="'" line="152" column="33" />
         <mark key="[" line="38" column="0" />
@@ -113,12 +116,39 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="15" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1591623949620">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="62" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1591625393783">
+        <mark key="'" line="557" column="57" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/components/VideoThumbnail/index.tsx" timestamp="1591625437285">
         <mark key="'" line="6" column="16" />
         <mark key="[" line="44" column="18" />
         <mark key="]" line="44" column="35" />
         <mark key="^" line="44" column="35" />
         <mark key="." line="44" column="34" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591689992832">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/containers/Thumbnail/index.tsx" timestamp="1591625495523">
+        <mark key="e" line="26" column="13" />
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591621299455">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePost.ts" timestamp="1591623990072">
         <mark key="'" line="168" column="55" />
@@ -129,6 +159,20 @@
       </file>
       <file name="meteor://💻app/packages/ddp-server/livedata_server.js" timestamp="1591621869932">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1591623803024">
+        <mark key="'" line="61" column="33" />
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="92" column="54" />
+        <mark key="." line="92" column="53" />
+        <mark key="^" line="92" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/index.tsx" timestamp="1591625367437">
+        <mark key="'" line="69" column="34" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/MixedMediaContainer.tsx" timestamp="1591625340946">
         <mark key="'" line="92" column="21" />
@@ -155,50 +199,6 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
         <mark key="^" line="112" column="24" />
-      </file>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1591622539400">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/update.ts" timestamp="1591623949620">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="62" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1591625393783">
-        <mark key="'" line="557" column="57" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1591625321775">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/containers/Thumbnail/index.tsx" timestamp="1591625495523">
-        <mark key="e" line="26" column="13" />
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="26" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1591621299455">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="38" column="15" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1591623803024">
-        <mark key="'" line="61" column="33" />
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="92" column="54" />
-        <mark key="." line="92" column="53" />
-        <mark key="^" line="92" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/MixedMedia/index.tsx" timestamp="1591625367437">
-        <mark key="'" line="69" column="34" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="16" />
       </file>
       <file name="meteor://💻app/packages/mdg:validated-method/validated-method.js" timestamp="1591621866981">
         <mark key="[" line="0" column="0" />
