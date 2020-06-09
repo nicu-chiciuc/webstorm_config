@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>applyOffse</entry>
         <entry>applyOff</entry>
         <entry>ssl</entry>
         <entry>this</entry>
@@ -27,6 +26,7 @@
         <entry>window</entry>
         <entry encoding="base64">XDxPYmplY3RcPg==</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry>constructor</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -153,8 +153,8 @@
         <mark key="." line="43" column="24" />
         <mark key="^" line="43" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1591694522107">
-        <mark key="'" line="29" column="3" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1591698103516">
+        <mark key="'" line="431" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1591693349129">
         <mark key="[" line="0" column="0" />
@@ -178,7 +178,7 @@
         <mark key="'" line="36" column="38" />
         <mark key="[" line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1591697101947">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1591697905399">
         <mark key="'" line="61" column="33" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -196,20 +196,20 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591694561191" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591698183100">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="215" column="31" />
+        <mark key="]" line="215" column="31" />
+        <mark key="." line="215" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
-      <jump line="16" column="117" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
       <jump line="18" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
       <jump line="21" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
       <jump line="22" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/CompanyOnboarding/Steps/CompanyStep2.tsx" />
       <jump line="102" column="4" filename="$USER_HOME$/Dev/PLANABLE/transcoder-formation/interfaces/processing.ts" />
       <jump line="7" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1793" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1842" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="94" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" />
       <jump line="252" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Payment/PaymentContainer/PaymentForm.tsx" />
@@ -299,12 +299,17 @@
       <jump line="16" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/sagaProcesses/sagaProcesses.ts" />
       <jump line="14" column="54" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/sagaProcesses/sagaProcesses.ts" />
       <jump line="8" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/sagaProcesses/sagaProcesses.ts" />
+      <jump line="197" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="129" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
+      <jump line="431" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
+      <jump line="1836" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -407,7 +412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -430,7 +435,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text>constructor</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -473,12 +478,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search>constructor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-pattern>constructor</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>window</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
