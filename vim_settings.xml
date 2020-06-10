@@ -141,12 +141,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="88" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" timestamp="1591800670949">
-        <mark key="'" line="228" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" timestamp="1591802204503">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="." line="277" column="0" />
+        <mark key="^" line="275" column="89" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/label.ts" timestamp="1591785158403">
         <mark key="[" line="8" column="24" />
@@ -225,9 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="138" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
-      <jump line="1607" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="21" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="168" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/Labels/index.tsx" />
       <jump line="45" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/Labels/index.tsx" />
@@ -323,14 +320,17 @@
       <jump line="3" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" />
       <jump line="114" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
       <jump line="271" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
       <jump line="228" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
+      <jump line="280" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
+      <jump line="292" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogUHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKCiAgICBjb25zdCB7IHNjaGVkdWxlZEF0IH0gPSBwcm9wczsKCiAgfQo=</text>
+        <text encoding="base64">ICBpZiAob3JpZ2luID09PSBPcmlnaW4uUE9TVCkgewogICAgaGFzU2VsZWN0ZWRTbG90ID0gISFTZWxlY3RlZFRpbWVTbG90LmZpbmRPbmUoeyBwb3N0SWQgfSk7CiAgfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -499,7 +499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>let</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -524,38 +524,38 @@
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgb3BlbkNhbGVuZGFyOiB0aGlzLnByb3BzLmhhc1Nsb3RzID8gZmFsc2UgOiB0aGlzLnByb3BzLnNob3dEYXRlVGltZXBpY2tlciwKICAgICAgICBvcGVuU2V0dGluZ3M6IHRoaXMucHJvcHMuaGFzU2xvdHMgPyB0cnVlIDogdGhpcy5wcm9wcy5zaG93RGF0ZVRpbWVwaWNrZXIKICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>!!SelectedTimeSlot.findOne({ postId })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogUHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKCiAgICBjb25zdCB7IHNjaGVkdWxlZEF0IH0gPSBwcm9wczsKCiAgfQo=</text>
+        <text encoding="base64">ICBpZiAob3JpZ2luID09PSBPcmlnaW4uUE9TVCkgewogICAgaGFzU2VsZWN0ZWRTbG90ID0gISFTZWxlY3RlZFRpbWVTbG90LmZpbmRPbmUoeyBwb3N0SWQgfSk7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIG9wZW5TZXR0aW5nczogZmFsc2UsCiAgICAgIG9wZW5DYWxlbmRhcjogZmFsc2UsCiAgICAgIHNjaGVkdWxlZEF0CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGlmIChzZWxlY3RlZFNsb3QpIHsKICAgICAgaGFzU2VsZWN0ZWRTbG90ID0gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvcmlnaW46IE9yaWdpbjsK</text>
+        <text encoding="base64">YW5kIEkndmUgYmVlbiBpbnZvbHZlZCBpbiBudW1lcm91cyBzZWNyZXQgcmFpZHMgb24gQWwtUXVhZWRhLCBhbmQgSSBoYXZlIG92ZXIgYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBPcmlnaW5Qb3N0ID0gewogIG9yaWdpbjogT3JpZ2luLlBPU1Q7Cg==</text>
+        <text encoding="base64">Y29uc3QgYiA9IGBXaGF0IHRoZSBmdWNrIGRpZCB5b3UganVzdCBmdWNraW5nIHNheSBhYm91dCBtZSwgeW91IGxpdHRsZSBiaXRjaD8gSSdsbCBoYXZlIHlvdSBrbm93IEkgZ3JhZHVhdGVkIHRvcCBvZiBteSBjbGFzcyBpbiB0aGUgTmF2eSBTZWFscywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">V2hhdCB0aGUgZnVjayBkaWQgeW91IGp1c3QgZnVja2luZyBzYXkgYWJvdXQgbWUsIHlvdSBsaXR0bGUgYml0Y2g/IEknbGwnCg==</text>
       </register>
       <register name="u" type="4">
         <text>dwxwx</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">d2hhdCB0aGUgZnVjayBkaWQgeW91IGp1c3QgZnVja2luZyBzYWlkIGFib3V0IG1lIHlvdSBsaXR0bGUgYml0Y2gK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogUHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKCiAgICBjb25zdCB7IHNjaGVkdWxlZEF0IH0gPSBwcm9wczsKCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIG9wZW5TZXR0aW5nczogZmFsc2UsCiAgICAgIG9wZW5DYWxlbmRhcjogZmFsc2UsCiAgICAgIHNob3dEYXRlVGltZVBpY2tlcjogZmFsc2UsCiAgICAgIHNjaGVkdWxlZEF0CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIG9wZW5TZXR0aW5nczogZmFsc2UsCiAgICAgIG9wZW5DYWxlbmRhcjogZmFsc2UsCiAgICAgIHNjaGVkdWxlZEF0CiAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3N0Q2xhc3NpZmljYXRpb246IFBvc3RDbGFzc2lmaWNhdGlvbjsK</text>
+        <text encoding="base64">ICBvcmlnaW46IE9yaWdpbjsK</text>
       </register>
     </registers>
   </component>
