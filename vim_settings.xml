@@ -113,7 +113,8 @@
         <mark key="^" line="594" column="0" />
         <mark key="." line="594" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/PostHeader.tsx" timestamp="1591776355282">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/PostHeader.tsx" timestamp="1591795617892">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
         <mark key="^" line="194" column="21" />
@@ -175,12 +176,12 @@
       <file name="/" timestamp="1591775841295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591792984275">
-        <mark key="'" line="939" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591795925749">
+        <mark key="'" line="903" column="3" />
+        <mark key="[" line="179" column="8" />
+        <mark key="]" line="180" column="4" />
+        <mark key="^" line="180" column="4" />
+        <mark key="." line="180" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/Labels/index.tsx" timestamp="1591776260960">
         <mark key="'" line="28" column="0" />
@@ -221,11 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1528" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="349" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="265" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="606" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="344" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="523" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" />
       <jump line="291" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
@@ -252,7 +248,6 @@
       <jump line="351" column="44" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="347" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="263" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1792" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="466" column="55" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1612" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1613" column="48" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -321,12 +316,18 @@
       <jump line="407" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1784" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="939" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="340" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="232" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/PostHeader.tsx" />
+      <jump line="40" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/PostHeader.tsx" />
+      <jump line="258" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1792" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="903" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyogZXNsaW50IGZ1bmN0aW9uYWwvaW1tdXRhYmxlLWRhdGE6ICJlcnJvciIgKi8K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgcGFnZXMsIGN1cnJlbnRQYWdlSWRzLCByZXBvc3RQb3N0LCBzdGFydGluZ1Bvc3RDbGFzc2lmaWNhdGlvbiB9ID0gcHJvcHM7Cgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -495,7 +496,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>const</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -524,13 +525,13 @@
         <text encoding="base64">ICAgICAgU2VudHJ5QnJvd3Nlci53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICAgIHNjb3BlLnNldExldmVsKFNldmVyaXR5LmZyb21TdHJpbmcoJ2luZm8nKSk7CiAgICAgICAgc2NvcGUuc2V0RXh0cmFzKHsKICAgICAgICAgIHRhZzogJ0NvbXBvc2VyIGNvbnN0cnVjdG9yIGJyZWFrJywKICAgICAgICAgIHByb3BzCiAgICAgICAgfSk7CiAgICAgICAgU2VudHJ5QnJvd3Nlci5jYXB0dXJlRXhjZXB0aW9uKG5ldyBFcnJvcignQ3VycmVudCBwYWdlIGlzIG5vdCBkZWZpbmVkLicpKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogZXNsaW50IGZ1bmN0aW9uYWwvaW1tdXRhYmxlLWRhdGE6ICJlcnJvciIgKi8K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgcGFnZXMsIGN1cnJlbnRQYWdlSWRzLCByZXBvc3RQb3N0LCBzdGFydGluZ1Bvc3RDbGFzc2lmaWNhdGlvbiB9ID0gcHJvcHM7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZW1wUG9zdHM7Cg==</text>
+        <text encoding="base64">LyogZXNsaW50IGZ1bmN0aW9uYWwvaW1tdXRhYmxlLWRhdGE6ICJlcnJvciIgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZW1wUG9zdHM7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
@@ -551,7 +552,7 @@
         <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
     </registers>
   </component>
