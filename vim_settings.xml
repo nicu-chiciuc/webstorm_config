@@ -127,6 +127,12 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="41" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/index.tsx" timestamp="1591889063038">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="22" />
+        <mark key="^" line="45" column="22" />
+        <mark key="." line="45" column="21" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/ComposeTopToolbar/PageIcon.tsx" timestamp="1591787327203">
         <mark key="'" line="33" column="26" />
         <mark key="[" line="31" column="0" />
@@ -185,12 +191,12 @@
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" timestamp="1591800165445">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591888163789">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1453" column="0" />
-        <mark key="]" line="1453" column="0" />
-        <mark key="^" line="1453" column="4" />
-        <mark key="." line="1453" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591889424485">
+        <mark key="'" line="1450" column="15" />
+        <mark key="[" line="700" column="18" />
+        <mark key="]" line="700" column="30" />
+        <mark key="^" line="700" column="30" />
+        <mark key="." line="700" column="29" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposePageIconList.tsx" timestamp="1591787571382">
         <mark key="[" line="86" column="0" />
@@ -212,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="547" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" />
-      <jump line="7" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/targeting.ts" />
-      <jump line="37" column="59" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/targeting.ts" />
       <jump line="39" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/targeting.ts" />
       <jump line="557" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" />
       <jump line="677" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" />
@@ -312,12 +315,15 @@
       <jump line="127" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="363" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="324" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1461" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1450" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5kb3cudGhyb3dJdEJvaSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ2hhaGFoYWgnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICBudWxsOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -486,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>errorMessageClassName</text>
+        <text>return</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -512,37 +518,37 @@
         <text>type State</text>
       </register>
       <register name="0" type="4">
-        <text>`modal-${this.state.currentPage.type} modal-content modal-compose`</text>
+        <text>forceKeyChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5kb3cudGhyb3dJdEJvaSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ2hhaGFoYWgnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh3aW5kb3cudGhyb3dJdEJvaSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ2hhaGFoYWgnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVGhpcyBzaG91bGQgbm90IGhhcHBlbicpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBpZiAod2luZG93LnRocm93SXRCb2kpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCdoYWhhaGFoJyk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVtb3ZlQmFja3VwKCk7CiAgICAgICAgICB0aGlzLnByb3BzLmZvcmNlS2V5Q2hhbmdlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm9yTWVzc2FnZUNsYXNzTmFtZSA9IGBtb2RhbC0ke3RoaXMuc3RhdGUuY3VycmVudFBhZ2UudHlwZX0gbW9kYWwtY29udGVudCBtb2RhbC1jb21wb3NlYDsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mb3JjZUtleUNoYW5nZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFJlbW92ZSBjb21wb3NlIGJhY2t1cAogICAgICAgICAgdGhpcy5yZW1vdmVCYWNrdXAoKTsKICAgICAgICAgIC8vIERvIGEgY29tcG9uZW50IHVwZGF0ZQogICAgICAgICAgcHJvcHMuZm9yY2VLZXlDaGFuZ2UoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>dwxwx</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChzaG91bGRTYXZlQmFja3VwKSB7Cg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoYW5kbGVGb3JjZVVwZGF0ZQo=</text>
+        <text encoding="base64">ICBmb3JjZVVwZGF0ZShjYWxsYmFjaz86ICgpID0+IHZvaWQpIHsKICAgIHN1cGVyLmZvcmNlVXBkYXRlKGNhbGxiYWNrKTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1cGRhdGVQb3N0VGltZVNsb3Q6IChvcHRpb246IFNsb3RUeXBlTWV0aG9kKSA9PiB2b2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JjZVVwZGF0ZTogcHJvcHMuZm9yY2VVcGRhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cGRhdGVQb3N0VGltZVNsb3Q6IChvcHRpb246IFNsb3RUeXBlTWV0aG9kKSA9PiB2b2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JjZVVwZGF0ZTogcHJvcHMuZm9yY2VVcGRhdGUK</text>
       </register>
     </registers>
   </component>
