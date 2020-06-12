@@ -140,13 +140,7 @@
         <mark key="^" line="33" column="20" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/components/ListPost/index.tsx" timestamp="1591954882447" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" timestamp="1591966268433">
-        <mark key="'" line="94" column="18" />
-        <mark key="[" line="114" column="67" />
-        <mark key="]" line="115" column="4" />
-        <mark key="^" line="115" column="4" />
-        <mark key="." line="115" column="3" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" timestamp="1591966268433" />
       <file name="/JavaScript Console" timestamp="1591951071047">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,7 +185,7 @@
       <file name="/GraphQL.result.json" timestamp="1591949997086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591965389540">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1591966378328">
         <mark key="'" line="101" column="19" />
         <mark key="[" line="1668" column="0" />
         <mark key="]" line="1668" column="0" />
