@@ -182,12 +182,12 @@
         <mark key="]" line="54" column="25" />
         <mark key="." line="54" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592315679736">
-        <mark key="'" line="296" column="2" />
-        <mark key="[" line="289" column="16" />
-        <mark key="]" line="289" column="16" />
-        <mark key="^" line="289" column="16" />
-        <mark key="." line="296" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592315821340">
+        <mark key="'" line="377" column="0" />
+        <mark key="[" line="1638" column="0" />
+        <mark key="]" line="1640" column="3" />
+        <mark key="^" line="1643" column="21" />
+        <mark key="." line="1638" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/StoryEditor/StoryEditor.tsx" timestamp="1592295745447">
         <mark key="[" line="51" column="30" />
@@ -216,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1274" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1196" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="181" column="44" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="357" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1607" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="578" column="64" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -316,12 +313,15 @@
       <jump line="1306" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="376" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="296" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="318" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="341" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="377" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZHVwbGljYXRlOiB0cnVlLAogICAgICAvLyBjdXJyZW50UGFnZSwKICAgICAgc2VsZWN0ZWRQYWdlSWRzLAogICAgICBsb2FkaW5nVXJsUHJldmlld01lc3NhZ2U6ICcnLAogICAgICBtZWRpYUlzUHJvY2Vzc2luZzogZmFsc2UsCiAgICAgIGVycm9yOiBudWxsCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMuc2F2ZUJhY2t1cC5jYW5jZWwoKTsKICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -490,7 +490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">cHJldlByb3BzOiBSZWFkb25seTxPdXRlclByb3BzPiwgcHJldlN0YXRlOiBSZWFkb25seTxDb21wb3NlV2l0aFBvc3RzU3RhdGU+LCBzbmFwc2hvdD86IGFueQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -519,19 +519,19 @@
         <text encoding="base64">ICAgICAgZHVwbGljYXRlOiB0cnVlLAogICAgICAvLyBjdXJyZW50UGFnZSwKICAgICAgc2VsZWN0ZWRQYWdlSWRzLAogICAgICBsb2FkaW5nVXJsUHJldmlld01lc3NhZ2U6ICcnLAogICAgICBtZWRpYUlzUHJvY2Vzc2luZzogZmFsc2UsCiAgICAgIGVycm9yOiBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChlbXB0eU9iamVjdChjdXJyZW50UG9zdCkpIHsKICAgICAgdGhpcy5yZW1vdmVCYWNrdXAoKTsKICAgICAgcmV0dXJuIHRoaXMucmVuZGVyRXJyb3JNZXNzYWdlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMuc2F2ZUJhY2t1cC5jYW5jZWwoKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3JjZUNvbXBvc2VVcGRhdGUgPSAoKSA9PiB7CiAgICB0aGlzLnJlbW92ZUJhY2t1cCgpOwogICAgdGhpcy5wcm9wcy5mb3JjZUtleUNoYW5nZSgpOwogIH07Cg==</text>
+        <text encoding="base64">ICAgIC8vIERvIG5vdCBzYXZlIGJhY2t1cCBpZiB0aGVyZSBpcyBhIHBvc3NpYmxlIGVycm9yCiAgICBpZiAodGhpcy5zdGF0ZS5lcnJvcikgewogICAgICByZXR1cm47CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzYXZlQmFja3VwID0gdGhyb3R0bGUoKCkgPT4gewogICAgc2V0TG9jYWxTdG9yYWdlKHRoaXMubG9jYWxTdG9yYWdlS2V5KCksIHRoaXMuc3RhdGUpOwogIH0sIDQwMDApOwoKICByZW1vdmVCYWNrdXAgPSAoKSA9PiB7CiAgICB0aGlzLnNhdmVCYWNrdXAuY2FuY2VsKCk7CgogICAgcmVtb3ZlTG9jYWxTdG9yYWdlKHRoaXMubG9jYWxTdG9yYWdlS2V5KCkpOwogIH07Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgc2VlbXMganVzdCBsaWtlIGEgcGVyZm9ybWFuY2UgYWRkaXRpb24sIGJ1dCBpdCBpbmNyZWFzZXMgdGhlIGNvbXBsZXhpdHkKICAgIGlmIChzaG91bGRTYXZlQmFja3VwKSB7CiAgICAgIHRoaXMuc2F2ZUJhY2t1cCgpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRQb3N0ID0gdGhpcy5jdXJyZW50UG9zdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2NhbFN0b3JhZ2VLZXkgPSAoKSA9PiBgJHtDT01QT1NFUl9CQUNLVVBfS0VZfS0ke3RoaXMucHJvcHMud29ya3NwYWNlSWR9YDsK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRDYXRjaChlcnJvcjogRXJyb3IsIGVycm9ySW5mbzogRXJyb3JJbmZvKSB7CiAgICB0aGlzLnNldFN0YXRlKHsgZXJyb3IgfSk7CiAgICB0aGlzLnJlbW92ZUJhY2t1cCgpOwoKICAgIFNlbnRyeUJyb3dzZXIud2l0aFNjb3BlKHNjb3BlID0+IHsKICAgICAgT2JqZWN0LmVudHJpZXMoZXJyb3JJbmZvKS5mb3JFYWNoKChba2V5LCB2YWx1ZV0pID0+IHsKICAgICAgICBzY29wZS5zZXRFeHRyYShrZXksIHZhbHVlKTsKICAgICAgfSk7CiAgICAgIHNjb3BlLnNldEV4dHJhcyh7CiAgICAgICAgdGFnOiAnQ29tcG9zZXIgYnJlYWsgYmFja3VwJywKICAgICAgICBzdGF0ZTogdGhpcy5zdGF0ZSwKICAgICAgICBwcm9wczogdGhpcy5wcm9wcywKICAgICAgICBjb21wb3NlQmFja3VwOiBnZXRMb2NhbFN0b3JhZ2UodGhpcy5sb2NhbFN0b3JhZ2VLZXkoKSkKICAgICAgfSk7CiAgICAgIFNlbnRyeUJyb3dzZXIuY2FwdHVyZUV4Y2VwdGlvbihlcnJvcik7CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -572,17 +572,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID0gewogICAgcG9zdHM6IFtdCiAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50UGFnZTogdGVtcEN1cnJlbnRQYWdlCg==</text>
+        <text encoding="base64">CiAgICAvLyBUaGlzIGNoZWNrIGlzIHRvIGF2b2lkIHNvbWUgcmUtcmVuZGVycyB3aGVuIG5vdCBuZWVkZWQKICAgIGlmICh0aGlzLnByb3BzLnNpZGViYXJJc09wZW5lZCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgY3VycmVudFBhZ2U6ICAK</text>
+        <text encoding="base64">ICAgIGlmIChlbXB0eU9iamVjdCh0aGlzLmN1cnJlbnRQb3N0KCkpKSB7CiAgICAgIHRoaXMuZm9yY2VDb21wb3NlVXBkYXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZHVwbGljYXRlOiB0cnVlLAogICAgICBjdXJyZW50UGFnZSwKICAgICAgc2VsZWN0ZWRQYWdlSWRzLAogICAgICBsb2FkaW5nVXJsUHJldmlld01lc3NhZ2U6ICcnLAogICAgICBtZWRpYUlzUHJvY2Vzc2luZzogZmFsc2UsCiAgICAgIGVycm9yOiBudWxsCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wczogUHJvcHMpIAo=</text>
       </register>
     </registers>
   </component>
