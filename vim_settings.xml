@@ -133,11 +133,14 @@
         <mark key="^" line="217" column="53" />
         <mark key="." line="218" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1592492063072">
+      <file name="/GraphQL.result.json" timestamp="1592493475868">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592493412152">
-        <mark key="'" line="1530" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592494098525">
+        <mark key="[" line="1409" column="0" />
+        <mark key="]" line="1411" column="46" />
+        <mark key="^" line="1411" column="46" />
+        <mark key="." line="1411" column="45" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" timestamp="1592475361744">
         <mark key="'" line="11" column="46" />
@@ -153,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1213" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="577" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="88" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1360" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -253,12 +254,14 @@
       <jump line="1090" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="145" column="26" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/index.tsx" />
       <jump line="1530" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1085" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="831" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZURhdGVBbmRUaW1lOiAoc2NoZWR1bGVkQXQ/OiBEYXRlKSA9PiB2b2lkOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -427,7 +430,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -456,19 +459,19 @@
         <text encoding="base64">ICBvbkNoYW5nZVRleHQgPSAocGxhaW5UZXh0OiBzdHJpbmcsIGNvbnRlbnQ6IFJhd0RyYWZ0Q29udGVudFN0YXRlLCBmYlBhZ2VUYWdzPzogRmJJbnRlcmVzdFRhZ1tdKSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvbkNoYW5nZURhdGVBbmRUaW1lOiAoc2NoZWR1bGVkQXQ/OiBEYXRlKSA9PiB2b2lkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkdXBsaWNhdGU6IGJvb2xlYW47Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvb3REaXZDbGFzc05hbWUgPSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkdXBsaWNhdGU6IGJvb2xlYW47Cg==</text>
+        <text encoding="base64">ICBvbkNoYW5nZURhdGVBbmRUaW1lOiAoc2NoZWR1bGVkQXQ/OiBEYXRlKSA9PiB2b2lkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzd2l0Y2hDbGFzc2lmaWNhdGlvbjogKGNsYXNzaWZpY2F0aW9uOiBQb3N0Q2xhc3NpZmljYXRpb24pID0+IHZvaWQ7CiAgY2hhbmdlRHVwbGljYXRlTW9kZTogKCkgPT4gdm9pZDsK</text>
+        <text encoding="base64">ICBkdXBsaWNhdGU6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjaGFuZ2VEdXBsaWNhdGVNb2RlOiAoKSA9PiB2b2lkOwo=</text>
+        <text encoding="base64">ICBkdXBsaWNhdGU6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -510,16 +513,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZFBhZ2VUeXBlczogeyB0eXBlOiBQYWdlVHlwZTsgcGFnZUlkOiBzdHJpbmcgfVtdOwo=</text>
+        <text encoding="base64">ICBzd2l0Y2hDbGFzc2lmaWNhdGlvbjogKGNsYXNzaWZpY2F0aW9uOiBQb3N0Q2xhc3NpZmljYXRpb24pID0+IHZvaWQ7CiAgY2hhbmdlRHVwbGljYXRlTW9kZTogKCkgPT4gdm9pZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjaGFuZ2VEdXBsaWNhdGVNb2RlOiAoKSA9PiB2b2lkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZWxlY3RQYWdlOiAocGFnZUlkOiBzdHJpbmcpID0+IHZvaWQ7CiAgcmVtb3ZlUGFnZTogKHBhZ2VJZDogc3RyaW5nKSA9PiB2b2lkOwo=</text>
+        <text encoding="base64">ICBzZWxlY3RlZFBhZ2VUeXBlczogeyB0eXBlOiBQYWdlVHlwZTsgcGFnZUlkOiBzdHJpbmcgfVtdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBTZXRzIHRleHQgZGF0YSBpbnRvIHNlbGVjdGVkIHBvc3RzCiAgICogQHBhcmFtIHBsYWluVGV4dCAtIFBsYWludGV4dCBvZiB0aGUgcG9zdCBmcm9tIGNvbXBvc2VyLgogICAqIEBwYXJhbSBjb250ZW50IC0gRHJhZnRKUyBlbnRpdHkgb2YgdGhlIHRleHQgY29udGVudC4KICAgKiBAcGFyYW0gZmJQYWdlVGFncwogICAqLwogIG9uQ2hhbmdlVGV4dCA9IChwbGFpblRleHQ6IHN0cmluZywgY29udGVudDogUmF3RHJhZnRDb250ZW50U3RhdGUsIGZiUGFnZVRhZ3M/OiBGYkludGVyZXN0VGFnW10pID0+IHsKICAgIHRoaXMucHJvcHMuc2V0Q29udGVudCh7IGFjdGlvblR5cGU6ICdjaGFuZ2UtZHJhZnQtY29udGVudCcsIGNvbnRlbnQgfSkuY2F0Y2gobm9vcCk7CiAgICBpZiAoZmJQYWdlVGFncykgewogICAgICB0aGlzLnByb3BzLnNldENvbnRlbnQoeyBhY3Rpb25UeXBlOiAnY2hhbmdlLWZhY2Vib29rLXBhZ2VUYWdzJywgZmJQYWdlVGFncyB9KS5jYXRjaChub29wKTsKICAgIH0KICAgIHRoaXMucHJvcHMuc2V0Q29udGVudCh7IGFjdGlvblR5cGU6ICdjaGFuZ2UtcGxhaW50ZXh0JywgcGxhaW5UZXh0IH0pLmNhdGNoKG5vb3ApOwogIH07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
   </component>
