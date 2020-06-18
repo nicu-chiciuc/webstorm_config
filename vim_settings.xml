@@ -132,17 +132,28 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/LazyComposeWarehouse.tsx" timestamp="1592400045769" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/index.tsx" timestamp="1592400461943">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="54" column="12" />
-        <mark key="^" line="54" column="12" />
-        <mark key="." line="54" column="11" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithPostActions/index.tsx" timestamp="1592399456894">
+        <mark key="'" line="108" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/index.tsx" timestamp="1592467784731">
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="59" column="49" />
+        <mark key="^" line="59" column="49" />
+        <mark key="." line="59" column="48" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/momentDates.ts" timestamp="1592406678713">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="15" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1592467710023">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1592399322637">
+        <mark key="'" line="55" column="2" />
+        <mark key="[" line="68" column="37" />
+        <mark key="]" line="68" column="38" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="68" column="37" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/index.tsx" timestamp="1592402324205">
         <mark key="[" line="159" column="39" />
@@ -156,45 +167,27 @@
         <mark key="^" line="354" column="70" />
         <mark key="." line="354" column="52" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592467831302">
+        <mark key="'" line="1463" column="10" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/PastDate/index.tsx" timestamp="1592406881384">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1592399806962">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1592467907599">
         <mark key="'" line="53" column="37" />
-        <mark key="[" line="51" column="1" />
-        <mark key="]" line="53" column="38" />
-        <mark key="." line="53" column="37" />
+        <mark key="[" line="143" column="29" />
+        <mark key="]" line="143" column="29" />
+        <mark key="." line="143" column="29" />
         <mark key="^" line="53" column="38" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1592396500319">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="95" column="46" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/WorkspaceContext/index.tsx" timestamp="1592398828324" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithPostActions/index.tsx" timestamp="1592399456894">
-        <mark key="'" line="108" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1592399322637">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="68" column="37" />
-        <mark key="]" line="68" column="38" />
-        <mark key="^" line="68" column="38" />
-        <mark key="." line="68" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1592396324403">
-        <mark key="'" line="589" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/TopBar/index.tsx" timestamp="1592399411663">
         <mark key="'" line="60" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1251" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1620" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="218" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="683" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -284,7 +277,6 @@
       <jump line="53" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
       <jump line="23" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/index.tsx" />
       <jump line="848" column="56" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="103" column="111" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="164" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ComposeWarehouse/index.tsx" />
       <jump line="18" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/NoPosts.tsx" />
       <jump line="1484" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -294,12 +286,14 @@
       <jump line="1093" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1083" column="108" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1086" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="103" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1463" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -468,7 +462,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFBhc3REYXRlTWFudWFsIHNpemU9e3NpemV9IC8+</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
