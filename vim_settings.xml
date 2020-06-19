@@ -109,11 +109,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/index.tsx" timestamp="1592565165851" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1592566953831" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1592570550576" />
       <file name="/JavaScript Console" timestamp="1592565827566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/settings.json" timestamp="1592564603919" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/settings.json" timestamp="1592570078458" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/server/userConnectionStatus.ts" timestamp="1592564013557" />
       <file name="/GraphQL.result.json" timestamp="1592564277515">
         <mark key="[" line="0" column="0" />
@@ -244,8 +244,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>add-fetched-urls</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB8ICh7CiAgICAgIGFjdGlvblR5cGU6ICdjaGFuZ2UtdXJsLWNhcm91c2VsLXN0dWZmJzsKICAgIH0gJiBTZXRDb250ZW50Q2hhbmdlVXJsVGh1bWJuYWlsKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -414,7 +414,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>add-fetched-urls</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -439,23 +439,23 @@
       <register name="/" type="4">
         <text>constructor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZldGNoZWRVcmxzRm9yU2VsZWN0ZWRQYWdlcywKICAgICAgICAgIGlnbm9yZWRMaW5rcwo=</text>
+      <register name="0" type="4">
+        <text>SetContentChangeUrlThumbnail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB8ICh7CiAgICAgIGFjdGlvblR5cGU6ICdjaGFuZ2UtdXJsLWNhcm91c2VsLXN0dWZmJzsKICAgIH0gJiBTZXRDb250ZW50Q2hhbmdlVXJsVGh1bWJuYWlsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gSnVzdCBhIHRhZyB0aGF0IHRoaXMgaXMgYSAndXJsLXRodW1ibmFpbCcgaXQgaXMgZXhwZWN0ZWQgdGhhdCB0aGUgY2xpZW50IHdpbGwgdXBkYXRlIGl0Cg==</text>
+        <text encoding="base64">ICB8IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hlZFVybHNGb3JTZWxlY3RlZFBhZ2VzPzogewogICAgICAgIGxpbms6IENhcm91c2VsTGluazsKICAgICAgICBwYWdlSWQ6IHN0cmluZzsKICAgICAgfVtdOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBNb3N0IG9mIHRoZSB0eXBlcyBhYm92ZSB3ZXJlIGNyZWF0ZWQgYnkgZGlzdGlsaW5nIHdoYXQgdGhlIG9sZCBjb2RlIHdhcyBkb2luZwogICAqIGFuZCBpdCB3YXMgbW9zdGx5IGFib3V0IG1haW50YWluZyB0aGUgc2FtZSBwcm9wZXJ0aWVzIHRoYXQgY2FuIGJlIGZvdW5kIGluIGEgUG9zdC4KICAgKiBBIG1vcmUgY2xlYXIgYXBwcm9hY2ggd291bGQgYmUgdG8gaGF2ZSByZWR1eC1saWtlIG1lc3NhZ2VzIHRoYXQgZG8ganVzdCBhIHNwZWNpZmljIGpvYi4KICAgKiBUaGUgbWVzc2FnZXMgYmVsb3cgdXNlIHRoaXMgYXBwcm9hY2guCiAgICovCiAgfCB7CiAgICAgIGFjdGlvblR5cGU6ICdjaGFuZ2UtdXJsLXRodW1ibmFpbC1pbWFnZSc7CiAgICAgIGxpbmtJbWFnZTogQ29tcGxldGVJbWFnZVR5cGU7CiAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -497,19 +497,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogewogICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignZnVjaycpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB8IHsKICAgICAgc3ViQWN0aW9uOiAnYWRkLW5ldyc7CiAgICAgIGZ1Y2s6IHt9OwogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgLy8gSnVzdCBhIHRhZyB0aGF0IHRoaXMgaXMgYSAndXJsLXRodW1ibmFpbCcgaXQgaXMgZXhwZWN0ZWQgdGhhdCB0aGUgY2xpZW50IHdpbGwgdXBkYXRlIGl0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0YXJnZXRQb3N0LmNsYXNzaWZpY2F0aW9uID09PSkK</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hlZFVybHNGb3JTZWxlY3RlZFBhZ2VzPzogewogICAgICAgIGxpbms6IENhcm91c2VsTGluazsKICAgICAgICBwYWdlSWQ6IHN0cmluZzsKICAgICAgfVtdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>export type SetContentChangeUrlStuff = {
-}| {
-  
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
