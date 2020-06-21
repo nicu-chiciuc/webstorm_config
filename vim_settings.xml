@@ -108,12 +108,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" timestamp="1592744003379">
-        <mark key="'" line="86" column="22" />
-        <mark key="[" line="86" column="16" />
-        <mark key="]" line="86" column="29" />
-        <mark key="." line="86" column="28" />
-        <mark key="^" line="86" column="29" />
+      <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" timestamp="1592747950924">
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxUserPrompt.ts" timestamp="1592738223719" />
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todo.tsx" timestamp="1592741682841">
@@ -133,10 +129,11 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/redux/bothConnect.ts" timestamp="1592744084723">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/redux/bothConnect.ts" timestamp="1592747659587">
+        <mark key="[" line="18" column="99" />
+        <mark key="]" line="18" column="106" />
+        <mark key="." line="18" column="105" />
+        <mark key="^" line="18" column="106" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/store.ts" timestamp="1592737261641" />
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/redux/ReduxTodos.ts" timestamp="1592743759510">
@@ -153,12 +150,11 @@
       <file name="/GraphQL.result.json" timestamp="1592737199266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592744504586">
-        <mark key="'" line="212" column="397" />
-        <mark key="[" line="218" column="3" />
-        <mark key="]" line="217" column="54" />
-        <mark key="." line="217" column="53" />
-        <mark key="^" line="217" column="54" />
+      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592747989512">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="308" column="23" />
+        <mark key="." line="308" column="22" />
+        <mark key="^" line="308" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/utils.ts" timestamp="1592737891124">
         <mark key="[" line="7" column="0" />
@@ -206,14 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1512" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="793" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1491" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="94" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1529" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1106" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1510" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="31" column="54" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1508" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1164" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="289" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -306,12 +294,20 @@
       <jump line="207" column="30" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
       <jump line="209" column="248" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
       <jump line="212" column="397" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
+      <jump line="220" column="382" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
+      <jump line="139" column="93" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
+      <jump line="169" column="351" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
+      <jump line="172" column="20" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
+      <jump line="199" column="127" filename="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" />
+      <jump line="88" column="4" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
+      <jump line="9" column="22" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
+      <jump line="75" column="22" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bm90IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -480,7 +476,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>findGoodNamePlease</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -506,7 +502,7 @@
         <text encoding="base64">XDxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29ubmVjdCgKICAoeyB0b2RvczogeyB0b2RvcyB9IH06IFN0b3JlVHlwZSkgPT4gKHsKICAgIG1haW5Ub2RvczogdG9kb3MuZmlsdGVyKCh0b2RvKSA9PiB0b2RvLnN0YXRlICE9PSAiY2FuY2VsbGVkIiksCiAgICBjYW5jZWxsZWRUb2RvczogdG9kb3MuZmlsdGVyKCh0b2RvKSA9PiB0b2RvLnN0YXRlID09PSAiY2FuY2VsbGVkIiksCiAgfSksCiAgewogICAgbWFya0FzRG9uZTogbWFya0FzRG9uZUFjdGlvbiwKICAgIGNhbmNlbFRvZG86IGNhbmNlbFRvZG9BY3Rpb24sCiAgICBzYXZlVG9kbzogc2F2ZVRvZG9BY3Rpb24sCiAgfQop</text>
+        <text encoding="base64">RXh0cmFjdENvbm5lY3Q8dHlwZW9mIGNvbm5lY3RlZFRvZG9zPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -515,28 +511,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGVkVG9kb3MgPSBjb25uZWN0KAogICh7IHRvZG9zOiB7IHRvZG9zIH0gfTogU3RvcmVUeXBlKSA9PiAoewogICAgbWFpblRvZG9zOiB0b2Rvcy5maWx0ZXIoKHRvZG8pID0+IHRvZG8uc3RhdGUgIT09ICJjYW5jZWxsZWQiKSwKICAgIGNhbmNlbGxlZFRvZG9zOiB0b2Rvcy5maWx0ZXIoKHRvZG8pID0+IHRvZG8uc3RhdGUgPT09ICJjYW5jZWxsZWQiKSwKICB9KSwKICB7CiAgICBtYXJrQXNEb25lOiBtYXJrQXNEb25lQWN0aW9uLAogICAgY2FuY2VsVG9kbzogY2FuY2VsVG9kb0FjdGlvbiwKICAgIHNhdmVUb2RvOiBzYXZlVG9kb0FjdGlvbiwKICB9Cik7Cg==</text>
+        <text encoding="base64">dHlwZSBNeUluZmVycmVkVHlwZSA9IEV4dHJhY3RDb25uZWN0PHR5cGVvZiBjb25uZWN0ZWRUb2Rvcz47Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKICBtYWluVG9kb3M6IFRvZG9UeXBlW107CiAgY2FuY2VsbGVkVG9kb3M6IFRvZG9UeXBlW107CiAgbWFpblRpdGxlOiBzdHJpbmc7CiAgbWFya0FzRG9uZTogKGlkOiBzdHJpbmcpID0+IHZvaWQ7CiAgY2FuY2VsVG9kbzogKGlkOiBzdHJpbmcpID0+IHZvaWQ7CiAgc2F2ZVRvZG86ICh0aXRsZTogc3RyaW5nKSA9PiB2b2lkOwp9Ow==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y29ubmVjdCgKICAoeyB0b2RvczogeyB0b2RvcyB9IH06IFN0b3JlVHlwZSkgPT4gKHsKICAgIG1haW5Ub2RvczogdG9kb3MuZmlsdGVyKCh0b2RvKSA9PiB0b2RvLnN0YXRlICE9PSAiY2FuY2VsbGVkIiksCiAgICBjYW5jZWxsZWRUb2RvczogdG9kb3MuZmlsdGVyKCh0b2RvKSA9PiB0b2RvLnN0YXRlID09PSAiY2FuY2VsbGVkIiksCiAgfSksCiAgewogICAgbWFya0FzRG9uZTogbWFya0FzRG9uZUFjdGlvbiwKICAgIGNhbmNlbFRvZG86IGNhbmNlbFRvZG9BY3Rpb24sCiAgICBzYXZlVG9kbzogc2F2ZVRvZG9BY3Rpb24sCiAgfQop</text>
+      <register name="5" type="2">
+        <text encoding="base64">dHlwZSBNeUluZmVycmVkVHlwZSA9IEV4dHJhY3RDb25uZWN0PHR5cGVvZiBjb25uZWN0ZWRUb2Rvcz47Cg==</text>
       </register>
       <register name="u" type="4">
-        <text>vSu</text>
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gInJlYWN0LXJlZHV4IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VG8gbWFrZSB0aGUgY29kZSBtb3JlIHBhbGF0YWJsZSwgSSd2ZSBjcmVhdGVkIGEgdmVyeSBzbWFsbCBwcm9qZWN0IHdoaWNoIHVzZXMgUmVkdXguCg==</text>
+        <text encoding="base64">RXhjZXB0Li4uIHRoZXJlIGlzIGEgc21hbGwgcHJvYmxlbS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SSd2ZSBjcmVhdGVkIGEgc21hbGwgcHJvamVjdCB0aGF0IHdhcyBjb3BpZWQgZnJvbSB0aGUgYHJlYWwtd29yZGAgZXhhbXBsZXMgZnJvbSB0aGUgYHJlZHV4YCByZXBvc2l0b3J5LgpJJ3ZlIHJlbW92ZWQgc29tZSBvZiB0aGUgbW9yZSBwcm9kdWN0aW9uLXJlYWR5IHN0dWZmIGFuZCBhZGRlZCBzb21lIGJhc2ljIHR5cGVzLgpCdXQgb3RoZXIgdGhhbiB0aGF0LCB0aGUgY3VycmVudCBwcm9qZWN0OgpbZ2l0aHViLmNvbS9uaWN1LWNoaWNpdWMvcmVkdXgtd2l0aC1jb25uZWN0XShodHRwczovL2dpdGh1Yi5jb20vbmljdS1jaGljaXVjL3JlZHV4LXdpdGgtY29ubmVjdCkuCnNob3VsZCB3b3JrIGJhc2ljYWxseSB0aGUgc2FtZSBhcyB0aGUgb3JpZ2luYWwgb25lLgoKRm9yIG91ciBwdXJwb3NlcyBpdCdzIG5vdCByZWFsbHkgaW1wb3J0YW50IHRvIGtub3cgaG93IHRvIGRlZmluZSB0aGUgZ2xvYmFsIG9iamVjdCBhbmQgd2hhdCB0aGUgY29tcG9uZW50IGRvZXMgd2l0aCBpdC4gVGhlIG1lYXQgb2YgdGhlIGRpc2N1c3Npb24gd2lsbCBiZSBhYm91dCBob3cgdG8gY29ubmVjdCB0aGUgY29ubmVjdCBmdW5jdGlvbiBtb3JlIGVhc2lseS4KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnV0IHRoZW9yZXRpY2FsbHkgaXQgY2FuIGJlIGFueXRoaW5nLgo=</text>
+        <text encoding="base64">VGhlb3JldGljYWxseSBpdCB3b3VsZCd2ZSBiZWVuIHBvc3NpYmxlIHRvIHdyaXRlIHRoaXMgZGVmaW5pdGlvbiBldmVuIHNob3J0ZXIsIGJ1dCBhbGFzLiBBbHNvIG5vdGUgdGhhdCBJJ3ZlIHVzZWQgdHlwZSBgYW55YCBldmVuIHRob3VnaCB0aGF0J3MgdXN1YWxseSBub3QgdmVyeSBjb29sLiBXaGVuIHdyaXRpbmcgcGx1bWJpbmcgY29kZSwgc29tZXRpbWVzIGNvbXByb21pc2VzIGFyZSBuZWNlc3NhcnkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
