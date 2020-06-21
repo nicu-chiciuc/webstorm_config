@@ -124,12 +124,12 @@
       <file name="/GraphQL.result.json" timestamp="1592765727659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592768187755">
+      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592768418712">
         <mark key="'" line="56" column="2" />
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="17" />
+        <mark key="[" line="108" column="13" />
+        <mark key="]" line="108" column="13" />
         <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="16" />
+        <mark key="." line="108" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/utils.ts" timestamp="1592737891124">
         <mark key="[" line="7" column="0" />
@@ -307,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text encoding="base64">IGpzeA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -476,7 +476,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IGpzeA==</text>
       </register>
       <register name="m" type="4">
         <keys>
