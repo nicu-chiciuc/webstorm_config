@@ -108,6 +108,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1592768111865">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" timestamp="1592767314303">
         <mark key="[" line="68" column="3" />
         <mark key="]" line="69" column="39" />
@@ -121,22 +124,17 @@
       <file name="/GraphQL.result.json" timestamp="1592765727659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592767466351">
-        <mark key="'" line="52" column="2" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592768187755">
+        <mark key="'" line="56" column="2" />
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/utils.ts" timestamp="1592737891124">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="15" column="1" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" timestamp="1592574469968">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="41" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/SomeCheckboxes.tsx" timestamp="1592742129427">
         <mark key="[" line="38" column="47" />
@@ -308,8 +306,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -478,7 +476,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BlYWQgdXAg</text>
+        <text>3</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -510,16 +508,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlcmUgYXJlIHNldmVyYWwga25vd24gYXBwcm9hY2hlcyBvZiBhZGRpbmcgYSB0eXBlZCB3cmFwcGVyIGFyb3VuZCB0aGUgcmVkdXggQVBJLgpJbiBvdXIgY3VycmVudCBwcm9qZWN0IHdlJ3ZlIGRldmVsb3BlZCBhbiBpbi1ob3VzZSBhcHByb2FjaCB0aGF0IGFsbG93cyB0byBjcmVhdGUgSE9DcyBhbmQgaG9va3MKYXQgdGhlIHNhbWUgdGltZS4gVGhpcyBhbGxvd2VkIHVzIHRvIHN3aXRjaCBmcm9tIGNsYXNzIGNvbXBvbmVudHMgdG8gZnVuY3Rpb25hbCBjb21wb25lbnQKKG9yIHZpY2UtdmVyc2EpIHZlcnkgZWFzeSwgd2l0aG91dCBoYXZpbmcgdG8gcmV3cml0ZSB0aGUgSE9DcyBhbmQgaG9va3MuCgpCZXNpZGVzIHRyeWluZyB0byBleHBsYWluIGhvdyB0aGlzIGFwcHJvYWNoIHdvcmtzLiBPbmUgYWltIG9mIHRoZSBhcnRpY2xlIGlzIHRvIHNob3cKaG93IHRvIGRldmVsb3AgcG93ZXJmdWwgdHlwZWQgaW50ZXJmYWNlcyBhcm91bmQgZXhpc3RpbmcgSmF2YXNjcmlwdCBsaWJyYXJpZXMuCgpbZ2l0aHViLmNvbS9uaWN1LWNoaWNpdWMvcmVkdXgtd2l0aC1jb25uZWN0XShodHRwczovL2dpdGh1Yi5jb20vbmljdS1jaGljaXVjL3JlZHV4LXdpdGgtY29ubmVjdCkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZSBib3RoIHRoZSBIT0MgYW5kIHRoZSBob29rIGF0IHRoZSBzYW1lIHRpbWUKICovCg==</text>
+        <text>type State = {
+  tempTodoTitle: string;
+};</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlIGFydGljbGUgZXhwbGFpbnMgdGhlIHdob2xlIHByb2Nlc3Mgb2YgYWRkaW5nIGEgdHlwZWQgd3JhcHBlciBhcm91bmQgdGhlIGRlZmF1bHQKcmVkdXggbWV0aG9kcy4gSWYgeW91IGRvbid0IHJlYWxseSBuZWVkIHRoZSB3aG9sZSBjZXJlbW9ueSBvZiB0aGUgYXJ0aWNsZSB5b3UgY2FuCnNraXAgZGlyZWN0bHkgdG8gdGhlIHNvdXJjZSBjb2RlCg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgV2l0aENvbm5lY3RlZFRvZG9zID0gRXh0cmFjdENvbm5lY3Q8dHlwZW9mIHdpdGhDb25uZWN0ZWRUb2Rvcz47Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -533,16 +533,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHByb3BzCg==</text>
+        <text encoding="base64">VGhlcmUgYXJlIHNldmVyYWwga25vd24gYXBwcm9hY2hlcyBvZiBhZGRpbmcgYSB0eXBlZCB3cmFwcGVyIGFyb3VuZCB0aGUgcmVkdXggQVBJLgpJbiBvdXIgY3VycmVudCBwcm9qZWN0IHdlJ3ZlIGRldmVsb3BlZCBhbiBpbi1ob3VzZSBhcHByb2FjaCB0aGF0IGFsbG93cyB0byBjcmVhdGUgSE9DcyBhbmQgaG9va3MKYXQgdGhlIHNhbWUgdGltZS4gVGhpcyBhbGxvd2VkIHVzIHRvIHN3aXRjaCBmcm9tIGNsYXNzIGNvbXBvbmVudHMgdG8gZnVuY3Rpb25hbCBjb21wb25lbnQKKG9yIHZpY2UtdmVyc2EpIHZlcnkgZWFzeSwgd2l0aG91dCBoYXZpbmcgdG8gcmV3cml0ZSB0aGUgSE9DcyBhbmQgaG9va3MuCgpCZXNpZGVzIHRyeWluZyB0byBleHBsYWluIGhvdyB0aGlzIGFwcHJvYWNoIHdvcmtzLiBPbmUgYWltIG9mIHRoZSBhcnRpY2xlIGlzIHRvIHNob3cKaG93IHRvIGRldmVsb3AgcG93ZXJmdWwgdHlwZWQgaW50ZXJmYWNlcyBhcm91bmQgZXhpc3RpbmcgSmF2YXNjcmlwdCBsaWJyYXJpZXMuCgpbZ2l0aHViLmNvbS9uaWN1LWNoaWNpdWMvcmVkdXgtd2l0aC1jb25uZWN0XShodHRwczovL2dpdGh1Yi5jb20vbmljdS1jaGljaXVjL3JlZHV4LXdpdGgtY29ubmVjdCkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHByb3BzIH0gPSB0aGlzOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZSBib3RoIHRoZSBIT0MgYW5kIHRoZSBob29rIGF0IHRoZSBzYW1lIHRpbWUKICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGVtcFRvZG9UaXRsZTogIiIsCiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
