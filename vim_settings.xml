@@ -124,7 +124,7 @@
       <file name="/GraphQL.result.json" timestamp="1592765727659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592768418712">
+      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592769971705">
         <mark key="'" line="56" column="2" />
         <mark key="[" line="108" column="13" />
         <mark key="]" line="108" column="13" />
@@ -175,12 +175,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/ComposeTopToolbar/ComposeTopToolbar.tsx" timestamp="1592574916207">
-        <mark key="[" line="24" column="91" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/redux/bothConnect.ts" timestamp="1592766184478">
         <mark key="[" line="56" column="52" />
@@ -505,21 +499,21 @@
         <text encoding="base64">LyoqCiAqIENyZWF0ZSBib3RoIHRoZSBIT0MgYW5kIHRoZSBob29rIGF0IHRoZSBzYW1lIHRpbWUKICovCmV4cG9ydCBjb25zdCBbd2l0aENvbm5lY3RlZFRvZG9zLCB1c2VDb25uZWN0ZWRUb2Rvc10gPSBib3RoQ29ubmVjdCgKICAoeyB0b2RvczogeyB0b2RvcyB9IH0pID0+ICh7CiAgICAgIAogICAgbWFpblRvZG9zOiB0b2Rvcy5maWx0ZXIoKHRvZG8pID0+IHRvZG8uc3RhdGUgIT09ICJjYW5jZWxsZWQiKSwKICAgIGNhbmNlbGxlZFRvZG9zOiB0b2Rvcy5maWx0ZXIoKHRvZG8pID0+IHRvZG8uc3RhdGUgPT09ICJjYW5jZWxsZWQiKSwKICB9KSwKICB7CiAgICBtYXJrQXNEb25lOiBtYXJrQXNEb25lQWN0aW9uLAogICAgY2FuY2VsVG9kbzogY2FuY2VsVG9kb0FjdGlvbiwKICAgIHNhdmVUb2RvOiBzYXZlVG9kb0FjdGlvbiwKICB9Cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgdHlwZXNjcmlwdCBqc3gK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>type State = {
   tempTodoTitle: string;
 };</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgV2l0aENvbm5lY3RlZFRvZG9zID0gRXh0cmFjdENvbm5lY3Q8dHlwZW9mIHdpdGhDb25uZWN0ZWRUb2Rvcz47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -533,16 +527,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgV2l0aENvbm5lY3RlZFRvZG9zID0gRXh0cmFjdENvbm5lY3Q8dHlwZW9mIHdpdGhDb25uZWN0ZWRUb2Rvcz47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlcmUgYXJlIHNldmVyYWwga25vd24gYXBwcm9hY2hlcyBvZiBhZGRpbmcgYSB0eXBlZCB3cmFwcGVyIGFyb3VuZCB0aGUgcmVkdXggQVBJLgpJbiBvdXIgY3VycmVudCBwcm9qZWN0IHdlJ3ZlIGRldmVsb3BlZCBhbiBpbi1ob3VzZSBhcHByb2FjaCB0aGF0IGFsbG93cyB0byBjcmVhdGUgSE9DcyBhbmQgaG9va3MKYXQgdGhlIHNhbWUgdGltZS4gVGhpcyBhbGxvd2VkIHVzIHRvIHN3aXRjaCBmcm9tIGNsYXNzIGNvbXBvbmVudHMgdG8gZnVuY3Rpb25hbCBjb21wb25lbnQKKG9yIHZpY2UtdmVyc2EpIHZlcnkgZWFzeSwgd2l0aG91dCBoYXZpbmcgdG8gcmV3cml0ZSB0aGUgSE9DcyBhbmQgaG9va3MuCgpCZXNpZGVzIHRyeWluZyB0byBleHBsYWluIGhvdyB0aGlzIGFwcHJvYWNoIHdvcmtzLiBPbmUgYWltIG9mIHRoZSBhcnRpY2xlIGlzIHRvIHNob3cKaG93IHRvIGRldmVsb3AgcG93ZXJmdWwgdHlwZWQgaW50ZXJmYWNlcyBhcm91bmQgZXhpc3RpbmcgSmF2YXNjcmlwdCBsaWJyYXJpZXMuCgpbZ2l0aHViLmNvbS9uaWN1LWNoaWNpdWMvcmVkdXgtd2l0aC1jb25uZWN0XShodHRwczovL2dpdGh1Yi5jb20vbmljdS1jaGljaXVjL3JlZHV4LXdpdGgtY29ubmVjdCkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZSBib3RoIHRoZSBIT0MgYW5kIHRoZSBob29rIGF0IHRoZSBzYW1lIHRpbWUKICovCg==</text>
+        <text encoding="base64">VGhlcmUgYXJlIHNldmVyYWwga25vd24gYXBwcm9hY2hlcyBvZiBhZGRpbmcgYSB0eXBlZCB3cmFwcGVyIGFyb3VuZCB0aGUgcmVkdXggQVBJLgpJbiBvdXIgY3VycmVudCBwcm9qZWN0IHdlJ3ZlIGRldmVsb3BlZCBhbiBpbi1ob3VzZSBhcHByb2FjaCB0aGF0IGFsbG93cyB0byBjcmVhdGUgSE9DcyBhbmQgaG9va3MKYXQgdGhlIHNhbWUgdGltZS4gVGhpcyBhbGxvd2VkIHVzIHRvIHN3aXRjaCBmcm9tIGNsYXNzIGNvbXBvbmVudHMgdG8gZnVuY3Rpb25hbCBjb21wb25lbnQKKG9yIHZpY2UtdmVyc2EpIHZlcnkgZWFzeSwgd2l0aG91dCBoYXZpbmcgdG8gcmV3cml0ZSB0aGUgSE9DcyBhbmQgaG9va3MuCgpCZXNpZGVzIHRyeWluZyB0byBleHBsYWluIGhvdyB0aGlzIGFwcHJvYWNoIHdvcmtzLiBPbmUgYWltIG9mIHRoZSBhcnRpY2xlIGlzIHRvIHNob3cKaG93IHRvIGRldmVsb3AgcG93ZXJmdWwgdHlwZWQgaW50ZXJmYWNlcyBhcm91bmQgZXhpc3RpbmcgSmF2YXNjcmlwdCBsaWJyYXJpZXMuCgpbZ2l0aHViLmNvbS9uaWN1LWNoaWNpdWMvcmVkdXgtd2l0aC1jb25uZWN0XShodHRwczovL2dpdGh1Yi5jb20vbmljdS1jaGljaXVjL3JlZHV4LXdpdGgtY29ubmVjdCkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZSBib3RoIHRoZSBIT0MgYW5kIHRoZSBob29rIGF0IHRoZSBzYW1lIHRpbWUKICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
