@@ -131,7 +131,6 @@
         <mark key="'" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/containers/MediaLibraryContainer/MediaLibraryTopBar.tsx" timestamp="1592824766760" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/server/methods/multiplexerStarters.ts" timestamp="1592824723226" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1592832391158">
         <mark key="'" line="255" column="31" />
         <mark key="[" line="256" column="0" />
@@ -150,6 +149,12 @@
       <file name="/JavaScript Console" timestamp="1592825020371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/GITMY/redux-with-connect/src/redux/bothConnect.ts" timestamp="1592855101605">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="21" column="8" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/publications/publishDraftPosts.ts" timestamp="1592832851714">
         <mark key="'" line="20" column="15" />
         <mark key="[" line="6" column="32" />
@@ -158,7 +163,7 @@
         <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/hooks/useSubscription.ts" timestamp="1592827942231" />
-      <file name="/GraphQL.result.json" timestamp="1592851804301">
+      <file name="/GraphQL.result.json" timestamp="1592854244814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592851876140">
@@ -291,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>approaches</text>
+        <text>map`</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -460,7 +465,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>approaches</text>
+        <text>map`</text>
       </register>
       <register name="m" type="4">
         <keys>
