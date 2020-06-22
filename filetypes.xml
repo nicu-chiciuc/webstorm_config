@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="ComposeHeader.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="ComposeHeader" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
