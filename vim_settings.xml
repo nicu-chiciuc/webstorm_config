@@ -116,7 +116,6 @@
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/patches/@types+react+16.9.35.patch" timestamp="1592902422463" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/eventListeners.ts" timestamp="1592913724189">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="76" />
@@ -128,6 +127,11 @@
         <mark key="]" line="152" column="26" />
         <mark key="." line="152" column="25" />
         <mark key="^" line="152" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/WithPageBanner.tsx" timestamp="1592921866750">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
       </file>
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1592918993511">
         <mark key="[" line="0" column="0" />
@@ -150,10 +154,8 @@
         <mark key="^" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePostMethod.ts" timestamp="1592919108853" />
-      <file name="/" timestamp="1592902195660">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592919111771">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/DomHOC.tsx" timestamp="1592921655640" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592921443703">
         <mark key="[" line="1418" column="0" />
         <mark key="]" line="1419" column="67" />
         <mark key="." line="1418" column="0" />
@@ -180,15 +182,13 @@
       <file name="/JavaScript Console" timestamp="1592918948573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1592909629649">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1592918603508">
         <mark key="[" line="79" column="7" />
         <mark key="]" line="79" column="14" />
         <mark key="." line="79" column="13" />
         <mark key="^" line="79" column="14" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithMediaEditor/index.tsx" timestamp="1592921521965" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1592918495435">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="77" column="0" />
@@ -307,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc29tZUdyb3VwSWQgPSBSYW5kb20uaWQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -477,7 +477,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
