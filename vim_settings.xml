@@ -152,14 +152,14 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1592854244814">
+      <file name="/GraphQL.result.json" timestamp="1592909629649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592851876140">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592909762953">
+        <mark key="[" line="194" column="100" />
+        <mark key="]" line="194" column="100" />
+        <mark key="." line="194" column="100" />
+        <mark key="^" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" timestamp="1592901680433" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/portal/ModalContainer.tsx" timestamp="1592901650352" />
@@ -290,7 +290,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>withLocalUploads(UrlPreviewHelper)</text>
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -459,7 +459,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
