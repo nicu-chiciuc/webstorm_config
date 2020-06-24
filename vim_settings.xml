@@ -108,31 +108,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/GroupHeader/index.tsx" timestamp="1592918709935" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/functions/updatePostUtils.ts" timestamp="1592912934675">
-        <mark key="'" line="60" column="18" />
-        <mark key="[" line="85" column="6" />
-        <mark key="]" line="85" column="20" />
-        <mark key="^" line="85" column="20" />
-        <mark key="." line="85" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/eventListeners.ts" timestamp="1592913724189">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="76" />
-        <mark key="^" line="29" column="76" />
-        <mark key="." line="29" column="75" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" timestamp="1592914614970">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="152" column="26" />
-        <mark key="." line="152" column="25" />
-        <mark key="^" line="152" column="26" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/WithPageBanner.tsx" timestamp="1592921866750">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-      </file>
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1592918993511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,23 +122,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/GITMY/nicusor-dev/content/blog/strong-redux/index.md" timestamp="1592909762953">
-        <mark key="[" line="194" column="100" />
-        <mark key="]" line="194" column="100" />
-        <mark key="." line="194" column="100" />
-        <mark key="^" line="115" column="53" />
+      <file name="/GraphQL.result.json" timestamp="1592982387139">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePostMethod.ts" timestamp="1592919108853" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/DomHOC.tsx" timestamp="1592921655640" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592921443703">
-        <mark key="[" line="1418" column="0" />
-        <mark key="]" line="1419" column="67" />
-        <mark key="." line="1418" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeHeader.tsx" timestamp="1592918255424">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1592918603508">
+        <mark key="[" line="79" column="7" />
+        <mark key="]" line="79" column="14" />
+        <mark key="." line="79" column="13" />
+        <mark key="^" line="79" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/updatePost.ts" timestamp="1592917462351">
         <mark key="'" line="6" column="0" />
@@ -179,21 +145,41 @@
         <mark key="^" line="133" column="47" />
         <mark key="." line="133" column="46" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/functions/updatePostUtils.ts" timestamp="1592912934675">
+        <mark key="'" line="60" column="18" />
+        <mark key="[" line="85" column="6" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="19" />
+      </file>
       <file name="/JavaScript Console" timestamp="1592918948573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1592918603508">
-        <mark key="[" line="79" column="7" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="13" />
-        <mark key="^" line="79" column="14" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/WithMediaEditor/index.tsx" timestamp="1592921521965" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1592918495435">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592982489148">
+        <mark key="'" line="116" column="67" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/eventListeners.ts" timestamp="1592913724189">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="76" />
+        <mark key="^" line="29" column="76" />
+        <mark key="." line="29" column="75" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" timestamp="1592914614970">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="152" column="26" />
+        <mark key="." line="152" column="25" />
+        <mark key="^" line="152" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeHeader.tsx" timestamp="1592918255424">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposePageIconList.tsx" timestamp="1592918343171">
         <mark key="[" line="24" column="52" />
@@ -201,9 +187,13 @@
         <mark key="^" line="103" column="12" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/WithPageBanner.tsx" timestamp="1592921866750">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="35" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
       <jump line="67" column="0" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
       <jump line="10" column="0" filename="$USER_HOME$/Dev/GITMY/redux-with-connect/src/components/Todos.tsx" />
@@ -303,6 +293,7 @@
       <jump line="1185" column="60" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1042" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="77" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" />
+      <jump line="116" column="67" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
