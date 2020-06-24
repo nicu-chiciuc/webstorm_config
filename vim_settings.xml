@@ -138,7 +138,7 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="50" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593003073805">
+      <file name="/GraphQL.result.json" timestamp="1593008692235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/utils/postSaving.ts" timestamp="1592992925497">
@@ -146,12 +146,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1592994754598">
-        <mark key="'" line="33" column="71" />
-        <mark key="[" line="258" column="40" />
-        <mark key="]" line="258" column="50" />
-        <mark key="." line="258" column="49" />
-        <mark key="^" line="258" column="50" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593008805377">
+        <mark key="'" line="41" column="50" />
+        <mark key="[" line="41" column="77" />
+        <mark key="]" line="41" column="82" />
+        <mark key="." line="41" column="81" />
+        <mark key="^" line="41" column="82" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/index.ts" timestamp="1592996060199">
         <mark key="[" line="3" column="18" />
@@ -159,7 +159,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1592998565070">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1593008717577">
         <mark key="'" line="22" column="23" />
         <mark key="[" line="36" column="7" />
         <mark key="]" line="36" column="11" />
@@ -195,11 +195,12 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="75" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1593003115938">
-        <mark key="[" line="207" column="9" />
-        <mark key="]" line="208" column="8" />
-        <mark key="." line="208" column="7" />
-        <mark key="^" line="208" column="8" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1593008905828">
+        <mark key="j" line="198" column="8" />
+        <mark key="[" line="176" column="50" />
+        <mark key="]" line="176" column="49" />
+        <mark key="." line="176" column="48" />
+        <mark key="^" line="176" column="49" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1592989728870">
         <mark key="'" line="365" column="66" />
@@ -301,7 +302,6 @@
       <jump line="9" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
       <jump line="139" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="256" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
-      <jump line="41" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="33" column="71" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="31" column="38" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" />
       <jump line="21" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" />
@@ -309,12 +309,13 @@
       <jump line="176" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
       <jump line="179" column="53" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
       <jump line="214" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
+      <jump line="41" column="50" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gaW5zZXJ0ZWRQb3N0cy5wdXNoKHsKICAgICAgICAvLyAgIHBvc3RJZDogcG9zdC5faWQsCiAgICAgICAgLy8gICBwYWdlSWQ6IHBvc3QucGFnZUlkLAogICAgICAgIC8vICAgcHVibGljUG9zdElkCiAgICAgICAgLy8gfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgYW5kVGhlbjogCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -483,7 +484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{ postId: post._id }</text>
+        <text encoding="base64">OiBDb21wb3NlUG9zdFtdIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -508,26 +509,23 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb2xsYWJvcmF0b3JzOiB7CiAgICB0eXBlOiBBcnJheSwKICAgIGxhYmVsOiAnVXNlcnMgdGhhdCBoYWQgYW4gaW50ZXJhY3Rpb24gd2l0aCB0aGUgcG9zdCcsCiAgICBvcHRpb25hbDogdHJ1ZQogIH0sCiAgJ2NvbGxhYm9yYXRvcnMuJCc6IHsKICAgIHR5cGU6IFN0cmluZywKICAgIGxhYmVsOiAnSWQgb2YgdGhlIHVzZXIgdGhhdCBpbnRlcmFjdGVkIHdpdGggdGhlIHBvc3QnCiAgfSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">dW5jPHR5cGVvZiBkcmFmdFBvc3RJbnNlcnRIYWNrPiAmCiAgZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gaW5zZXJ0ZWRQb3N0cy5wdXNoKHsKICAgICAgICAvLyAgIHBvc3RJZDogcG9zdC5faWQsCiAgICAgICAgLy8gICBwYWdlSWQ6IHBvc3QucGFnZUlkLAogICAgICAgIC8vICAgcHVibGljUG9zdElkCiAgICAgICAgLy8gfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgYW5kVGhlbjogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICBkcmFmdFBvc3RTYXZlQXNQb3N0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8gaW5zZXJ0ZWRQb3N0cy5wdXNoKHsKICAgICAgICAvLyAgIHBvc3RJZDogcG9zdC5faWQsCiAgICAgICAgLy8gICBwYWdlSWQ6IHBvc3QucGFnZUlkLAogICAgICAgIC8vICAgcHVibGljUG9zdElkCiAgICAgICAgLy8gfSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      type: String,
-      label: 'Id of the user that interacted with the post'
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -540,19 +538,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+      type: String,
+      label: 'Id of the user that interacted with the post'
+    }</text>
+      </register>
+      <register name="8" type="4">
         <text>{
       type: Array,
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uYWw6IHRydWUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWw6ICdVc2VycyB0aGF0IGhhZCBhbiBpbnRlcmFjdGlvbiB3aXRoIHRoZSBwb3N0JywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkUGFnZUlkczogW1N0cmluZ10sCg==</text>
+        <text encoding="base64">ICAgICAgb3B0aW9uYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
