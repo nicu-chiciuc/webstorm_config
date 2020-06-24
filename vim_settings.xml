@@ -108,31 +108,70 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" timestamp="1592994002113">
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="515" column="0" />
+        <mark key="^" line="570" column="22" />
+        <mark key="." line="515" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerTimePicker/ComposerTimePickerWrapper.tsx" timestamp="1592989308949">
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="36" />
         <mark key="." line="45" column="35" />
         <mark key="^" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/GroupHeader/GroupHeaderPage.tsx" timestamp="1592982811101">
-        <mark key="'" line="49" column="1" />
+      <file name="/a.dummy" timestamp="1592991852827">
+        <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1592989017113" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/GroupHeader/index.tsx" timestamp="1592983137800" />
-      <file name="/JavaScript Console" timestamp="1592918948573">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1592994754598">
+        <mark key="'" line="33" column="71" />
+        <mark key="[" line="258" column="40" />
+        <mark key="]" line="258" column="50" />
+        <mark key="." line="258" column="49" />
+        <mark key="^" line="258" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/index.ts" timestamp="1592996060199">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1592996366229">
+        <mark key="'" line="31" column="38" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="33" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" timestamp="1592995979798">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="73" column="26" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/functions/updatePostUtils.ts" timestamp="1592992223839">
+        <mark key="'" line="60" column="18" />
+        <mark key="[" line="85" column="6" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="19" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592996560372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeGutter.tsx" timestamp="1592989061549">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/eventListeners.ts" timestamp="1592992239827">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="76" />
+        <mark key="^" line="29" column="76" />
+        <mark key="." line="29" column="75" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1592990416732">
-        <mark key="'" line="49" column="5" />
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="29" />
-        <mark key="^" line="49" column="30" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/.vscode/settings.json" timestamp="1592995461078" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1592996553813">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="176" column="6" />
+        <mark key="]" line="176" column="6" />
+        <mark key="^" line="174" column="24" />
+        <mark key="." line="176" column="6" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/Post/index.tsx" timestamp="1592989728870">
         <mark key="'" line="365" column="66" />
@@ -140,12 +179,7 @@
         <mark key="]" line="485" column="0" />
         <mark key="." line="485" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/WithPageBanner.tsx" timestamp="1592921866750">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-      </file>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1592918993511">
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1592996272496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1592989935967">
@@ -154,60 +188,27 @@
         <mark key="]" line="719" column="27" />
         <mark key="." line="719" column="27" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/antd/lib/date-picker/index.d.ts" timestamp="1592989195805" />
-      <file name="/GraphQL.result.json" timestamp="1592982623995">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/typedPostMethods.ts" timestamp="1592995861871">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="50" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PostModalWarehouse/PostModal/index.tsx" timestamp="1592987442517">
-        <mark key="'" line="109" column="49" />
-        <mark key="[" line="79" column="7" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="13" />
-        <mark key="^" line="79" column="14" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/utils/postSaving.ts" timestamp="1592992925497">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" timestamp="1592983824320" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/PostContainer.tsx" timestamp="1592988561243">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592995866250">
+        <mark key="'" line="139" column="17" />
+        <mark key="[" line="1210" column="0" />
+        <mark key="]" line="1210" column="0" />
+        <mark key="^" line="1242" column="31" />
+        <mark key="." line="1210" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1592990359913">
-        <mark key="'" line="1106" column="0" />
-        <mark key="[" line="1086" column="6" />
-        <mark key="]" line="1086" column="6" />
-        <mark key="." line="1086" column="6" />
-        <mark key="^" line="1085" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeHeader.tsx" timestamp="1592918255424">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposePageIconList.tsx" timestamp="1592918343171">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="103" column="12" />
-        <mark key="." line="24" column="52" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/react/index.d.ts" timestamp="1592991733562" />
     </filemarks>
     <jumps>
-      <jump line="890" column="49" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="899" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1029" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="55" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeHeader.tsx" />
-      <jump line="81" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeHeader.tsx" />
-      <jump line="1061" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="61" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/ComposeHeader.tsx" />
-      <jump line="1219" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1191" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
-      <jump line="251" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
-      <jump line="59" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/MediaEditor/index.tsx" />
-      <jump line="33" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/index.tsx" />
-      <jump line="657" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="926" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="954" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="714" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="969" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="813" column="30" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -292,12 +293,28 @@
       <jump line="1106" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="48" column="5" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
       <jump line="49" column="5" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
+      <jump line="312" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
+      <jump line="4" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
+      <jump line="32" column="24" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="133" column="46" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="40" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="22" column="3" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/typedPostMethods.ts" />
+      <jump line="25" column="39" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/typedPostMethods.ts" />
+      <jump line="257" column="44" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="9" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
+      <jump line="139" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="256" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="41" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="33" column="71" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="31" column="38" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgfSk7</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -466,7 +483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>draftPosts</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -491,23 +508,23 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>post._id, this.props.workspaceId, contentMessage</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0ICcuL21ldGhvZHMvdmFsaWRhdGlvbnMnOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXR0YWNoZWRNZWRpYUlkcz17dGhpcy5hdHRhY2hlZE1lZGlhSWRzT2ZQb3N0cygpfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgfSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coZGF0YSk7CiAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZsYXRNYXAgZnJvbSAnbG9kYXNoL2ZsYXRNYXAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdHRhY2hlZE1lZGlhSWRzT2ZQb3N0cyA9ICgpOiBTZXQ8c3RyaW5nPiA9PiB7CiAgICBjb25zdCByZXBlYXRpbmdQZW5kaW5nVXBsb2FkSWRzID0gZmxhdE1hcChbdGhpcy5wcm9wcy5wb3N0XSwgcG9zdCA9PiBwb3N0LmF0dGFjaGVkTWVkaWFJZHMgfHwgW10pOwogICAgcmV0dXJuIG5ldyBTZXQocmVwZWF0aW5nUGVuZGluZ1VwbG9hZElkcyk7CiAgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgLy8gVE9ETzogQ2hlY2sgdGhlIHRleHQgYWJvdmUgd2l0aFRyYWNrZXIgdW5kZXIgdGhpcyBjb21wb25lbnQKICAvLyBoYW5kbGVQZW5kaW5nTWVkaWFzVXBkYXRlID0gKG5leHRQcm9wczogUmVhZG9ubHk8UHJvcHM+KSA9PiB7CiAgLy8gICAvLyBJdCBpcyBpbXBvcnRhbnQgdGhhdCB1cGRhdGluZyB0aGUgTWVkaWFzIGhhcHBlbnMgb24gZnJvbnRlbmQganVzdCBmb3IgdGhlIENvbXBvc2UKICAvLyAgIGlmICh0aGlzLnByb3BzLnNvdXJjZS5vcmlnaW4gPT09IE9yaWdpbi5QT1NUKSByZXR1cm47CiAgLy8gICBpZiAoaXNFcXVhbCh0aGlzLnByb3BzLmF0dGFjaGVkTWVkaWFzLCBuZXh0UHJvcHMuYXR0YWNoZWRNZWRpYXMpKSByZXR1cm47CiAgLy8KICAvLyAgIGNvbnN0IG1lZGlhVXBkYXRlcyA9IGdldE1lZGlhVXBkYXRlc0Zyb21QZW5kaW5nSWRzKG5leHRQcm9wcy5hdHRhY2hlZE1lZGlhcywgbmV4dFByb3BzKTsKICAvLwogIC8vICAgbWVkaWFVcGRhdGVzLmZvckVhY2godXBkYXRlID0+IHsKICAvLyAgICAgdGhpcy5wcm9wcy5zZXRDb250ZW50KHVwZGF0ZSk7CiAgLy8gICB9KTsKICAvLyB9Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Q29tbW9uIGZvciBzdG9yeS9wb3N0CiAgICAgIGxldCBwb3N0RGF0YTogUGFydGlhbDxDb21wb3NlUG9zdD4gPSB7CiAgICAgICAgd29ya3NwYWNlSWQ6IHRoaXMucHJvcHMud29ya3NwYWNlSWQsCiAgICAgICAgcGFnZUlkOiBwb3N0LnBhZ2VJZCwKICAgICAgICB0YXJnZXRpbmc6IHBvc3QudGFyZ2V0aW5nLAogICAgICAgIGxhYmVsczogcG9zdC5sYWJlbHMgPyBbLi4ucG9zdC5sYWJlbHNdIDogdW5kZWZpbmVkLAogICAgICAgIHNjaGVkdWxlZEF0OiBwb3N0LnNjaGVkdWxlZEF0ID8gbW9tZW50KHBvc3Quc2NoZWR1bGVkQXQpLnRvRGF0ZSgpIDogdW5kZWZpbmVkLAogICAgICAgIHRlYW1Pbmx5OiBwb3N0LnRlYW1Pbmx5IHx8IHVuZGVmaW5lZAogICAgICB9OwogICAgICBpZiAocG9zdC5jbGFzc2lmaWNhdGlvbiA9PT0gJ3Bvc3QnKSB7CiAgICAgICAgcG9zdERhdGEgPSB7CiAgICAgICAgICAuLi5wb3N0RGF0YSwKICAgICAgICAgIHBsYWluVGV4dDogcG9zdC5wbGFpblRleHQsCiAgICAgICAgICBjbGFzc2lmaWNhdGlvbjogcG9zdC5jbGFzc2lmaWNhdGlvbiwKICAgICAgICAgIGlnbm9yZWRMaW5rczogcG9zdC5pZ25vcmVkTGlua3MsCiAgICAgICAgICBjb250ZW50OiBwb3N0LmNvbnRlbnQsCiAgICAgICAgICBnaWY6IHBvc3QuZ2lmLAogICAgICAgICAgbWl4ZWRNZWRpYTogcG9zdC5taXhlZE1lZGlhLAogICAgICAgICAgYWxidW1OYW1lOiBwb3N0LmFsYnVtTmFtZSwKICAgICAgICAgIGltYWdlczogcG9zdC5pbWFnZXMgPT09IG51bGwgPyB1bmRlZmluZWQgOiBwb3N0LmltYWdlcywKICAgICAgICAgIGxpbms6IHBvc3QubGluaywKICAgICAgICAgIGZiUGFnZVRhZ3M6IHBvc3QuZmJQYWdlVGFncywKICAgICAgICAgIG9yaWdpbmFsVXJsTWV0YTogcG9zdC5vcmlnaW5hbFVybE1ldGEsCiAgICAgICAgICB2aWRlbzogcG9zdC52aWRlbywKICAgICAgICAgIG1lZGlhVHlwZTogcG9zdC5tZWRpYVR5cGUsCiAgICAgICAgICB1cmxDYXJvdXNlbDogcG9zdC51cmxDYXJvdXNlbCwKICAgICAgICAgIGltYWdlQ2FwdGlvbnM6IHBvc3QuaW1hZ2VDYXB0aW9ucywKICAgICAgICAgIGF0dGFjaGVkTWVkaWFJZHM6IHBvc3QuYXR0YWNoZWRNZWRpYUlkcwogICAgICAgIH07CiAgICAgICAgLy8gQXNzaWduIGEgZ3JvdXAgdG8gdGhlIHBvc3RzIG9uIHZhbGlkIHJlcXVpcmVtZW50cwogICAgICAgIC8vIE5vIHBvaW50IHRvIGdyb3VwIHN0b3JpZXMgaGVuY2UgbW9zdGx5IHRoZXkgYXJlIGRpZmZlcmVudAogICAgICAgIGlmIChpc0dyb3VwZWRQb3N0cykgewogICAgICAgICAgcG9zdERhdGEuZ3JvdXBJZCA9IHBvc3RHcm91cElkOwogICAgICAgICAgcG9zdERhdGEuZ3JvdXBTeW5jID0gZHVwbGljYXRlTW9kZTsKICAgICAgICAgIHBvc3REYXRhLmdyb3VwUGFnZUlkcyA9IFsuLi5zZWxlY3RlZFBhZ2VJZHNdOwogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICBwb3N0RGF0YSA9IHsKICAgICAgICAgIC4uLnBvc3REYXRhLAogICAgICAgICAgY2xhc3NpZmljYXRpb246IHBvc3QuY2xhc3NpZmljYXRpb24sCiAgICAgICAgICBzdG9yeUNvbnRlbnQ6IHBvc3Quc3RvcnlDb250ZW50CiAgICAgICAgfTsKICAgICAgfQoKICAgICAgLy8gSE9URklYIGZvciBsaW5rIGVtcHR5IGNvbWluZyBzb21ldGltZXMKICAgICAgLy8gRklYTUU6IEZpbmQgb3V0IHdoeSBsaW5rIGNvbWVzIGVtcHR5IGFuZCBtZWRpYVR5cGUgaXMgc2V0IHRvICJ1cmwtdGh1bWJuYWlsIgogICAgICAvLyBFeGFtcGxlIGxpbms6IGh0dHBzOi8vd3d3LmR1cmF2ZW50LmNvbS9kb2NzL3Byb2R1Y3QvRVBSVl9XaGl0ZS1QYXBlci5wZGYKCiAgICAgIGNvbnNvbGUubG9nKHBvc3REYXRhKTsKICAgICAgaWYgKCdtZWRpYVR5cGUnIGluIHBvc3REYXRhICYmIHBvc3REYXRhLm1lZGlhVHlwZSA9PT0gJ3VybC10aHVtYm5haWwnICYmICFwb3N0RGF0YS5saW5rPy51cmwpIHsKICAgICAgICBwb3N0RGF0YS5tZWRpYVR5cGUgPSAnbm8tbWVkaWEnOwogICAgICAgIGRlbGV0ZSBwb3N0RGF0YS5saW5rOwoKICAgICAgICBTZW50cnlCcm93c2VyLndpdGhTY29wZShzY29wZSA9PiB7CiAgICAgICAgICBzY29wZS5zZXRFeHRyYSgncG9zdERhdGEnLCBwb3N0RGF0YSk7CiAgICAgICAgICBTZW50cnlCcm93c2VyLmNhcHR1cmVFeGNlcHRpb24oCiAgICAgICAgICAgIG5ldyBFcnJvcignbWVkaWFUeXBlIGlzICJ1cmwtdGh1bWJuYWlsIjsgcG9zdERhdGEubGluayBvciBsaW5rLnVybCBpcyBub3QgZGVmaW5lZCcpCiAgICAgICAgICApOwogICAgICAgIH0pOwogICAgICB9CgogICAgICBpZiAoJ21lZGlhVHlwZScgaW4gcG9zdERhdGEgJiYgcG9zdERhdGEubWVkaWFUeXBlICE9PSAndXJsLXRodW1ibmFpbCcgJiYgcG9zdERhdGEubGluayAmJiAhcG9zdERhdGEubGluay51cmwpIHsKICAgICAgICBkZWxldGUgcG9zdERhdGEubGluazsKCiAgICAgICAgU2VudHJ5QnJvd3Nlci53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICAgICAgc2NvcGUuc2V0RXh0cmEoJ3Bvc3REYXRhJywgcG9zdERhdGEpOwogICAgICAgICAgU2VudHJ5QnJvd3Nlci5jYXB0dXJlRXhjZXB0aW9uKG5ldyBFcnJvcignbGluayBpcyBkZWZpbmVkIGJ1dCBtZWRpYVR5cGUgaXMgbm90ICJ1cmwtdGh1bWJuYWlsIicpKTsKICAgICAgICB9KTsKICAgICAgfQoKICAgICAgLyogZXNsaW50LWRpc2FibGUgbm8tbG9uZS1ibG9ja3MgKi8KICAgICAgewogICAgICAgIC8vIExBU1QgREVGRU5DRSBBR0FJTlNUIE5PTi1FWElTVEVOVCBNRURJQQogICAgICAgIC8vIFNob3VsZCBiZSBkZWxldGVkIHdoZW4gc2V0Q29udGVudCBkb2Vzbid0IGFsbG93IHNlbmRpbmcgbWVkaWEgdGhhdCBpcyB1bmRlZmluZWQKCiAgICAgICAgaWYgKCdtZWRpYVR5cGUnIGluIHBvc3REYXRhICYmIHBvc3REYXRhLm1lZGlhVHlwZSA9PT0gJ3ZpZGVvJyAmJiAhcG9zdERhdGEudmlkZW8pIHsKICAgICAgICAgIHBvc3REYXRhLm1lZGlhVHlwZSA9ICduby1tZWRpYSc7CgogICAgICAgICAgU2VudHJ5QnJvd3Nlci53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICAgICAgICBzY29wZS5zZXRFeHRyYSgncG9zdERhdGEnLCBwb3N0RGF0YSk7CiAgICAgICAgICAgIFNlbnRyeUJyb3dzZXIuY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ21lZGlhVHlwZSBpcyAic2luZ2xlLWltYWdlIjsgcG9zdERhdGEuaW1hZ2VzIGlzIG5vdCBkZWZpbmVkJykpOwogICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoCiAgICAgICAgICAnbWVkaWFUeXBlJyBpbiBwb3N0RGF0YQogICAgICAgICAgJiYgcG9zdERhdGEubWVkaWFUeXBlID09PSAnc2luZ2xlLWltYWdlJwogICAgICAgICAgJiYgKCFwb3N0RGF0YS5pbWFnZXMgfHwgcG9zdERhdGEuaW1hZ2VzLmxlbmd0aCA9PT0gMCkKICAgICAgICApIHsKICAgICAgICAgIHBvc3REYXRhLm1lZGlhVHlwZSA9ICduby1tZWRpYSc7CgogICAgICAgICAgU2VudHJ5QnJvd3Nlci53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICAgICAgICBzY29wZS5zZXRFeHRyYSgncG9zdERhdGEnLCBwb3N0RGF0YSk7CiAgICAgICAgICAgIFNlbnRyeUJyb3dzZXIuY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ21lZGlhVHlwZSBpcyAic2luZ2xlLWltYWdlIjsgcG9zdERhdGEuaW1hZ2VzIGlzIG5vdCBkZWZpbmVkJykpOwogICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoCiAgICAgICAgICAnbWVkaWFUeXBlJyBpbiBwb3N0RGF0YQogICAgICAgICAgJiYgcG9zdERhdGEubWVkaWFUeXBlID09PSAnbXVsdGlwbGUtaW1hZ2VzJwogICAgICAgICAgJiYgKCFwb3N0RGF0YS5pbWFnZXMgfHwgcG9zdERhdGEuaW1hZ2VzLmxlbmd0aCA9PT0gMCkKICAgICAgICApIHsKICAgICAgICAgIHBvc3REYXRhLm1lZGlhVHlwZSA9ICduby1tZWRpYSc7CgogICAgICAgICAgU2VudHJ5QnJvd3Nlci53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICAgICAgICBzY29wZS5zZXRFeHRyYSgncG9zdERhdGEnLCBwb3N0RGF0YSk7CiAgICAgICAgICAgIFNlbnRyeUJyb3dzZXIuY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ21lZGlhVHlwZSBpcyAibXVsdGlwbGUtaW1hZ2VzIjsgcG9zdERhdGEuaW1hZ2VzIGlzIG5vdCBkZWZpbmVkJykpOwogICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoJ21lZGlhVHlwZScgaW4gcG9zdERhdGEgJiYgcG9zdERhdGEubWVkaWFUeXBlID09PSAnZ2lmLWltYWdlJyAmJiAhcG9zdERhdGEuZ2lmKSB7CiAgICAgICAgICBwb3N0RGF0YS5tZWRpYVR5cGUgPSAnbm8tbWVkaWEnOwoKICAgICAgICAgIFNlbnRyeUJyb3dzZXIud2l0aFNjb3BlKHNjb3BlID0+IHsKICAgICAgICAgICAgc2NvcGUuc2V0RXh0cmEoJ3Bvc3REYXRhJywgcG9zdERhdGEpOwogICAgICAgICAgICBTZW50cnlCcm93c2VyLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCdtZWRpYVR5cGUgaXMgImdpZi1pbWFnZSI7IHBvc3REYXRhLmdpZiBpcyBub3QgZGVmaW5lZCcpKTsKICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfQogICAgICAvKiBlc2xpbnQtZW5hYmxlIG5vLWxvbmUtYmxvY2tzICovCgogICAgICAvLyBXQVJOOiBSZW1vdmUgdGhpcyBjaGVjayB3aGVuIHZpZGVvIHByb2Nlc3NpbmcgdGFrZXMgcGxhY2Ugbm9ybWFsbHkKICAgICAgLy8gZm9yIG5vdywgc29tZXRpbWVzIHRoZSB2aWRlbyBjb21lcyB3aXRoIHRodW1ibmFpbHMgc2V0IHdoaWNoIGlzIGJhZAogICAgICBpZiAoJ3ZpZGVvJyBpbiBwb3N0RGF0YSAmJiBwb3N0RGF0YS52aWRlbyAmJiAndGh1bWJuYWlscycgaW4gcG9zdERhdGEudmlkZW8gJiYgcG9zdERhdGEudmlkZW8udGh1bWJuYWlscykgewogICAgICAgIGRlbGV0ZSBwb3N0RGF0YS52aWRlby50aHVtYm5haWxzOwoKICAgICAgICBTZW50cnlCcm93c2VyLndpdGhTY29wZShzY29wZSA9PiB7CiAgICAgICAgICBzY29wZS5zZXRFeHRyYSgncG9zdERhdGEnLCBwb3N0RGF0YSk7CiAgICAgICAgICBTZW50cnlCcm93c2VyLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCdwb3N0RGF0YS52aWRlbyBjb250YWluZWQgdGh1bWJuYWlscyAod2hpY2ggd2VyZSBkZWxldGVkKScpKTsKICAgICAgICB9KTsKICAgICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -521,16 +538,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNldENvbnRlbnQoeyBhY3Rpb25UeXBlOiAnY2hhbmdlLXNjaGVkdWxlZEF0Jywgc2NoZWR1bGVkQXQgfSkuY2F0Y2gobm9vcCk7Cg==</text>
+        <text encoding="base64">ZHJhZnRQb3N0U2F2ZUFzUG9zdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChzY2hlZHVsZWRBdCkgewo=</text>
+        <text encoding="base64">ICBWYWxpZGF0ZWRNZXRob2RBc0Z1bmM8dHlwZW9mIHNlbmRDb25maXJtYXRpb25FbWFpbD47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZHJhZnRQb3N0U2F2ZUFzUG9zdAo=</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
