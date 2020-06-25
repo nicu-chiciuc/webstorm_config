@@ -108,65 +108,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/posts.ts" timestamp="1592998412552">
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="389" column="4" />
-        <mark key="^" line="570" column="22" />
-        <mark key="." line="515" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" timestamp="1593082289544">
-        <mark key="[" line="15" column="95" />
-        <mark key="]" line="15" column="96" />
-        <mark key="." line="15" column="95" />
-        <mark key="^" line="15" column="96" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/SentryMixin.js" timestamp="1593083258912">
-        <mark key="'" line="30" column="99" />
-      </file>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/kadira.js" timestamp="1593083317119">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" timestamp="1593084253341" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/activity/methods.ts" timestamp="1593087007506" />
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/kadira.js" timestamp="1593084022056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593082085558">
+      <file name="/GraphQL.result.json" timestamp="1593083762875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/client/captureExceptionClient.ts" timestamp="1593081784338">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="43" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/client/captureExceptionClient.ts" timestamp="1593084245934">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="7" />
         <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="43" />
+        <mark key="." line="11" column="7" />
       </file>
-      <file name="meteor://💻app/packages/ddp-server/livedata_server.js" timestamp="1593083337278">
+      <file name="meteor://💻app/packages/ddp-server/livedata_server.js" timestamp="1593084035693">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593074512422">
-        <mark key="'" line="41" column="50" />
-        <mark key="[" line="41" column="77" />
-        <mark key="]" line="41" column="90" />
-        <mark key="." line="41" column="89" />
-        <mark key="^" line="41" column="90" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/postsDuplicate.ts" timestamp="1593074596723">
         <mark key="]" line="33" column="25" />
         <mark key="." line="33" column="24" />
         <mark key="^" line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/captureExceptionServer.ts" timestamp="1593083671200">
-        <mark key="[" line="8" column="68" />
-        <mark key="]" line="8" column="68" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="8" column="68" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/captureExceptionServer.ts" timestamp="1593084433044">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/notification/publishInstagramNotification.tsx" timestamp="1593085695780">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/publish.js" timestamp="1593079195215">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1593008717577">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="36" column="10" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" timestamp="1593087362472">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593083218935">
+      <file name="/JavaScript Console" timestamp="1593090137920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1593080076915">
@@ -182,21 +165,17 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/both/methods/submitNewUpload.ts" timestamp="1593082865549">
-        <mark key="[" line="58" column="110" />
-        <mark key="]" line="59" column="31" />
-        <mark key="^" line="59" column="31" />
-        <mark key="." line="59" column="30" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1593087539313">
+        <mark key="[" line="150" column="47" />
+        <mark key="]" line="150" column="47" />
+        <mark key="." line="150" column="47" />
+        <mark key="^" line="150" column="20" />
       </file>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/wrap_session.js" timestamp="1593083331377">
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/wrap_session.js" timestamp="1593084033132">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
-      <jump line="255" column="31" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
-      <jump line="6" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
-      <jump line="1475" column="26" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1511" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="23" column="57" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" />
       <jump line="1046" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -293,12 +272,16 @@
       <jump line="3" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
       <jump line="31" column="99" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/SentryMixin.js" />
+      <jump line="9" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" />
+      <jump line="15" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" />
+      <jump line="79" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
+      <jump line="61" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, userId?: string</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -467,7 +450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, userId?: string</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -496,19 +479,19 @@
         <text encoding="base64">ICAgIFNlbnRyeS53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICBzY29wZS5zZXRFeHRyYXMoJ2ZpYmVyJzogJ25vIGN1cnJlbnQgZmliZXInKQogICAgICBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbihlcnJvcik7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnR5cGUgVXNlciA9IHsKICBpZDogc3RyaW5nOwp9OwoKdHlwZSBTZW50cnlTY29wZSA9IHsKICBzZXRVc2VyOiAoVXNlcjogVXNlcikgPT4gdm9pZDsKfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRoaXMgaXMgdGhlIGltcG9ydGFudCBwYXJ0IGFib3V0IHB1Ymxpc2hpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWV0ZW9yIH0gZnJvbSAnbWV0ZW9yL21ldGVvcic7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhc0Vycm9yID0gaW5zZXJ0ZWRQb3N0cy5sZW5ndGggIT09IG1heWJlSW5zZXJ0ZWRQb3N0cy5sZW5ndGg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignU2NvcGUgb2YgdGhlIGVycm9yIHdhcyBub3Qgc2V0Jyk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAcGFyYW0gZGF0YQogICAqIEByZXR1cm5zIHtzdHJpbmd9CiAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybignbm90IGNhcHR1cmVkIGluIGEgZmliZXInKTsK</text>
+        <text encoding="base64">ICAgIAogICAgY29uc3QgcG9zdHNJZHMgPSBpbnNlcnRlZFBvc3RzLm1hcChpbnNlcnRlZFBvc3QgPT4gaW5zZXJ0ZWRQb3N0LnBvc3RJZCk7CiAgICBjb25zdCBwYWdlc0lkcyA9IGluc2VydGVkUG9zdHMubWFwKGluc2VydGVkUG9zdCA9PiBpbnNlcnRlZFBvc3QucGFnZUlkKTsKCiAgICBhd2FpdCBjYWxsQXN5bmMoJ0FjdGl2aXR5Lmluc2VydCcsIHsKICAgICAgd29ya3NwYWNlSWQ6IHRoaXMucHJvcHMud29ya3NwYWNlSWQsCiAgICAgIHBvc3RzSWRzLAogICAgICBwYWdlc0lkcywKICAgICAgYWN0aW9uLAogICAgICB0ZWFtT25seTogISFmaXJzdFBvc3QudGVhbU9ubHkKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGUuc2V0VXNlcihjdXJyZW50U2NvcGUudXNlcik7CiAgICAgIHNjb3BlLnNldEV4dHJhcyhjdXJyZW50U2NvcGUuZXh0cmFzKTsKICAgICAgc2NvcGUuc2V0RXh0cmEoJ21ldGhvZE5hbWUnLCBjdXJyZW50U2NvcGUubWV0aG9kTmFtZSk7CiAgICAgIHNjb3BlLnNldFRhZygnbWV0aG9kJywgY3VycmVudFNjb3BlLm1ldGhvZCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgdW5zY2hlZHVsZVBvc3QgPSAocG9zdElkOiBzdHJpbmcsIHdvcmtzcGFjZUlkOiBzdHJpbmcpID0+IHsKICBjb25zdCB0ZW1wUG9zdCA9IHRoaXMucHJvcHMuZHJhZnRzLmZpbHRlcihwb3N0ID0+IHBvc3QuX2lkID09PSBwb3N0SWQpOwogIGlmICghdGVtcFBvc3RbMF0/LnNjaGVkdWxlZFNldCkgcmV0dXJuOwogIGNhbGxBc3luYygnUG9zdHMudW5zY2hlZHVsZScsIHsgcG9zdElkLCB3b3Jrc3BhY2VJZCB9KQogICAgLnRoZW4oKCkgPT4gewogICAgICBub3RpZmljYXRpb24uc3VjY2Vzcyh7CiAgICAgICAgbWVzc2FnZTogJ1Bvc3QgdW5zY2hlZHVsZWQnLAogICAgICAgIGRlc2NyaXB0aW9uOiAnU3VjY2Vzc2Z1bGx5IHVuc2NoZWR1bGVkIHBvc3QnCiAgICAgIH0pOwogICAgfSkKICAgIC5jYXRjaCgoKSA9PiB7CiAgICAgIG5vdGlmaWNhdGlvbi5lcnJvcih7CiAgICAgICAgbWVzc2FnZTogJ1NjaGVkdWxpbmcgZXJyb3InLAogICAgICAgIGRlc2NyaXB0aW9uOiBlcnJvcgogICAgICB9KTsKICAgIH0pOwp9Owo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -522,16 +505,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlcnJvcikgewogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICBjYXB0dXJlRXhjZXB0aW9uKGVycm9yKTsKICAgICAgICB0aHJvdyBlcnJvcjsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5lcnJvcih7CiAgICAgIG1lc3NhZ2U6ICdTY2hlZHVsaW5nIGVycm9yJywKICAgICAgZGVzY3JpcHRpb246IGVycm9yCiAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zdWNjZXNzKHsKICAgICAgbWVzc2FnZTogJ1Bvc3QgdW5zY2hlZHVsZWQnLAogICAgICBkZXNjcmlwdGlvbjogJ1N1Y2Nlc3NmdWxseSB1bnNjaGVkdWxlZCBwb3N0JwogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
