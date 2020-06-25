@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDwsXD4=</entry>
         <entry>urix</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>\/\/</entry>
@@ -27,6 +26,7 @@
         <entry>type State</entry>
         <entry>constructor</entry>
         <entry encoding="base64">XDxmXD4=</entry>
+        <entry encoding="base64">XDxTdGFydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>218</entry>
@@ -109,7 +109,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" timestamp="1593084253341" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/activity/methods.ts" timestamp="1593087007506" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/activity/methods.ts" timestamp="1593091250193" />
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/kadira.js" timestamp="1593084022056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,11 +125,6 @@
       <file name="meteor://💻app/packages/ddp-server/livedata_server.js" timestamp="1593084035693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/bulkActions/postsDuplicate.ts" timestamp="1593074596723">
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="33" column="25" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/captureExceptionServer.ts" timestamp="1593084433044">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -140,8 +135,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/posts/methods/publish.js" timestamp="1593079195215">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1593093192102">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="29" />
+        <mark key="^" line="43" column="29" />
+        <mark key="." line="43" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" timestamp="1593087362472">
         <mark key="'" line="61" column="12" />
@@ -149,7 +148,7 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593090137920">
+      <file name="/JavaScript Console" timestamp="1593093713384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1593080076915">
@@ -165,18 +164,19 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1593087539313">
-        <mark key="[" line="150" column="47" />
-        <mark key="]" line="150" column="47" />
-        <mark key="." line="150" column="47" />
-        <mark key="^" line="150" column="20" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1593093533695" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1593092850083">
+        <mark key="'" line="164" column="13" />
+        <mark key="[" line="227" column="57" />
+        <mark key="]" line="227" column="61" />
+        <mark key="." line="227" column="60" />
+        <mark key="^" line="227" column="61" />
       </file>
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/wrap_session.js" timestamp="1593084033132">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1511" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="23" column="57" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" />
       <jump line="1046" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1516" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -276,12 +276,13 @@
       <jump line="15" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" />
       <jump line="79" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
       <jump line="61" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
+      <jump line="164" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>first?.type</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -450,7 +451,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>first?.type</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -473,25 +474,25 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmXD4=</text>
+        <text encoding="base64">XDxTdGFydFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFNlbnRyeS53aXRoU2NvcGUoc2NvcGUgPT4gewogICAgICBzY29wZS5zZXRFeHRyYXMoJ2ZpYmVyJzogJ25vIGN1cnJlbnQgZmliZXInKQogICAgICBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbihlcnJvcik7CiAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>DraftPosts.saveAsPost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRoaXMgaXMgdGhlIGltcG9ydGFudCBwYXJ0IGFib3V0IHB1Ymxpc2hpbmcK</text>
+        <text encoding="base64">ICAgIHNhdmVkUG9zdHMubWFwKHBvc3QgPT57CiAgICAgIAogICAgfSkKICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhc0Vycm9yID0gaW5zZXJ0ZWRQb3N0cy5sZW5ndGggIT09IG1heWJlSW5zZXJ0ZWRQb3N0cy5sZW5ndGg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAcGFyYW0gZGF0YQogICAqIEByZXR1cm5zIHtzdHJpbmd9CiAgICovCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc3QgcG9zdHNJZHMgPSBpbnNlcnRlZFBvc3RzLm1hcChpbnNlcnRlZFBvc3QgPT4gaW5zZXJ0ZWRQb3N0LnBvc3RJZCk7CiAgICBjb25zdCBwYWdlc0lkcyA9IGluc2VydGVkUG9zdHMubWFwKGluc2VydGVkUG9zdCA9PiBpbnNlcnRlZFBvc3QucGFnZUlkKTsKCiAgICBhd2FpdCBjYWxsQXN5bmMoJ0FjdGl2aXR5Lmluc2VydCcsIHsKICAgICAgd29ya3NwYWNlSWQ6IHRoaXMucHJvcHMud29ya3NwYWNlSWQsCiAgICAgIHBvc3RzSWRzLAogICAgICBwYWdlc0lkcywKICAgICAgYWN0aW9uLAogICAgICB0ZWFtT25seTogISFmaXJzdFBvc3QudGVhbU9ubHkKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAogICAgY29uc3QgbWF5YmVJbnNlcnRlZFBvc3RzID0gYXdhaXQgbWFwQWxsKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgdW5zY2hlZHVsZVBvc3QgPSAocG9zdElkOiBzdHJpbmcsIHdvcmtzcGFjZUlkOiBzdHJpbmcpID0+IHsKICBjb25zdCB0ZW1wUG9zdCA9IHRoaXMucHJvcHMuZHJhZnRzLmZpbHRlcihwb3N0ID0+IHBvc3QuX2lkID09PSBwb3N0SWQpOwogIGlmICghdGVtcFBvc3RbMF0/LnNjaGVkdWxlZFNldCkgcmV0dXJuOwogIGNhbGxBc3luYygnUG9zdHMudW5zY2hlZHVsZScsIHsgcG9zdElkLCB3b3Jrc3BhY2VJZCB9KQogICAgLnRoZW4oKCkgPT4gewogICAgICBub3RpZmljYXRpb24uc3VjY2Vzcyh7CiAgICAgICAgbWVzc2FnZTogJ1Bvc3QgdW5zY2hlZHVsZWQnLAogICAgICAgIGRlc2NyaXB0aW9uOiAnU3VjY2Vzc2Z1bGx5IHVuc2NoZWR1bGVkIHBvc3QnCiAgICAgIH0pOwogICAgfSkKICAgIC5jYXRjaCgoKSA9PiB7CiAgICAgIG5vdGlmaWNhdGlvbi5lcnJvcih7CiAgICAgICAgbWVzc2FnZTogJ1NjaGVkdWxpbmcgZXJyb3InLAogICAgICAgIGRlc2NyaXB0aW9uOiBlcnJvcgogICAgICB9KTsKICAgIH0pOwp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -505,16 +506,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlcnJvcikgewogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5lcnJvcih7CiAgICAgIG1lc3NhZ2U6ICdTY2hlZHVsaW5nIGVycm9yJywKICAgICAgZGVzY3JpcHRpb246IGVycm9yCiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zdWNjZXNzKHsKICAgICAgbWVzc2FnZTogJ1Bvc3QgdW5zY2hlZHVsZWQnLAogICAgICBkZXNjcmlwdGlvbjogJ1N1Y2Nlc3NmdWxseSB1bnNjaGVkdWxlZCBwb3N0JwogICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgICAvLyBSYW5kb20gZ3JvdXAgaWQgb2YgZ3JvdXAgb2Ygc3RvcmllcyBhbmQgZ3JvdXAgb2YgcG9zdHMKICAgIC8vIGNvbnN0IHBvc3RHcm91cElkID0gUmFuZG9tLmlkKCk7CgogICAgLy8gQm9vbGVhbnMgdG8gZGV0ZWN0IGlmIHRoZXJlIGFyZSBtb3JlIHRoZW4gMiBwb3N0cyBvZiBlYWNoIHR5cGUgY3JlYXRlZCBpbiBDb21wb3NlCiAgICAvLyBjb25zdCBpc0dyb3VwZWRQb3N0cyA9IHBvc3RzLmZpbHRlcih0ZW1wUG9zdCA9PiB0ZW1wUG9zdC5jbGFzc2lmaWNhdGlvbiA9PT0gJ3Bvc3QnKS5sZW5ndGggPiAxOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIC8vIENoYW5nZSBzdGF0ZSB0byBhY3RpdmUK</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
@@ -523,9 +524,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmXD4=</last-search>
+      <last-search encoding="base64">XDxTdGFydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFydFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmXD4=</last-substitute>
       <last-dir>-1</last-dir>
