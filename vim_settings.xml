@@ -108,13 +108,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/index.tsx" timestamp="1593174242958">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="132" column="40" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="/fragment.tsx" timestamp="1593172758184">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,11 +158,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/UrlPreview/UrlCard/Footer.tsx" timestamp="1593175211479">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="73" column="53" />
+        <mark key="'" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1593093192102">
         <mark key="'" line="22" column="23" />
@@ -183,13 +172,6 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/media/Textarea.tsx" timestamp="1593174776475">
-        <mark key="'" line="46" column="27" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="64" column="28" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1593093713384">
         <mark key="[" line="0" column="0" />
