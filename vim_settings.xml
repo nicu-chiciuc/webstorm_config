@@ -108,12 +108,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/captureException.ts" timestamp="1593084253341" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/activity/methods.ts" timestamp="1593091250193" />
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/kadira.js" timestamp="1593084022056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593083762875">
+      <file name="/GraphQL.result.json" timestamp="1593163888131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/client/captureExceptionClient.ts" timestamp="1593084245934">
@@ -121,6 +119,12 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1593166201681">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="meteor://💻app/packages/ddp-server/livedata_server.js" timestamp="1593084035693">
         <mark key="[" line="0" column="0" />
@@ -135,6 +139,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/README.md" timestamp="1593166587715" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/typedPostMethods.ts" timestamp="1593093192102">
         <mark key="'" line="22" column="23" />
         <mark key="[" line="42" column="0" />
@@ -164,20 +169,14 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1593096185428" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" timestamp="1593092850083">
-        <mark key="'" line="164" column="13" />
-        <mark key="[" line="227" column="57" />
-        <mark key="]" line="227" column="61" />
-        <mark key="." line="227" column="60" />
-        <mark key="^" line="227" column="61" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayer.tsx" timestamp="1593165949090">
+        <mark key="'" line="51" column="6" />
       </file>
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/wrap_session.js" timestamp="1593084033132">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="57" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/bothConnect.ts" />
       <jump line="1046" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1516" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="1471" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
@@ -277,12 +276,13 @@
       <jump line="79" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
       <jump line="61" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/methods.js" />
       <jump line="164" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/SavePostButton.tsx" />
+      <jump line="51" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayer.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>first?.type</text>
+        <text>'sqs'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -451,7 +451,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>first?.type</text>
+        <text>'sqs'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -476,8 +476,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxTdGFydFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>DraftPosts.saveAsPost</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcm9taXNlT3JTcXM6ICdzcXMnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNhdmVkUG9zdHMubWFwKHBvc3QgPT57CiAgICAgIAogICAgfSkKICAgIAo=</text>
