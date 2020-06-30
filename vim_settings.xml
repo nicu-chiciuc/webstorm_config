@@ -108,31 +108,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/photo.js" timestamp="1593510288570">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/post.js" timestamp="1593510303559">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-      </file>
       <file name="/fragment.js" timestamp="1593521605578">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/views/MonthView.tsx" timestamp="1593524291318">
+        <mark key="[" line="463" column="36" />
+        <mark key="]" line="463" column="36" />
+        <mark key="^" line="463" column="69" />
+        <mark key="." line="463" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/common/waitUntilAllMediaInPostProcessed.ts" timestamp="1593512357972">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="40" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/urlRetrier.ts" timestamp="1593519859403" />
-      <file name="/JavaScript Console" timestamp="1593522718447">
+      <file name="/JavaScript Console" timestamp="1593523879079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/gif.js" timestamp="1593510296211">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/TableCell/index.tsx" timestamp="1593523967582">
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="28" />
+        <mark key="^" line="107" column="29" />
+        <mark key="." line="107" column="28" />
       </file>
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1593521251490">
         <mark key="[" line="0" column="0" />
@@ -167,11 +164,7 @@
         <mark key="." line="45" column="19" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" timestamp="1593519367652">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" timestamp="1593519367652" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/index.ts" timestamp="1593518822816">
         <mark key="'" line="43" column="9" />
         <mark key="[" line="37" column="0" />
@@ -186,18 +179,8 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.js" timestamp="1593510700791">
-        <mark key="'" line="283" column="0" />
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/twitter/video.ts" timestamp="1593519897130">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="26" column="62" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/index.tsx" timestamp="1593523943667">
+        <mark key="'" line="92" column="42" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/schemas/targeting.ts" timestamp="1593517323317">
         <mark key="'" line="106" column="12" />
@@ -206,9 +189,9 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/views/MonthViewStyle.scss" timestamp="1593524287373" />
     </filemarks>
     <jumps>
-      <jump line="163" column="49" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ExportPosts/index.tsx" />
       <jump line="121" column="60" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
       <jump line="46" column="67" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/SettingsBar/CommentsSorter/index.tsx" />
       <jump line="5" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/hooks/useOnClickOutside.ts" />
@@ -308,12 +291,13 @@
       <jump line="28" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/video.ts" />
       <jump line="21" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/video.ts" />
       <jump line="55" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/video.ts" />
+      <jump line="92" column="42" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">IHBvc2l0aW9uOiAncmVsYXRpdmUnLA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -482,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">IHBvc2l0aW9uOiAncmVsYXRpdmUnLA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -508,22 +492,22 @@
         <text encoding="base64">XDxTdGFydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghcG9zdERhdGEudmlkZW8pIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGBUd2l0dGVyIHBvc3QgZG9lc24ndCBoYXZlIGEgdmlkZW9gKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBwb3NpdGlvbjogJ3JlbGF0aXZlJyB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb21DbG91ZEZyb250VG9Bd3NVcmwgZnJvbSAnL2ltcG9ydHMvdWkvdXRpbHMvZnJvbUNsb3VkRnJvbnRUb0F3c1VybCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBzdHlsZT17eyBwb3NpdGlvbjogJ3JlbGF0aXZlJyB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHByb21pc2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZyb21DbG91ZEZyb250VG9Bd3NVcmwgZnJvbSAnL2ltcG9ydHMvdWkvdXRpbHMvZnJvbUNsb3VkRnJvbnRUb0F3c1VybCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBwcm9taXNlIH0gPSB1cmxSZXRyaWVyKHZpZGVvVXJsLCBmcm9tQ2xvdWRGcm9udFRvQXdzVXJsKTsKICAgICAgYXdhaXQgcHJvbWlzZTsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHByb21pc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBwcm9taXNlIH0gPSB1cmxSZXRyaWVyKHZpZGVvVXJsLCBmcm9tQ2xvdWRGcm9udFRvQXdzVXJsKTsKICAgICAgYXdhaXQgcHJvbWlzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghcG9zdERhdGEudmlkZW8ucHJvY2Vzc2VkKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -543,16 +527,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIE9sZCBpbWFnZXMgaGF2ZSB0aGUgb3V0cHV0VmlkZW8K</text>
+        <text encoding="base64">ICAgIGlmICghcG9zdERhdGEudmlkZW8ucHJvY2Vzc2VkKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIFRoZXNlCiAqIEBwYXJhbSB2aWRlbwogKi8K</text>
+        <text encoding="base64">ICAgIC8vIE9sZCBpbWFnZXMgaGF2ZSB0aGUgb3V0cHV0VmlkZW8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb21DbG91ZEZyb250VG9Bd3NVcmwgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vdWkvdXRpbHMvZnJvbUNsb3VkRnJvbnRUb0F3c1VybCc7Cg==</text>
+        <text encoding="base64">LyoqCiAqIFRoZXNlCiAqIEBwYXJhbSB2aWRlbwogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXJsUmV0cmllciB9IGZyb20gJy9pbXBvcnRzL3VpL3V0aWxzL3VybFJldHJpZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IGZyb21DbG91ZEZyb250VG9Bd3NVcmwgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vdWkvdXRpbHMvZnJvbUNsb3VkRnJvbnRUb0F3c1VybCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
