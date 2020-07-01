@@ -124,19 +124,15 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" timestamp="1593596366255">
+        <mark key="'" line="547" column="18" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/WorkspaceOnboarding/components/ConnectPages/OnBoardingConnect.tsx" timestamp="1593594047081">
         <mark key="'" line="29" column="2" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="10" column="58" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/userSchema.d.ts" timestamp="1593593038550">
-        <mark key="'" line="66" column="26" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="48" />
-        <mark key="^" line="66" column="34" />
-        <mark key="." line="17" column="48" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/InviteForm/UserMembershipSelect/index.tsx" timestamp="1593594471221">
         <mark key="'" line="39" column="32" />
@@ -155,12 +151,15 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/video.ts" timestamp="1593595014715">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/video.ts" timestamp="1593595022655">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="80" />
         <mark key="." line="20" column="79" />
         <mark key="^" line="20" column="80" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1593596023141">
+        <mark key="'" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/trash/PublishedButton.js" timestamp="1593594078587">
         <mark key="'" line="73" column="0" />
@@ -170,9 +169,6 @@
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593593318423">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/notification/scheduleNotification.ts" timestamp="1593593952646">
         <mark key="[" line="1" column="10" />
@@ -201,17 +197,8 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" timestamp="1593593121867">
-        <mark key="'" line="74" column="7" />
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="44" />
-        <mark key="^" line="40" column="76" />
-        <mark key="." line="27" column="44" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="42" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/index.tsx" />
-      <jump line="287" column="32" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" />
       <jump line="111" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" />
       <jump line="329" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" />
       <jump line="342" column="63" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" />
@@ -310,6 +297,8 @@
       <jump line="35" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/CheckboxSelect/index.tsx" />
       <jump line="410" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" />
       <jump line="31" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/publish/facebook/setupPostData.ts" />
+      <jump line="75" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="547" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
