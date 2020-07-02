@@ -108,20 +108,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/draft-js-mention-plugin/MentionSuggestions/Entry/index.js" timestamp="1593674835615">
-        <mark key="'" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593677116814">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593679757526">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="56" />
-        <mark key="." line="263" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/both/getUserNotificationsSettings.ts" timestamp="1593677571894">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Editor/index.tsx" timestamp="1593675296159">
         <mark key="'" line="652" column="0" />
@@ -136,6 +124,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Provider/index.tsx" timestamp="1593679811897">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" timestamp="1593676832452">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="32" column="23" />
@@ -149,19 +142,14 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/userSchema.d.ts" timestamp="1593677329084">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="28" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Consumer/index.tsx" timestamp="1593679844812">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1593676933357">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/utils/getDisplayName.ts" timestamp="1593675200023">
-        <mark key="[" line="2" column="59" />
-        <mark key="]" line="2" column="60" />
-        <mark key="^" line="2" column="60" />
-        <mark key="." line="2" column="59" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/redraft.d.ts" timestamp="1593678046464">
         <mark key="[" line="3" column="17" />
@@ -175,28 +163,26 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" timestamp="1593678203669">
-        <mark key="'" line="13" column="12" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" timestamp="1593678219676">
+        <mark key="'" line="92" column="52" />
+        <mark key="j" line="23" column="48" />
         <mark key="[" line="92" column="24" />
         <mark key="]" line="92" column="53" />
         <mark key="^" line="92" column="53" />
         <mark key="." line="92" column="52" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/decorateComponentWithProps.tsx" timestamp="1593675249380">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="95" />
-        <mark key="." line="3" column="94" />
-        <mark key="^" line="3" column="95" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" timestamp="1593679787573">
+        <mark key="'" line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/draft-js-linkify-plugin/index.js" timestamp="1593674893613">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" timestamp="1593680288291">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="68" column="43" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" timestamp="1593677647619">
-        <mark key="'" line="68" column="12" />
-        <mark key="[" line="68" column="48" />
-        <mark key="]" line="69" column="43" />
-        <mark key="^" line="69" column="43" />
-        <mark key="." line="69" column="42" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/components/TimeSlot.tsx" timestamp="1593679870527">
+        <mark key="[" line="8" column="80" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" timestamp="1593676854432">
         <mark key="'" line="196" column="0" />
@@ -210,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
-      <jump line="15" column="5" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/twitter/media/UrlPreview.tsx" />
-      <jump line="7" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
       <jump line="140" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
       <jump line="129" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
       <jump line="134" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
@@ -310,12 +293,15 @@
       <jump line="99" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
       <jump line="10" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
       <jump line="13" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
+      <jump line="92" column="52" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
+      <jump line="40" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" />
+      <jump line="63" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>react-delay.d.ts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -487,7 +473,7 @@
         <text>kkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>react-delay.d.ts</text>
+        <text>P</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -516,19 +502,19 @@
         <text>string | RawDraftContentState</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJhd0RyYWZ0Q29udGVudFN0YXRlID0gRHJhZnQuTW9kZWwuRW5jb2RpbmcuUmF3RHJhZnRDb250ZW50U3RhdGU7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCByYXcgPSAnJzsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3RzJzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3QnOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgY29tbWVudDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkCiAgfTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGF0ZVNsb3QgfSBmcm9tICcvaW1wb3J0cy91aS9jbGllbnQvdXRpbHMvbmF0aXZlL2dldFN1Z2dlc3RlZFRpbWVTbG90cyc7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -549,18 +535,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3QnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBub3RpZmljYXRpb25TZXR0aW5nczogUmVjb3JkPE5vdGlmaWNhdGlvblR5cGVzLCBib29sZWFuPiB8IFtdOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3QnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBXaHkgcmV0dXJuIGFycmF5Pz8K</text>
+        <text encoding="base64">ICBWYWxpZGF0ZWRNZXRob2RBc0Z1bmM8dHlwZW9mIGRyYWZ0UG9zdEluc2VydEhhY2s+ICYKICBWYWxpZGF0ZWRNZXRob2RBc0Z1bmM8dHlwZW9mIGRyYWZ0UG9zdEluc2VydD4gJgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    [key in NotificationTypes]: boolean;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
