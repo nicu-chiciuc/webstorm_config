@@ -108,21 +108,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/tsconfig.json" timestamp="1593681641300">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593679757526">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Editor/index.tsx" timestamp="1593675296159">
-        <mark key="'" line="652" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/WorkspaceUsersNotifications.tsx" timestamp="1593677371757">
         <mark key="'" line="23" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" timestamp="1593676129257">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Provider/index.tsx" timestamp="1593679811897">
         <mark key="[" line="4" column="0" />
@@ -136,20 +132,22 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/draft-js-linkify-plugin/index.tsx" timestamp="1593675319103">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Consumer/index.tsx" timestamp="1593679844812">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593676933357">
+      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/.build/interfaces/processing.js" timestamp="1593681237612" />
+      <file name="/GraphQL.result.json" timestamp="1593680963615">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" timestamp="1593681515746">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/redraft.d.ts" timestamp="1593678046464">
         <mark key="[" line="3" column="17" />
@@ -196,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
-      <jump line="129" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
       <jump line="134" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/instagram/media/components/CarouselVideo.tsx" />
       <jump line="152" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
       <jump line="468" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/MediaPreview.tsx" />
@@ -296,12 +292,14 @@
       <jump line="92" column="52" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
       <jump line="40" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" />
       <jump line="63" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" />
+      <jump line="115" column="41" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -473,7 +471,7 @@
         <text>kkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <keys>
