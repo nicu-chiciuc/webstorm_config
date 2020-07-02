@@ -108,21 +108,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" timestamp="1593693846190">
-        <mark key="'" line="10" column="42" />
-        <mark key="^" line="43" column="71" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/tsconfig.json" timestamp="1593681641300">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="27" />
-      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/common.ts" timestamp="1593684283270">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Provider/index.tsx" timestamp="1593695452732">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-random-stuff.d.ts" timestamp="1593691857450">
         <mark key="[" line="21" column="14" />
@@ -145,7 +140,12 @@
       <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1593685598118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/transcoder-formation/.build/interfaces/processing.js" timestamp="1593681237612" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Consumer/index.tsx" timestamp="1593695431033">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1593683944497">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,7 +156,7 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1593693384592">
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1593695596423">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="24" />
@@ -166,16 +166,14 @@
       <file name="meteor://💻app/packages/check/match.js" timestamp="1593685550687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1593693606535" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" timestamp="1593680288291">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="68" column="43" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1593695410959" />
       <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" timestamp="1593683971048">
         <mark key="'" line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/components/TimeSlot.tsx" timestamp="1593695475755">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="80" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/multiMediaInfo/processing.ts" timestamp="1593684450898">
         <mark key="'" line="170" column="17" />
@@ -296,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3JpZ2luYWxWaWRlb01ldGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3RzJzsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -497,19 +495,19 @@
         <text encoding="base64">ICBzZXRPcmlnaW5hbFZpZGVvTWV0YTogTWV0ZW9yLmJpbmRFbnZpcm9ubWVudCgocGVuZGluZ1VwbG9hZElkOiBzdHJpbmcsIG9yaWdpbmFsVmlkZW9NZXRhOiBWaWRlb01ldGEgfCBHaWZNZXRhKSA9PiB7CiAgICAvLyBIQUNLOiBUaGlzIGRvZXMgbm90IHJlc3BlY3QgdGhlIHR5cGUgZGVmaW5pdGlvbgogICAgTWVkaWFVcGxvYWRzLnVwZGF0ZSgKICAgICAgewogICAgICAgIF9pZDogcGVuZGluZ1VwbG9hZElkCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAkc2V0OiB7CiAgICAgICAgICBvcmlnaW5hbFZpZGVvTWV0YQogICAgICAgIH0KICAgICAgfQogICAgKTsKICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3JpZ2luYWxWaWRlb01ldGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3RzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ0UK</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3QnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBNZWRpYVVwbG9hZHNPcGVyYXRpb25zLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRGF0ZVNsb3QgfSBmcm9tICcvaW1wb3J0cy91aS9jbGllbnQvdXRpbHMvbmF0aXZlL2dldFN1Z2dlc3RlZFRpbWVTbG90cyc7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KHBlbmRpbmdVcGxvYWRJZDogc3RyaW5nLCBvcmlnaW5hbFZpZGVvTWV0YTogVmlkZW9NZXRhIHwgR2lmTWV0YSkgPT4gewogICAgLy8gSEFDSzogVGhpcyBkb2VzIG5vdCByZXNwZWN0IHRoZSB0eXBlIGRlZmluaXRpb24KICAgIE1lZGlhVXBsb2Fkcy51cGRhdGUoCiAgICAgIHsKICAgICAgICBfaWQ6IHBlbmRpbmdVcGxvYWRJZAogICAgICB9LAogICAgICB7CiAgICAgICAgJHNldDogewogICAgICAgICAgb3JpZ2luYWxWaWRlb01ldGEKICAgICAgICB9CiAgICAgIH0KICAgICk7CiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3QnOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KHBlbmRpbmdVcGxvYWRJZDogc3RyaW5nLCBtZWRpYUNvbnRlbnQ6IE1lZGlhQ29udGVudCkgPT4gewogICAgYXdhaXQgTWVkaWFVcGxvYWRzLnVwZGF0ZSgKICAgICAgeyBfaWQ6IHBlbmRpbmdVcGxvYWRJZCB9LAogICAgICB7CiAgICAgICAgJHNldDogewogICAgICAgICAgbWVkaWFTdGF0dXM6ICdzdWNjZXNzJywKICAgICAgICAgIGxhc3RTdGF0dXNVcGRhdGU6IG5ldyBEYXRlKCksCiAgICAgICAgICBtZWRpYUNvbnRlbnQKICAgICAgICB9CiAgICAgIH0KICAgICk7CgogICAgLy8gVE9ETzogTm90IHN1cmUgaWYgZXZlbnQgZW1pdHRlcnMgc2hvdWxkIGJlIHB1dCBpbnNpZGUgdGhlIG9wZXJhdGlvbnMgb2JqZWN0IG9yIGtlcHQgc2VwYXJhdGUKICAgIFNlcnZlckVtaXR0ZXIuZW1pdCgnTWVkaWFMaWJyYXJ5LnN0YXR1c0NoYW5nZScsIHsgbWVkaWFJZDogcGVuZGluZ1VwbG9hZElkIH0pOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUG9zdFRpbWVTbG90IH0gZnJvbSAnL2ltcG9ydHMvYXBpL3Bvc3RUaW1lU2xvdHMvc2NoZW1hcy9wb3N0VGltZVNsb3QnOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -529,19 +527,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KHBlbmRpbmdVcGxvYWRJZDogc3RyaW5nKSA9PiB7CiAgICBNZWRpYVVwbG9hZHMudXBkYXRlKAogICAgICB7IF9pZDogcGVuZGluZ1VwbG9hZElkIH0sCiAgICAgIHsKICAgICAgICAkc2V0OiB7CiAgICAgICAgICBtZWRpYVN0YXR1czogJ2Vycm9yJywKICAgICAgICAgIGxhc3RTdGF0dXNVcGRhdGU6IG5ldyBEYXRlKCkKICAgICAgICB9CiAgICAgIH0KICAgICk7CgogICAgLy8gVE9ETzogTm90IHN1cmUgaWYgZXZlbnQgZW1pdHRlcnMgc2hvdWxkIGJlIHB1dCBpbnNpZGUgdGhlIG9wZXJhdGlvbnMgb2JqZWN0IG9yIGtlcHQgc2VwYXJhdGUKICAgIFNlcnZlckVtaXR0ZXIuZW1pdCgnTWVkaWFMaWJyYXJ5LnN0YXR1c0NoYW5nZScsIHsgbWVkaWFJZDogcGVuZGluZ1VwbG9hZElkIH0pOwogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgb3JpZ2luYWxWaWRlb01ldGEgPSBkYXRhOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ0UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRTdGF0dXNFcnJvcjogKChwZW5kaW5nVXBsb2FkSWQ6IHN0cmluZykgPT4gewogICAgTWVkaWFVcGxvYWRzLnVwZGF0ZSgKICAgICAgeyBfaWQ6IHBlbmRpbmdVcGxvYWRJZCB9LAogICAgICB7CiAgICAgICAgJHNldDogewogICAgICAgICAgbWVkaWFTdGF0dXM6ICdlcnJvcicsCiAgICAgICAgICBsYXN0U3RhdHVzVXBkYXRlOiBuZXcgRGF0ZSgpCiAgICAgICAgfQogICAgICB9CiAgICApOwoKICAgIC8vIFRPRE86IE5vdCBzdXJlIGlmIGV2ZW50IGVtaXR0ZXJzIHNob3VsZCBiZSBwdXQgaW5zaWRlIHRoZSBvcGVyYXRpb25zIG9iamVjdCBvciBrZXB0IHNlcGFyYXRlCiAgICBTZXJ2ZXJFbWl0dGVyLmVtaXQoJ01lZGlhTGlicmFyeS5zdGF0dXNDaGFuZ2UnLCB7IG1lZGlhSWQ6IHBlbmRpbmdVcGxvYWRJZCB9KTsKICB9KSwKICAKICBmaW5kT25lOiAoaWQ6IHN0cmluZykgPT4gewogICAgcmV0dXJuIE1lZGlhVXBsb2Fkcy5yYXdDb2xsZWN0aW9uKCkuZmluZE9uZSh7IF9pZDogaWQgfSk7CiAgfQ==</text>
+        <text encoding="base64">ICAvLyBNZWRpYVVwbG9hZHNPcGVyYXRpb25zLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">KHBlbmRpbmdVcGxvYWRJZDogc3RyaW5nLCBvcmlnaW5hbFZpZGVvTWV0YTogVmlkZW9NZXRhIHwgR2lmTWV0YSkgPT4gewogICAgLy8gSEFDSzogVGhpcyBkb2VzIG5vdCByZXNwZWN0IHRoZSB0eXBlIGRlZmluaXRpb24KICAgIE1lZGlhVXBsb2Fkcy51cGRhdGUoCiAgICAgIHsKICAgICAgICBfaWQ6IHBlbmRpbmdVcGxvYWRJZAogICAgICB9LAogICAgICB7CiAgICAgICAgJHNldDogewogICAgICAgICAgb3JpZ2luYWxWaWRlb01ldGEKICAgICAgICB9CiAgICAgIH0KICAgICk7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
