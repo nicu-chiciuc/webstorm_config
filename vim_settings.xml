@@ -108,16 +108,74 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" timestamp="1593765102044" />
+      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1593769726748">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CollaboratorsModal/ManageCompanyCollaborators.tsx" timestamp="1593763350352">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593763204667">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/setImages.ts" timestamp="1593764814381">
+        <mark key="[" line="106" column="46" />
+        <mark key="]" line="106" column="46" />
+        <mark key="^" line="106" column="47" />
+        <mark key="." line="106" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1593764788108">
+      <file name="/GraphQL.result.json" timestamp="1593768814424">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/requestDraftPostCreation.ts" timestamp="1593768266514">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593767771102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="53" />
+        <mark key="." line="265" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/FiltersContext/filtersContext.ts" timestamp="1593762501563">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1593770183982">
+        <mark key="[" line="84" column="78" />
+        <mark key="]" line="85" column="58" />
+        <mark key="^" line="85" column="58" />
+        <mark key="." line="85" column="57" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" timestamp="1593762783827">
+        <mark key="'" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/instagram/fetchPublicInstagramProfileData.ts" timestamp="1593763251426">
+        <mark key="[" line="29" column="70" />
+        <mark key="]" line="29" column="71" />
+        <mark key="^" line="29" column="71" />
+        <mark key="." line="29" column="70" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1593769994687">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="37" column="22" />
+        <mark key="." line="37" column="21" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1593770206118">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1593769952601" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1593767539810">
         <mark key="'" line="67" column="2" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1593768519659">
+        <mark key="'" line="1177" column="73" />
+        <mark key="[" line="1177" column="60" />
+        <mark key="]" line="1177" column="71" />
+        <mark key="." line="1177" column="72" />
+        <mark key="^" line="1218" column="51" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" timestamp="1593763418242">
         <mark key="'" line="33" column="0" />
@@ -133,57 +191,11 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/PostsGroupProvider.tsx" timestamp="1593761452227" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/meteor/mongo.d.ts" timestamp="1593761855690">
-        <mark key="[" line="153" column="23" />
-        <mark key="]" line="153" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/setImages.ts" timestamp="1593764814381">
-        <mark key="[" line="106" column="46" />
-        <mark key="]" line="106" column="46" />
-        <mark key="^" line="106" column="47" />
-        <mark key="." line="106" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.js" timestamp="1593761438886">
-        <mark key="'" line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/GridView/index.tsx" timestamp="1593761602878">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/FiltersContext/filtersContext.ts" timestamp="1593762501563">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1593765233291">
-        <mark key="'" line="28" column="50" />
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="48" />
-        <mark key="." line="28" column="49" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/uploadMediaPipelineWrap.ts" timestamp="1593761392692">
-        <mark key="'" line="153" column="26" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-        <mark key="^" line="153" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" timestamp="1593762783827">
-        <mark key="'" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/instagram/fetchPublicInstagramProfileData.ts" timestamp="1593763251426">
-        <mark key="[" line="29" column="70" />
-        <mark key="]" line="29" column="71" />
-        <mark key="^" line="29" column="71" />
-        <mark key="." line="29" column="70" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1593765000392">
-        <mark key="'" line="1219" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/publications/publishDraftPosts.ts" timestamp="1593768640703">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="71" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="71" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/pages/server/instagram/refreshPage.ts" timestamp="1593763168111">
         <mark key="[" line="11" column="7" />
@@ -193,15 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
-      <jump line="99" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="48" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="107" column="49" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="143" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="100" column="35" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="149" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="75" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="145" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
       <jump line="152" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
       <jump line="156" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
@@ -290,15 +293,24 @@
       <jump line="1222" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
       <jump line="49" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
       <jump line="189" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
-      <jump line="50" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
       <jump line="92" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
       <jump line="129" column="50" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
+      <jump line="1176" column="57" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="133" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1147" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="14" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/requestDraftPostCreation.ts" />
+      <jump line="69" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/requestDraftPostCreation.ts" />
+      <jump line="26" column="50" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/requestDraftPostCreation.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/requestDraftPostCreation.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/requestDraftPostCreation.ts" />
+      <jump line="1177" column="73" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="50" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>console</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -470,7 +482,7 @@
         <text>kkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text>Posts</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -495,23 +507,23 @@
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>onMediaProcessError</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVwZGF0ZVZpZGVvSW5Qb3N0KFBvc3RzLCBwb3N0SWQsIHZpZGVvVXVpZCwgdmlkZW9NZXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcvaW1wb3J0cy9hcGkvc2VydmljZXMvc2VydmVyL2xvZ2dlcic7CmltcG9ydCB7IE1lZGlhVXBsb2Fkc09wc1JhdyB9IGZyb20gJy9pbXBvcnRzL2FwaS9tZWRpYUxpYnJhcnkvbWVkaWFVcGxvYWRzJzsKCg==</text>
+        <text encoding="base64">ICAgIC8vIEZpbmQgdGhlIHZpZGVvS2V5IGZyb20gdGhlIHBvc3RXaXRoIHRoZSBpZAogICAgY29uc3QgbWF5YmVSZWFsUG9zdCA9IFBvc3RzLmZpbmRPbmUoeyBfaWQ6IHBvc3RJZCB9KTsKICAgIGNvbnN0IG1heWJlRHJhZnRQb3N0ID0gRHJhZnRQb3N0cy5maW5kT25lKHsgX2lkOiBwb3N0SWQgfSk7CgogICAgLy8gV0FSTklORzogSXQgbWF5IGhhcHBlbiB0aGF0IGEgZHJhZnQgcG9zdCBleGlzdHMgd2l0aCB0aGUgc2FtZSBuYW1lIGlmIGl0IHdhc24ndCBwcm9wZXJseSBkaXNwb3NlZCBvZgogICAgY29uc3QgbWF5YmVQb3N0ID0gbWF5YmVEcmFmdFBvc3QgPz8gbWF5YmVSZWFsUG9zdDsKICAgIGlmICghbWF5YmVQb3N0KSByZXR1cm47CgogICAgY29uc3QgbWF5YmVWaWRlbyA9IGZpbmRWaWRlb0luUG9zdChtYXliZVBvc3QsIHZpZGVvVXVpZCk7CiAgICBpZiAoIW1heWJlVmlkZW8pIHJldHVybjsKCiAgICBpZiAoIWlzT2xkVmlkZW9UeXBlKG1heWJlVmlkZW8pKSByZXR1cm47CgogICAgY29uc3QgeyBtZWRpYWluZm9zIH0gPSByZXNwb25zZTsKICAgIGNvbnN0IHZpZGVvTWV0YSA9IG1lZGlhaW5mb3MubWFwKG1lZGlhaW5mbyA9PiBwYXJzZU1lZGlhaW5mbyhtZWRpYWluZm8pKVswXTsKCiAgICBpZiAodmlkZW9NZXRhPy5tZWRpYVR5cGUgIT09ICd2aWRlbycpIHJldHVybjsKCiAgICBjb25zdCBuZXdWaWRlbzogT2xkVmlkZW9UeXBlID0gewogICAgICAuLi5tYXliZVZpZGVvLAogICAgICBvdXRwdXRWaWRlbzogdmlkZW9NZXRhCiAgICB9OwoKICAgIGNvbnN0IHNldENvbnRlbnRNZXNzYWdlID0gZ2V0TWVzc2FnZUJ5QW1lbmRpbmdWaWRlbyhtYXliZVBvc3QsIHZpZGVvVXVpZCwgbmV3VmlkZW8pOwoKICAgIGlmICghc2V0Q29udGVudE1lc3NhZ2UpIHJldHVybjsKCiAgICAvLyBUaGVvcmV0aWNhbGx5IHNlbmRpbmcgdGhlIHBvc3QgaW4gYm90aCBzaG91bGRuJ3QgY2F1c2UgYW55IGJhZCB0aGluZ3MKICAgIHVwZGF0ZU9uZVBvc3QoUG9zdHMsIHNldENvbnRlbnRNZXNzYWdlLCBtYXliZVBvc3QsIG1heWJlUG9zdCwgdHJ1ZSwgbm9vcFBvc3RVcGRhdGVIb29rKCkpLmNhdGNoKG5vb3ApOwogICAgdXBkYXRlT25lUG9zdChEcmFmdFBvc3RzLCBzZXRDb250ZW50TWVzc2FnZSwgbWF5YmVQb3N0LCBtYXliZVBvc3QsIHRydWUsIG5vb3BQb3N0VXBkYXRlSG9vaygpKS5jYXRjaChub29wKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gb25NZWRpYVByb2Nlc3NFcnJvcihwZW5kaW5nTWVkaWFJZDogc3RyaW5nLCBlcnJvck1lc3NhZ2U6IHN0cmluZywgc3R1ZmY6IHVua25vd25bXSk6IHZvaWQgewogIGxvZ2dlci5lcnJvcignQ291bGQgbm90IHRyaW0gYSB2aWRlbycsIC4uLnN0dWZmKTsKICBNZWRpYVVwbG9hZHNPcHNSYXcuc2V0U3RhdHVzRXJyb3IocGVuZGluZ01lZGlhSWQpLmNhdGNoKG5vb3ApOwp9Cg==</text>
+        <text encoding="base64">ICB1cGRhdGVPbmVQb3N0KERyYWZ0UG9zdHMsIHNldENvbnRlbnRNZXNzYWdlLCBtYXliZVBvc3QsIG1heWJlUG9zdCwgdHJ1ZSwgbm9vcFBvc3RVcGRhdGVIb29rKCkpLmNhdGNoKG5vb3ApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9nZXJyb3InLCBuYW1lLCBvYmopOwo=</text>
+        <text encoding="base64">CiAgY29uc3QgeyBtZWRpYWluZm9zIH0gPSByZXNwb25zZTsKICBjb25zdCB2aWRlb01ldGEgPSBtZWRpYWluZm9zLm1hcChtZWRpYWluZm8gPT4gcGFyc2VNZWRpYWluZm8obWVkaWFpbmZvKSlbMF07CgogIGlmICh2aWRlb01ldGE/Lm1lZGlhVHlwZSAhPT0gJ3ZpZGVvJykgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZWRpYWluZm8gc3VjYycsIHsgdmFsdWUgfSk7Cg==</text>
+        <text encoding="base64">ICAvLyBXQVJOSU5HOiBJdCBtYXkgaGFwcGVuIHRoYXQgYSBkcmFmdCBwb3N0IGV4aXN0cyB3aXRoIHRoZSBzYW1lIG5hbWUgaWYgaXQgd2Fzbid0IHByb3Blcmx5IGRpc3Bvc2VkIG9mCiAgY29uc3QgbWF5YmVQb3N0ID0gbWF5YmVEcmFmdFBvc3QgPz8gbWF5YmVSZWFsUG9zdDsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -569,16 +581,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZWRpYWluZm8gZmFpbCcsIHsgdmFsdWUgfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtYXliZURyYWZ0UG9zdCA9IERyYWZ0UG9zdHMuZmluZE9uZSh7IF9pZDogcG9zdElkIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtdWx0aW1lZGlhaW5mbyBzdWNjJywgeyB2YWx1ZSB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtdWx0aW1lZGlhaW5mbyBmYWlsJywgeyB2YWx1ZSB9KTsK</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBJbmNsdWRlIGNyZWF0b3JJZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cmFuc2NvZGVyIHN1Y2MnLCB7IHZhbHVlIH0pOwo=</text>
+        <text encoding="base64">ICBpZiAoIXVzZXJJZCkgewogICAgdGhpcy5yZWFkeSgpOwogICAgcmV0dXJuIG51bGw7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
