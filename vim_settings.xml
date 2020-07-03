@@ -14,7 +14,6 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>State</entry>
         <entry encoding="base64">UmVhZG9ubHk8</entry>
-        <entry>console</entry>
         <entry>didcatch</entry>
         <entry>type Props</entry>
         <entry>render</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxTdGFydFw+</entry>
         <entry encoding="base64">XDxwb3N0RGF0YVw+</entry>
         <entry>@plana</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>218</entry>
@@ -108,141 +108,91 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" timestamp="1593701895240">
-        <mark key="'" line="33" column="2" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" timestamp="1593765102044" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CollaboratorsModal/ManageCompanyCollaborators.tsx" timestamp="1593763350352">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/activity/server/hooks.js" timestamp="1593700808781" />
-      <file name="/fragment.js" timestamp="1593701137034">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" timestamp="1593763204667">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/index.tsx" timestamp="1593698768881">
-        <mark key="[" line="485" column="12" />
-        <mark key="]" line="488" column="14" />
-        <mark key="^" line="488" column="14" />
-        <mark key="." line="488" column="13" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" timestamp="1593764788108">
+        <mark key="'" line="67" column="2" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/@types/meteor-random-stuff.d.ts" timestamp="1593691857450">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="23" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" timestamp="1593763418242">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="171" column="70" />
+        <mark key="]" line="171" column="76" />
+        <mark key="." line="171" column="75" />
+        <mark key="^" line="171" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/getDownloadableUrl.ts" timestamp="1593701934495">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" timestamp="1593762460404">
+        <mark key="'" line="121" column="35" />
+        <mark key="[" line="65" column="13" />
+        <mark key="]" line="65" column="36" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="24" column="14" />
       </file>
-      <file name="meteor://💻app/packages/mdg:meteor-apm-agent/lib/hijack/async.js" timestamp="1593701462825">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/ListView/PostsGroupProvider.tsx" timestamp="1593761452227" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/node_modules/@types/meteor/mongo.d.ts" timestamp="1593761855690">
+        <mark key="[" line="153" column="23" />
+        <mark key="]" line="153" column="35" />
       </file>
-      <file name="meteor://💻app/packages/check/match.js" timestamp="1593685550687">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/setImages.ts" timestamp="1593764814381">
+        <mark key="[" line="106" column="46" />
+        <mark key="]" line="106" column="46" />
+        <mark key="^" line="106" column="47" />
+        <mark key="." line="106" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" timestamp="1593695410959" />
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediainfoParser.ts" timestamp="1593700553973">
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="58" column="24" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.js" timestamp="1593761438886">
+        <mark key="'" line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/CalendarView/Calendar/components/PostTile/index.tsx" timestamp="1593698739415" />
-      <file name="meteor://💻app/packages/mongo/mongo_driver.js" timestamp="1593700935211">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Views/GridView/index.tsx" timestamp="1593761602878">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/MediaContainer/index.tsx" timestamp="1593701881655">
-        <mark key="'" line="20" column="2" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/context/FiltersContext/filtersContext.ts" timestamp="1593762501563">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Provider/index.tsx" timestamp="1593695452732">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1593765233291">
+        <mark key="'" line="28" column="50" />
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="49" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/server/onRemoveHooks.js" timestamp="1593700817913">
-        <mark key="'" line="134" column="2" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/uploadMediaPipelineWrap.ts" timestamp="1593761392692">
+        <mark key="'" line="153" column="26" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="153" column="37" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593701653193">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" timestamp="1593762783827">
+        <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/Consumer/index.tsx" timestamp="1593695431033">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/modules/both/instagram/fetchPublicInstagramProfileData.ts" timestamp="1593763251426">
+        <mark key="[" line="29" column="70" />
+        <mark key="]" line="29" column="71" />
+        <mark key="^" line="29" column="71" />
+        <mark key="." line="29" column="70" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" timestamp="1593701691981">
-        <mark key="'" line="175" column="2" />
-        <mark key="[" line="107" column="104" />
-        <mark key="]" line="107" column="104" />
-        <mark key="." line="107" column="104" />
-        <mark key="^" line="107" column="15" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" timestamp="1593765000392">
+        <mark key="'" line="1219" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/components/TimeSlot.tsx" timestamp="1593695475755">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="80" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/pages/server/instagram/refreshPage.ts" timestamp="1593763168111">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/hoc/decorateComponentWithProps.tsx" />
-      <jump line="18" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Editor/index.tsx" />
-      <jump line="652" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Editor/index.tsx" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/draft-js-linkify-plugin/index.tsx" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="308" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="16" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="312" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="215" column="33" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="224" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="241" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/IntroTour/index.tsx" />
-      <jump line="23" column="25" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="281" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="83" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="46" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="104" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="96" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="101" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="115" column="27" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="138" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
-      <jump line="192" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="197" column="57" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="55" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="304" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="37" column="14" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="301" column="114" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="33" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="212" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/CompleteLogin/index.tsx" />
-      <jump line="7" column="55" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" />
-      <jump line="196" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/pages/Dashboard/Dashboard.tsx" />
-      <jump line="49" column="65" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" />
-      <jump line="47" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" />
-      <jump line="284" column="4" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/users/server/methods/updateUserPermissions.ts" />
-      <jump line="23" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/WorkspaceUsersNotifications.tsx" />
-      <jump line="65" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="41" column="11" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="98" column="7" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="70" column="37" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="95" column="29" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="93" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="2" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="99" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="10" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="13" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="92" column="52" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/components/Raw/index.tsx" />
-      <jump line="40" column="6" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/WorkspaceSettings/TimeSlotsContainer/TimeSlotList/index.tsx" />
-      <jump line="63" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ManageUsers/Notifications/index.tsx" />
-      <jump line="115" column="41" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/startup/server/aws-startup.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/package.json" />
-      <jump line="29" column="17" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/mediaInfo/processing.ts" />
-      <jump line="168" column="17" filename="$USER_HOME$/Dev/PLANABLE/lambda-media-meta/interfaces/multiMediaInfo/processing.ts" />
-      <jump line="98" column="97" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="290" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
-      <jump line="91" column="61" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="93" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
-      <jump line="298" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
-      <jump line="295" column="64" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
-      <jump line="292" column="42" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
       <jump line="296" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/mediaUploads.ts" />
       <jump line="99" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
       <jump line="48" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaProcessMedia.ts" />
@@ -281,12 +231,74 @@
       <jump line="175" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
       <jump line="20" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/containers/MediaContainer/index.tsx" />
       <jump line="33" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/media/VideoPlayerContainer.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/utils/createMentionEntities.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="79" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="6" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="45" column="23" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="58" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="63" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="33" column="17" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="46" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="48" column="13" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="36" column="75" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="54" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/components/common/SwipeEvents/index.tsx" />
+      <jump line="24" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/utils/createMentionEntities.ts" />
+      <jump line="54" column="19" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/utils/createMentionEntities.ts" />
+      <jump line="1" column="28" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/Comments/utils/createMentionEntities.ts" />
+      <jump line="36" column="21" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/uploadMediaPipelineWrap.ts" />
+      <jump line="74" column="34" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/uploadMediaPipelineWrap.ts" />
+      <jump line="156" column="26" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/utils/media/uploadMediaPipelineWrap.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" />
+      <jump line="111" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" />
+      <jump line="133" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" />
+      <jump line="28" column="9" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" />
+      <jump line="121" column="35" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/shared/utils/getQueryFromFilters.ts" />
+      <jump line="148" column="15" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ExportPosts/index.tsx" />
+      <jump line="210" column="32" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ExportPosts/index.tsx" />
+      <jump line="283" column="101" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/ExportPosts/index.tsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.js" />
+      <jump line="329" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="28" column="20" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="347" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="41" column="36" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="357" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="351" column="49" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="61" column="22" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="149" column="10" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="352" column="55" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="68" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/methodsTypes.d.ts" />
+      <jump line="230" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="152" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/PageSettings/index.tsx" />
+      <jump line="100" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1213" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="164" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="67" column="2" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/server/methods/processVideo.ts" />
+      <jump line="418" column="18" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="1222" column="0" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/Compose.tsx" />
+      <jump line="49" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
+      <jump line="189" column="1" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
+      <jump line="50" column="8" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
+      <jump line="92" column="16" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
+      <jump line="129" column="50" filename="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/mediaLibrary/services/sagas/sagaTrimVideo.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIElmIGlzIAo=</text>
+      <register name="&quot;" type="4">
+        <text>console</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -458,7 +470,7 @@
         <text>kkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>console</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -481,28 +493,25 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>@plana</text>
+        <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzZXRPcmlnaW5hbFZpZGVvTWV0YTogTWV0ZW9yLmJpbmRFbnZpcm9ubWVudCgocGVuZGluZ1VwbG9hZElkOiBzdHJpbmcsIG9yaWdpbmFsVmlkZW9NZXRhOiBWaWRlb01ldGEgfCBHaWZNZXRhKSA9PiB7CiAgICAvLyBIQUNLOiBUaGlzIGRvZXMgbm90IHJlc3BlY3QgdGhlIHR5cGUgZGVmaW5pdGlvbgogICAgTWVkaWFVcGxvYWRzLnVwZGF0ZSgKICAgICAgewogICAgICAgIF9pZDogcGVuZGluZ1VwbG9hZElkCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAkc2V0OiB7CiAgICAgICAgICBvcmlnaW5hbFZpZGVvTWV0YQogICAgICAgIH0KICAgICAgfQogICAgKTsKICB9KSwK</text>
+      <register name="0" type="4">
+        <text>onMediaProcessError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIElmIGlzIAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICcvaW1wb3J0cy9hcGkvc2VydmljZXMvc2VydmVyL2xvZ2dlcic7CmltcG9ydCB7IE1lZGlhVXBsb2Fkc09wc1JhdyB9IGZyb20gJy9pbXBvcnRzL2FwaS9tZWRpYUxpYnJhcnkvbWVkaWFVcGxvYWRzJzsKCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>: {
-      start,
-      end
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gb25NZWRpYVByb2Nlc3NFcnJvcihwZW5kaW5nTWVkaWFJZDogc3RyaW5nLCBlcnJvck1lc3NhZ2U6IHN0cmluZywgc3R1ZmY6IHVua25vd25bXSk6IHZvaWQgewogIGxvZ2dlci5lcnJvcignQ291bGQgbm90IHRyaW0gYSB2aWRlbycsIC4uLnN0dWZmKTsKICBNZWRpYVVwbG9hZHNPcHNSYXcuc2V0U3RhdHVzRXJyb3IocGVuZGluZ01lZGlhSWQpLmNhdGNoKG5vb3ApOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBhbW1lbmRlZE9sZFZpZGUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9nZXJyb3InLCBuYW1lLCBvYmopOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcihlcnJvcik7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZWRpYWluZm8gc3VjYycsIHsgdmFsdWUgfSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -560,16 +569,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgLy8gV2Uga2luZGEgZXhwZWN0IHRoZSB2aWRlbyB0byBhbHJlYWR5IGJlIG9sZCBidXQgd2Ugc3RpbGwgZ290dGEgY2hlY2sgaXQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZWRpYWluZm8gZmFpbCcsIHsgdmFsdWUgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtdWx0aW1lZGlhaW5mbyBzdWNjJywgeyB2YWx1ZSB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPERyYWdnYWJsZSBpbmRleD17aW5kZXh9IGRyYWdnYWJsZUlkPXtwb3N0SWR9IGlzRHJhZ0Rpc2FibGVkPXshY2FuRHJhZ30+CiAgICAgICAgeyhwcm92aWRlZCwgc25hcHNob3QpID0+ICgK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtdWx0aW1lZGlhaW5mbyBmYWlsJywgeyB2YWx1ZSB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9EcmFnZ2FibGU+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cmFuc2NvZGVyIHN1Y2MnLCB7IHZhbHVlIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
@@ -578,9 +587,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>@plana</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>@plana</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmXD4=</last-substitute>
       <last-dir>1</last-dir>
