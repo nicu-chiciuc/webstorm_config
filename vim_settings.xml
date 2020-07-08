@@ -118,26 +118,24 @@
         <mark key="^" line="198" column="42" />
         <mark key="." line="198" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/modals/Onboardings/components/OnboardingInvites/index.tsx" timestamp="1593778092496">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/facebook/target/containers/LazyTargetingPopOver.tsx" timestamp="1594046411111" />
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/api/posts/both/methods/setContentUtils.ts" timestamp="1594045137619">
         <mark key="[" line="92" column="79" />
         <mark key="]" line="92" column="97" />
         <mark key="." line="92" column="96" />
         <mark key="^" line="92" column="97" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1594041320918">
+      <file name="/GraphQL.result.json" timestamp="1594206131466">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/store/ReduxLocalUploads/index.ts" timestamp="1594034084676">
         <mark key="[" line="376" column="24" />
         <mark key="]" line="376" column="65" />
+      </file>
+      <file name="$USER_HOME$/Dev/PLANABLE/planable-mobile/app/screens/Story/StoryProvider.js" timestamp="1594206480980">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="164" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/PLANABLE/planable-app/imports/ui/client/components/compose/composer/ComposerInner/JustCompose.tsx" timestamp="1594046206788">
         <mark key="[" line="37" column="81" />
@@ -309,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -482,7 +480,7 @@
         <text>kkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>...commentUsers,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -511,19 +509,19 @@
         <text>onDeletePost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyB0b2dnbGVUYXJnZXRpbmc9e3RoaXMudG9nZ2xlVGFyZ2V0aW5nfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBzaG93UG9zdFRhcmdldGluZz17c2hvd1Bvc3RUYXJnZXRpbmd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBVcGRhdGUgdGhlIHBvc3Qgd2l0aCBuZXcgdGFyZ2V0aW5nIG9wdGlvbnMKICAgKiBAcGFyYW0gb3B0aW9ucyBOZXcgdGFyZ2V0aW5nIG9wdGlvbnMKICAgKi8KICAvLyBoYW5kbGVQb3N0VGFyZ2V0aW5nID0gKG9wdGlvbnM6IEV4dHJhY3Q8U2V0Q29udGVudE1lc3NhZ2UsIHsgYWN0aW9uVHlwZTogJ2NoYW5nZS1mYWNlYm9vay1wb3N0VGFyZ2V0aW5nJyB9PikgPT4gewogIC8vICAgY29uc3QgeyBwb3N0IH0gPSB0aGlzLnByb3BzOwogIC8vICAgdXBkYXRlUG9zdChwb3N0Ll9pZCwgcG9zdC53b3Jrc3BhY2VJZCwgb3B0aW9ucyk7CiAgLy8gICB0aGlzLnRvZ2dsZVRhcmdldGluZygpOwogIC8vIH07CgogIC8vIHRvZ2dsZVRhcmdldGluZyA9IChldmVudD86IFJlYWN0Lk1vdXNlRXZlbnQpID0+IHsKICAvLyAgIGlmIChldmVudCkgewogIC8vICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogIC8vICAgfQogIC8vICAgdGhpcy5zZXRTdGF0ZShzdGF0ZSA9PiAoeyBzaG93UG9zdFRhcmdldGluZzogIXN0YXRlLnNob3dQb3N0VGFyZ2V0aW5nIH0pKTsKICAvLyB9OwoK</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRVc2VycyA9IFsuLi5jb21tZW50VXNlcnMsIC4uLnB1Ymxpc2hHdWVzdFNvbWV0aGluZ107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHNob3dQb3N0VGFyZ2V0aW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIGxldCBjb21tZW50VXNlcnMgPSBbXTsKICAgIGxldCBtZW50aW9uVXNlcnMgPSBbXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBzaG93UG9zdFRhcmdldGluZzogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRVc2VycyA9IFsuLi5jb21tZW50VXNlcnMsIC4uLmZvcm1hdFVzZXJzXTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -549,16 +547,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlZEF0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1VzZXJzID0gZm9ybWF0TWVudGlvblVzZXJzKHdvcmtzcGFjZVVzZXJzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlZCwK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZm9ybWF0VXNlcnMgPSBmb3JtYXRNZW50aW9uVXNlcnMod29ya3NwYWNlVXNlcnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyB0b2dnbGVUYXJnZXRpbmc6ICgpID0+IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBzaG93UG9zdFRhcmdldGluZzogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICAgIGlmIChwdWJsaWNHdWVzdFVzZXJzLmxlbmd0aCA+IDApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>218</text>
