@@ -5,5 +5,9 @@
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
     </macro>
+    <macro name="just prettier">
+      <action id="ReformatWithPrettierAction" />
+      <action id="SaveDocument" />
+    </macro>
   </component>
 </application>
