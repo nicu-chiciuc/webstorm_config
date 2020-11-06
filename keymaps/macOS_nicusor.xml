@@ -48,7 +48,7 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
-  <action id="Macro.just prettier">
+  <action id="Macro.lint and save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="NextTab">
