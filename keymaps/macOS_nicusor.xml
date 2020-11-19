@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyReferencePopup">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
