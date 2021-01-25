@@ -66,6 +66,10 @@
   </action>
   <action id="ReformatCode" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunToCursor">
+    <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
