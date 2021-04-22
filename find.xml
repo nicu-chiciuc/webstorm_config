@@ -19,5 +19,6 @@
     <mask>*.js</mask>
     <mask>*css</mask>
     <mask>*/cypress/**</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
