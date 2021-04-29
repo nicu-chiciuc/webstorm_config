@@ -5,6 +5,7 @@
       <mapping pattern="temporary" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="ComposeHeader" type="TypeScript" />
+      <mapping ext="config" type="TypeScript" />
       <mapping pattern="ComposeHeader.tsx" type="TypeScript JSX" />
     </extensionMap>
   </component>
