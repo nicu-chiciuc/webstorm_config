@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="temporary" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="ComposeHeader" type="TypeScript" />
       <mapping ext="config" type="TypeScript" />
