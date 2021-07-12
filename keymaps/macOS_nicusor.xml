@@ -79,6 +79,9 @@
   <action id="Tool_External Tools_emacs">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
+  <action id="Tool_External Tools_vim">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
